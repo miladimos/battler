@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Battler"
+run/main_scene="res://game/scenes/splash.tscn"
 config/icon="res://icon.png"
 
 [physics]
