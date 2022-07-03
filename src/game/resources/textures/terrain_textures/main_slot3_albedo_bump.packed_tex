@@ -1,0 +1,8 @@
+{
+	"contains_albedo": true,
+	"resolution": 1024,
+	"src": {
+		"a": "res://game/resources/textures/environment/landscape/rocks0028/Rock028_1K_Displacement.jpg",
+		"rgb": "res://game/resources/textures/environment/landscape/rocks0028/Rock028_1K_Color.jpg"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"contains_albedo": false,
+	"resolution": 1024,
+	"src": {
+		"a": "res://game/resources/textures/environment/landscape/rocks006/Rocks006_2K_Roughness.jpg",
+		"normalmap_flip_y": true,
+		"rgb": "res://game/resources/textures/environment/landscape/rocks006/Rocks006_2K_NormalGL.jpg"
+	}
+}

@@ -28,12 +28,12 @@ _global_script_class_icons={
 
 config/name="Battler"
 config/description="low poly battle royal"
-run/main_scene="res://game/scenes/ui/splash.tscn"
+run/main_scene="res://game/scenes/main.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/zylann.hterrain/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/waterways/plugin.cfg", "res://addons/zylann.hterrain/plugin.cfg", "res://addons/zylann.scatter/plugin.cfg" )
 
 [physics]
 
