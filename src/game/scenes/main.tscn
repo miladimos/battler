@@ -1,4 +1,4 @@
-[gd_scene load_steps=15 format=2]
+[gd_scene load_steps=16 format=2]
 
 [ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
 [ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=2]
@@ -11,6 +11,7 @@
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot1_normal_roughness.packed_tex" type="Texture" id=9]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot0_normal_roughness.packed_tex" type="Texture" id=10]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot0_albedo_bump.packed_tex" type="Texture" id=11]
+[ext_resource path="res://game/scenes/player/player.tscn" type="PackedScene" id=12]
 
 [sub_resource type="ProceduralSky" id=1]
 
@@ -52,5 +53,4 @@ shader_params/u_globalmap_blend_start = null
 shader_params/u_globalmap_blend_distance = null
 shader_params/u_colormap_opacity_per_texture = Plane( 1, 1, 1, 1 )
 
-[node name="Camera" type="Camera" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 37.1167, 0 )
+[node name="player" parent="." instance=ExtResource( 12 )]
