@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=2]
+[gd_scene load_steps=18 format=2]
 
 [ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
 [ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=2]
@@ -12,6 +12,8 @@
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot0_normal_roughness.packed_tex" type="Texture" id=10]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot0_albedo_bump.packed_tex" type="Texture" id=11]
 [ext_resource path="res://game/scenes/player/player.tscn" type="PackedScene" id=12]
+[ext_resource path="res://game/scenes/player/weapon.tscn" type="PackedScene" id=13]
+[ext_resource path="res://game/scripts/weapon/shotgun.gd" type="Script" id=14]
 
 [sub_resource type="ProceduralSky" id=1]
 
@@ -55,4 +57,20 @@ shader_params/u_globalmap_blend_distance = null
 shader_params/u_colormap_opacity_per_texture = Plane( 1, 1, 1, 1 )
 
 [node name="player" parent="." instance=ExtResource( 12 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.33356, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.194937, 2.14206, 1.25598 )
+
+[node name="weapon" parent="player" instance=ExtResource( 13 )]
+script = ExtResource( 14 )
+fire_rate = 1.0
+clip_ammoo_size = 2
+
+[node name="ui" type="Control" parent="."]
+margin_right = 1023.0
+margin_bottom = 524.0
+
+[node name="label" type="Label" parent="ui"]
+margin_left = 921.0
+margin_top = 553.0
+margin_right = 1025.0
+margin_bottom = 600.0
+text = "0/0"
