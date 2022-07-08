@@ -26,13 +26,14 @@ mode = 0
 textures = [ [ ExtResource( 11 ), ExtResource( 8 ), ExtResource( 4 ), ExtResource( 6 ) ], [ ExtResource( 10 ), ExtResource( 9 ), ExtResource( 5 ), ExtResource( 7 ) ] ]
 
 [node name="MainScene" type="Spatial"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.370512, 0 )
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource( 2 )
 
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 
-[node name="HTerrain" type="Spatial" parent="."]
+[node name="ground" type="Spatial" parent="."]
 script = ExtResource( 1 )
 centered = true
 _terrain_data = ExtResource( 3 )

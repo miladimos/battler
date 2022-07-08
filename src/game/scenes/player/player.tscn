@@ -9,7 +9,6 @@ mid_height = 3.0
 height = 3.0
 
 [sub_resource type="CylinderShape" id=3]
-radius = 2.0
 
 [node name="player" type="KinematicBody"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.2771, 0 )
@@ -25,11 +24,11 @@ transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0
 shape = SubResource( 2 )
 
 [node name="foot_collision" type="CollisionShape" parent="."]
-transform = Transform( 1, 0, 0, 0, -6.96617e-09, -0.159368, 0, 1, -4.37114e-08, 0, -2.19347, -0.00873899 )
+transform = Transform( 1, 0, 0, 0, -6.96617e-09, -0.159368, 0, 1, -4.37114e-08, 0, -2.08898, -0.00873899 )
 shape = SubResource( 3 )
 
 [node name="head" type="Spatial" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.74403, 0 )
 
-[node name="Camera" type="Camera" parent="head"]
+[node name="camera" type="Camera" parent="head"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0943336, -0.037734 )
