@@ -55,3 +55,4 @@ shader_params/u_globalmap_blend_distance = null
 shader_params/u_colormap_opacity_per_texture = Plane( 1, 1, 1, 1 )
 
 [node name="player" parent="." instance=ExtResource( 12 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.33356, 0 )

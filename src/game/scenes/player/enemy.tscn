@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="SphereMesh" id=1]
+
+[sub_resource type="SphereShape" id=2]
+
+[node name="enemy" type="KinematicBody" groups=["enemies"]]
+
+[node name="enemy_body" type="MeshInstance" parent="."]
+mesh = SubResource( 1 )
+material/0 = null
+
+[node name="enemy_body_collision" type="CollisionShape" parent="."]
+shape = SubResource( 2 )

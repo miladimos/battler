@@ -32,3 +32,8 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.74403, 0 )
 
 [node name="camera" type="Camera" parent="head"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0943336, -0.037734 )
+
+[node name="RayCast" type="RayCast" parent="head/camera"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -2.83836, 0.037734 )
+enabled = true
+cast_to = Vector3( 0, 0, -100 )

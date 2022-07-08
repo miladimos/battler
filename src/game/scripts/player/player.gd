@@ -12,6 +12,7 @@ export var mouse_sensitivity = 0.1
 onready var head = $head
 onready var camera = $head/camera
 
+
 func _ready():
 	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
@@ -53,4 +54,3 @@ func _physics_process(delta):
 		
 	volecity = move_and_slide(volecity, Vector3.UP)		
 		
-
