@@ -11,9 +11,8 @@ var current_ammo = 0
 var can_fire = true
 var reloading = false
  
-onready var reycast = $head/camera/RayCast
+onready var raycast = $"/root/MainScene/player/weapon"
 onready var ammoo_label = $"/root/MainScene/ui/label"
-
 
 func _ready():
 	current_ammo = clip_ammoo_size
@@ -37,27 +36,27 @@ func _process(delta):
 		
 func _physics_process(delta):
 	pass
-	
-	
-func kill_enemy():
-	if reycast.is_colliding():
-		var collider = reycast.get_collider()
-		if collider.is_in_group("enemies"):
-			collider.queue_free()
-			print("Killed" + collider.name)
+
 
 func fire():
-	print("Fire weapon")
+	print("Fired weapon")
 	can_fire = false
-	yield(get_tree().create_timer(fire_rate), "timeout")
 	current_ammo -= 1
+	#kill_enemy()
+	yield(get_tree().create_timer(fire_rate), "timeout")
 	can_fire = true
 
 func realoding():
 	print("reloading ...")
 	reloading = true
-	#kill_enemy()
 	yield(get_tree().create_timer(reload_rate), "timeout")	
 	current_ammo = clip_ammoo_size
 	reloading = false
 	print("reloading completed ...")	
+
+func kill_enemy():
+	if raycast.is_colliding():
+		var collider = raycast.get_collider()
+		if collider.is_in_group("enemies"):
+			collider.queue_free()
+			print("Killed" + collider.name)
