@@ -1,4 +1,4 @@
-[gd_scene load_steps=20 format=2]
+[gd_scene load_steps=19 format=2]
 
 [ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
 [ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=2]
@@ -11,9 +11,8 @@
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot1_normal_roughness.packed_tex" type="Texture" id=9]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot3_normal_roughness.packed_tex" type="Texture" id=10]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot1_albedo_bump.packed_tex" type="Texture" id=11]
-[ext_resource path="res://game/scenes/player/player.tscn" type="PackedScene" id=12]
+[ext_resource path="res://game/Levels/Main/L_Main.gd" type="Script" id=12]
 [ext_resource path="res://game/scenes/player/weapon.tscn" type="PackedScene" id=13]
-[ext_resource path="res://game/scripts/weapon/shotgun.gd" type="Script" id=14]
 [ext_resource path="res://game/scenes/player/enemy.tscn" type="PackedScene" id=15]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot2_normal_roughness.packed_tex" type="Texture" id=16]
 
@@ -31,11 +30,17 @@ textures = [ [ ExtResource( 6 ), ExtResource( 11 ), ExtResource( 7 ), ExtResourc
 
 [node name="MainScene" type="Spatial"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.370512, 0 )
+script = ExtResource( 12 )
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
 environment = SubResource( 2 )
 
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
+
+[node name="Player" parent="." instance=ExtResource( 4 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.65275, 0 )
+
+[node name="weapon" parent="Player" instance=ExtResource( 13 )]
 
 [node name="ground" type="Spatial" parent="."]
 script = ExtResource( 1 )
@@ -45,29 +50,15 @@ chunk_size = 32
 collision_enabled = true
 collision_layer = 1
 collision_mask = 1
-shader_type = "Classic4"
+shader_type = "Classic4Lite"
 custom_shader = null
 custom_globalmap_shader = null
 texture_set = SubResource( 3 )
 render_layers = 1
-shader_params/u_ground_uv_scale_per_texture = Plane( 20, 20, 20, 20 )
+shader_params/u_ground_uv_scale = 20
 shader_params/u_depth_blending = true
 shader_params/u_triplanar = false
 shader_params/u_tile_reduction = Plane( 1, 1, 1, 1 )
-shader_params/u_globalmap_blend_start = null
-shader_params/u_globalmap_blend_distance = null
-shader_params/u_colormap_opacity_per_texture = Plane( 1, 1, 1, 1 )
-
-[node name="player" parent="." instance=ExtResource( 12 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.194937, 2.14206, 1.25598 )
-visible = false
-
-[node name="weapon" parent="player" instance=ExtResource( 13 )]
-script = ExtResource( 14 )
-fire_rate = 1.0
-clip_ammoo_size = null
-reload_rate = null
-fire_range = null
 
 [node name="ui" type="Control" parent="."]
 margin_right = 1023.0
@@ -82,6 +73,3 @@ text = "0/0"
 
 [node name="enemy" parent="." instance=ExtResource( 15 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.11119, -13.4699 )
-
-[node name="Player" parent="." instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.194937, 2.96495, 1.25598 )
