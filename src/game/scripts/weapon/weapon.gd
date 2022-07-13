@@ -31,7 +31,7 @@ func _process(delta):
 		elif not reloading:
 			realoding()				
 	
-	if Input.is_action_just_pressed("player_realoding") and not reloading:
+	if Input.is_action_just_pressed("player_reloading") and not reloading:
 		realoding()
 		
 func _physics_process(delta):

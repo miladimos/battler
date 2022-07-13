@@ -38,7 +38,7 @@ environment = SubResource( 2 )
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 
 [node name="Player" parent="." instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.65275, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.65402, 3.17107, 0 )
 
 [node name="weapon" parent="Player" instance=ExtResource( 13 )]
 
