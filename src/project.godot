@@ -22,7 +22,7 @@ _global_script_classes=[ {
 "base": "KinematicBody",
 "class": "MovementController",
 "language": "GDScript",
-"path": "res://game/Player/MovementController.gd"
+"path": "res://game/scenes/player/MovementController.gd"
 }, {
 "base": "Node",
 "class": "Weapon",

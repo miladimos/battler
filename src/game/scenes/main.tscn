@@ -3,7 +3,7 @@
 [ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
 [ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=2]
 [ext_resource path="res://game/resources/addons/t_data/data.hterrain" type="Resource" id=3]
-[ext_resource path="res://game/Player/Player.tscn" type="PackedScene" id=4]
+[ext_resource path="res://game/scenes/player/Player.tscn" type="PackedScene" id=4]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot3_albedo_bump.packed_tex" type="Texture" id=5]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot0_albedo_bump.packed_tex" type="Texture" id=6]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot2_albedo_bump.packed_tex" type="Texture" id=7]
@@ -38,7 +38,7 @@ environment = SubResource( 2 )
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 
 [node name="Player" parent="." instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.65402, 3.17107, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -35.7437, 6.78244, 0 )
 
 [node name="weapon" parent="Player" instance=ExtResource( 13 )]
 
@@ -72,4 +72,4 @@ margin_bottom = 600.0
 text = "0/0"
 
 [node name="enemy" parent="." instance=ExtResource( 15 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.11119, -13.4699 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -38.1372, 8.60353, 2.17417 )
