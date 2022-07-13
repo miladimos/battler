@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh"
+
+[deps]
+
+files=[ "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh" ]
+
+source_file="res://game/resources/holidaykit/Models/OBJ format/sled.obj"
+dest_files=[ "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh", "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

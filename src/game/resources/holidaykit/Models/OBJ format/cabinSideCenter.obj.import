@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinSideCenter.obj-65d99eeb6e314f19cc348b31e8ed2dd6.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinSideCenter.obj-65d99eeb6e314f19cc348b31e8ed2dd6.mesh" ]
+
+source_file="res://game/resources/holidaykit/Models/OBJ format/cabinSideCenter.obj"
+dest_files=[ "res://.import/cabinSideCenter.obj-65d99eeb6e314f19cc348b31e8ed2dd6.mesh", "res://.import/cabinSideCenter.obj-65d99eeb6e314f19cc348b31e8ed2dd6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
