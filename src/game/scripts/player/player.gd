@@ -1,13 +1,13 @@
 extends KinematicBody
 
-var volecity = Vector3()
+var volecity: Vector3 = Vector3()
 var camera_x_rotation = 0
 
 export var speed = 20
 export var acceleration = 5
 export var jump_power = 30
-export var gravity = 0.98
-export var mouse_sensitivity = 0.1
+export var gravity: float = 0.98
+export var mouse_sensitivity: float = 0.1
 
 onready var head = $head
 onready var camera = $head/camera
@@ -52,3 +52,10 @@ func _physics_process(delta):
 		
 	volecity = move_and_slide(volecity, Vector3.UP)		
 		
+		
+func apply_gravity():
+	volecity.y -= gravity
+		
+func jump():
+	if Input.is_action_just_pressed("player_jump") and volecity.y> jump_power/2:
+		volecity.y = jump_power

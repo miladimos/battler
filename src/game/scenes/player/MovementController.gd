@@ -2,7 +2,7 @@ extends KinematicBody
 class_name MovementController
 
 
-export var gravity_multiplier := 3.0
+export(float) var gravity_multiplier := 3.0
 export var speed := 10
 export var acceleration := 8
 export var deceleration := 10
@@ -22,8 +22,8 @@ onready var gravity = (ProjectSettings.get_setting("physics/3d/default_gravity")
 
 # Called every physics tick. 'delta' is constant
 func _physics_process(delta) -> void:
-	input_axis = Input.get_vector("move_back", "move_forward",
-			"move_left", "move_right")
+	input_axis = Input.get_vector("player_move_back", "player_move_forward",
+			"player_move_left", "player_move_right")
 	
 	direction_input()
 	
@@ -34,7 +34,7 @@ func _physics_process(delta) -> void:
 		if velocity.y < 0:
 			velocity.y = 0
 		
-		if Input.is_action_just_pressed("jump"):
+		if Input.is_action_just_pressed("player_jump"):
 			snap = Vector3.ZERO
 			velocity.y = jump_height
 	else:
