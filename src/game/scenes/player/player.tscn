@@ -1,8 +1,9 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://game/scenes/player/Sprint.gd" type="Script" id=1]
 [ext_resource path="res://game/scenes/player/MovementController.tscn" type="PackedScene" id=2]
 [ext_resource path="res://game/scenes/player/Head.tscn" type="PackedScene" id=3]
+[ext_resource path="res://game/scenes/ui/game/crosshair.tscn" type="PackedScene" id=4]
 
 [node name="player" instance=ExtResource( 2 )]
 
@@ -10,6 +11,8 @@
 transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0.202627, 0 )
 
 [node name="Head" parent="." index="1" instance=ExtResource( 3 )]
+
+[node name="crosshair" parent="Head" index="1" instance=ExtResource( 4 )]
 
 [node name="Sprint" type="Node" parent="." index="2"]
 script = ExtResource( 1 )

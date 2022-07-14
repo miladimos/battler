@@ -54,6 +54,12 @@ shader_params/u_depth_blending = true
 shader_params/u_triplanar = false
 shader_params/u_tile_reduction = Plane( 1, 1, 1, 1 )
 
+[node name="player" parent="." instance=ExtResource( 4 )]
+transform = Transform( 0.387113, 0, 0.922032, 0, 1, 0, -0.922032, 0, 0.387113, -5.03529, 41.6231, 0.141863 )
+
+[node name="enemy" parent="." instance=ExtResource( 15 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -38.1372, 8.60353, 2.17417 )
+
 [node name="ui" type="Control" parent="."]
 margin_right = 1023.0
 margin_bottom = 524.0
@@ -64,9 +70,3 @@ margin_top = 553.0
 margin_right = 1025.0
 margin_bottom = 600.0
 text = "0/0"
-
-[node name="enemy" parent="." instance=ExtResource( 15 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -38.1372, 8.60353, 2.17417 )
-
-[node name="player" parent="." instance=ExtResource( 4 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 9.25234, 0 )
