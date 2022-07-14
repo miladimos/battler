@@ -2,14 +2,14 @@ extends Node
 
 class_name Weapon
 
-export var fire_rate = 0.5
-export var clip_ammoo_size = 5
-export var reload_rate = 1
-export var fire_range = 20
+export(float) var fire_rate = 0.5
+export(int) var clip_ammoo_size = 5
+export(float) var reload_rate = 1.0
+export(float) var fire_range = 20.0
 
-var current_ammo = 0
-var can_fire = true
-var reloading = false
+var current_ammo: int = 0
+var can_fire: bool = true
+var reloading: bool = false
  
 onready var raycast = $"/root/MainScene/player/weapon"
 onready var ammoo_label = $"/root/MainScene/ui/label"
@@ -53,6 +53,12 @@ func realoding():
 	current_ammo = clip_ammoo_size
 	reloading = false
 	print("reloading completed ...")	
+
+func switch():
+	pass
+
+func show_ammo_status_hud():
+	pass
 
 func kill_enemy():
 	if raycast.is_colliding():

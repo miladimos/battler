@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treeLarge.obj-452e54a684d4c85fe3dab261b6f15d87.mesh"
+
+[deps]
+
+files=[ "res://.import/treeLarge.obj-452e54a684d4c85fe3dab261b6f15d87.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/treeLarge.obj"
+dest_files=[ "res://.import/treeLarge.obj-452e54a684d4c85fe3dab261b6f15d87.mesh", "res://.import/treeLarge.obj-452e54a684d4c85fe3dab261b6f15d87.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trainTender.obj-46e85262679cda84fa71ada69b54c89f.mesh"
+
+[deps]
+
+files=[ "res://.import/trainTender.obj-46e85262679cda84fa71ada69b54c89f.mesh" ]
+
+source_file="res://game/resources/holidaykit/Models/OBJ format/trainTender.obj"
+dest_files=[ "res://.import/trainTender.obj-46e85262679cda84fa71ada69b54c89f.mesh", "res://.import/trainTender.obj-46e85262679cda84fa71ada69b54c89f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

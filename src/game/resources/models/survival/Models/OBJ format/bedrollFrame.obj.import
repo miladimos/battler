@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh"
+
+[deps]
+
+files=[ "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/bedrollFrame.obj"
+dest_files=[ "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh", "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

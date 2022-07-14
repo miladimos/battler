@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinRoofCenter.obj-a9c98d59118cd7407924c7faf4473d49.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinRoofCenter.obj-a9c98d59118cd7407924c7faf4473d49.mesh" ]
+
+source_file="res://game/resources/holidaykit/Models/OBJ format/cabinRoofCenter.obj"
+dest_files=[ "res://.import/cabinRoofCenter.obj-a9c98d59118cd7407924c7faf4473d49.mesh", "res://.import/cabinRoofCenter.obj-a9c98d59118cd7407924c7faf4473d49.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

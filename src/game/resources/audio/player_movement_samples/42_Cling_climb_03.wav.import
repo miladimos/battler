@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/42_Cling_climb_03.wav-37c7566f3c4a9007661fb565ec9d88e7.sample"
+
+[deps]
+
+source_file="res://game/resources/audio/player_movement_samples/42_Cling_climb_03.wav"
+dest_files=[ "res://.import/42_Cling_climb_03.wav-37c7566f3c4a9007661fb565ec9d88e7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

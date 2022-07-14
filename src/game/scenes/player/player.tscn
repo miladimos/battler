@@ -3,7 +3,7 @@
 [ext_resource path="res://game/scenes/player/Sprint.gd" type="Script" id=1]
 [ext_resource path="res://game/scenes/player/MovementController.tscn" type="PackedScene" id=2]
 [ext_resource path="res://game/scenes/player/Head.tscn" type="PackedScene" id=3]
-[ext_resource path="res://game/scenes/ui/game/crosshair.tscn" type="PackedScene" id=4]
+[ext_resource path="res://game/scenes/ui/game/hud/crosshair.tscn" type="PackedScene" id=4]
 
 [node name="player" instance=ExtResource( 2 )]
 

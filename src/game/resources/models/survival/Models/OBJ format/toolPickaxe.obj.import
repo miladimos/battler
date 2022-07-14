@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/toolPickaxe.obj-1b6820a24d68a36a9b4c3679b79d21fa.mesh"
+
+[deps]
+
+files=[ "res://.import/toolPickaxe.obj-1b6820a24d68a36a9b4c3679b79d21fa.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/toolPickaxe.obj"
+dest_files=[ "res://.import/toolPickaxe.obj-1b6820a24d68a36a9b4c3679b79d21fa.mesh", "res://.import/toolPickaxe.obj-1b6820a24d68a36a9b4c3679b79d21fa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

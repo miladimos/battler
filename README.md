@@ -3,13 +3,25 @@
 all used assets is free.
 
 todo:
-add simple weapon 
+[] - add simple weapon 
 
-add tps 
+[] - add tps 
 
-add switch between fps and tps
+[] - add switch between fps and tps
 
-add switch weapon
+[] - add switch weapon
+ 
+[] - add grenades
 
-add grenades
+[] - design advance hud 
+[] - design advance ui menu
 
+
+
+server:
+
+authentication:
+[] - login
+[] - register
+[] - forgot password
+[] - add player achievements
