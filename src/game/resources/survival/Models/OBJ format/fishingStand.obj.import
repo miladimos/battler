@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh"
+
+[deps]
+
+files=[ "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/fishingStand.obj"
+dest_files=[ "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh", "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

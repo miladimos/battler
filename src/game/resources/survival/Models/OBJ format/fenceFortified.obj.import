@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceFortified.obj-195c9b0b79e59958cac33b1078a3a92a.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceFortified.obj-195c9b0b79e59958cac33b1078a3a92a.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/fenceFortified.obj"
+dest_files=[ "res://.import/fenceFortified.obj-195c9b0b79e59958cac33b1078a3a92a.mesh", "res://.import/fenceFortified.obj-195c9b0b79e59958cac33b1078a3a92a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

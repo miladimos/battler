@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Low_Poly_City_Cars.obj-20f0754427fef1b2b6ff8ccf02dda4ac.mesh"
+
+[deps]
+
+files=[ "res://.import/Low_Poly_City_Cars.obj-20f0754427fef1b2b6ff8ccf02dda4ac.mesh" ]
+
+source_file="res://game/resources/models/vehicle/car/low_poly_cars_set/Low_Poly_City_Cars.obj"
+dest_files=[ "res://.import/Low_Poly_City_Cars.obj-20f0754427fef1b2b6ff8ccf02dda4ac.mesh", "res://.import/Low_Poly_City_Cars.obj-20f0754427fef1b2b6ff8ccf02dda4ac.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

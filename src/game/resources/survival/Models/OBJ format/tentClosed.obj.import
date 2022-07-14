@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tentClosed.obj-e13485f742a3fed3efc7bbaceecd7b46.mesh"
+
+[deps]
+
+files=[ "res://.import/tentClosed.obj-e13485f742a3fed3efc7bbaceecd7b46.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/tentClosed.obj"
+dest_files=[ "res://.import/tentClosed.obj-e13485f742a3fed3efc7bbaceecd7b46.mesh", "res://.import/tentClosed.obj-e13485f742a3fed3efc7bbaceecd7b46.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

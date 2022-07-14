@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/workbenchAnvil.obj-e4ec55c84e6bba0d52dec2f41fb3441d.mesh"
+
+[deps]
+
+files=[ "res://.import/workbenchAnvil.obj-e4ec55c84e6bba0d52dec2f41fb3441d.mesh" ]
+
+source_file="res://game/resources/survival/Models/OBJ format/workbenchAnvil.obj"
+dest_files=[ "res://.import/workbenchAnvil.obj-e4ec55c84e6bba0d52dec2f41fb3441d.mesh", "res://.import/workbenchAnvil.obj-e4ec55c84e6bba0d52dec2f41fb3441d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
