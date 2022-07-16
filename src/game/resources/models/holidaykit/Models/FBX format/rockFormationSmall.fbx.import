@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFormationSmall.fbx-19dfc1aba9dcbc34e14f33a69b5ec4b8.scn"
+path="res://.import/rockFormationSmall.fbx-0be985b8b9384594848111494a56a354.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/rockFormationSmall.fbx"
-dest_files=[ "res://.import/rockFormationSmall.fbx-19dfc1aba9dcbc34e14f33a69b5ec4b8.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/rockFormationSmall.fbx"
+dest_files=[ "res://.import/rockFormationSmall.fbx-0be985b8b9384594848111494a56a354.scn" ]
 
 [params]
 

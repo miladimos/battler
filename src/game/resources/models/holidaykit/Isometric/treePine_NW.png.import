@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/treePine_NW.png-66f1257489e5ad1b867a8da01e707882.stex"
+path="res://.import/treePine_NW.png-c784b17bf00b8b5b7f404ebdf60089b7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/treePine_NW.png"
-dest_files=[ "res://.import/treePine_NW.png-66f1257489e5ad1b867a8da01e707882.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/treePine_NW.png"
+dest_files=[ "res://.import/treePine_NW.png-c784b17bf00b8b5b7f404ebdf60089b7.stex" ]
 
 [params]
 

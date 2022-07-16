@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/presentRound.obj-72f4c686e55c01c527522d5d348418db.mesh"
+path="res://.import/presentRound.obj-78554faf635b7f95dc507adc4c12f352.mesh"
 
 [deps]
 
-files=[ "res://.import/presentRound.obj-72f4c686e55c01c527522d5d348418db.mesh" ]
+files=[ "res://.import/presentRound.obj-78554faf635b7f95dc507adc4c12f352.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/presentRound.obj"
-dest_files=[ "res://.import/presentRound.obj-72f4c686e55c01c527522d5d348418db.mesh", "res://.import/presentRound.obj-72f4c686e55c01c527522d5d348418db.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/presentRound.obj"
+dest_files=[ "res://.import/presentRound.obj-78554faf635b7f95dc507adc4c12f352.mesh", "res://.import/presentRound.obj-78554faf635b7f95dc507adc4c12f352.mesh" ]
 
 [params]
 

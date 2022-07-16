@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinWallHalf.fbx-1824c4397eb4aaaf646a50696b02c431.scn"
+path="res://.import/cabinWallHalf.fbx-d3721392b3b3f7e97bc4564200a75280.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/cabinWallHalf.fbx"
-dest_files=[ "res://.import/cabinWallHalf.fbx-1824c4397eb4aaaf646a50696b02c431.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/cabinWallHalf.fbx"
+dest_files=[ "res://.import/cabinWallHalf.fbx-d3721392b3b3f7e97bc4564200a75280.scn" ]
 
 [params]
 

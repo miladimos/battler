@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass.glb-fbf94b8667d90fdb89979b3aa163a75b.scn"
+path="res://.import/grass.glb-37fb46e7e317440a8b2043bd0d3237ea.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/grass.glb"
-dest_files=[ "res://.import/grass.glb-fbf94b8667d90fdb89979b3aa163a75b.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/grass.glb"
+dest_files=[ "res://.import/grass.glb-37fb46e7e317440a8b2043bd0d3237ea.scn" ]
 
 [params]
 

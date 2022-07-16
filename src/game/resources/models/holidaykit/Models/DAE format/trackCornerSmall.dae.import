@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackCornerSmall.dae-bff30beb1aa1c2d4b60410c01ab649f1.scn"
+path="res://.import/trackCornerSmall.dae-7eefda3960a20308999f0bc6d2f1c2b3.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/trackCornerSmall.dae"
-dest_files=[ "res://.import/trackCornerSmall.dae-bff30beb1aa1c2d4b60410c01ab649f1.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/trackCornerSmall.dae"
+dest_files=[ "res://.import/trackCornerSmall.dae-7eefda3960a20308999f0bc6d2f1c2b3.scn" ]
 
 [params]
 

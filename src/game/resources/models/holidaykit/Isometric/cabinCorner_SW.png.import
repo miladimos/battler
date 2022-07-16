@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinCorner_SW.png-1e8f57125da059fb91fc654cfa8794e1.stex"
+path="res://.import/cabinCorner_SW.png-8bfc6767cc4096838308cbe8e0263dc8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/cabinCorner_SW.png"
-dest_files=[ "res://.import/cabinCorner_SW.png-1e8f57125da059fb91fc654cfa8794e1.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/cabinCorner_SW.png"
+dest_files=[ "res://.import/cabinCorner_SW.png-8bfc6767cc4096838308cbe8e0263dc8.stex" ]
 
 [params]
 

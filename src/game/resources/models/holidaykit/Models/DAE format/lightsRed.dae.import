@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightsRed.dae-167bee2c74b2e919a449445b20db3384.scn"
+path="res://.import/lightsRed.dae-6f91b1cbfad85dda48ac70a32f2964d7.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/lightsRed.dae"
-dest_files=[ "res://.import/lightsRed.dae-167bee2c74b2e919a449445b20db3384.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/lightsRed.dae"
+dest_files=[ "res://.import/lightsRed.dae-6f91b1cbfad85dda48ac70a32f2964d7.scn" ]
 
 [params]
 

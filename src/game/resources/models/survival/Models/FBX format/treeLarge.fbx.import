@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treeLarge.fbx-adf090e182194c74b5f4e8e9cd5b7e03.scn"
+path="res://.import/treeLarge.fbx-f10b03ffe27720a687a43fb401870eb9.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/treeLarge.fbx"
-dest_files=[ "res://.import/treeLarge.fbx-adf090e182194c74b5f4e8e9cd5b7e03.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/treeLarge.fbx"
+dest_files=[ "res://.import/treeLarge.fbx-f10b03ffe27720a687a43fb401870eb9.scn" ]
 
 [params]
 

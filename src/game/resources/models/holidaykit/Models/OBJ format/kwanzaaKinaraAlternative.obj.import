@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kwanzaaKinaraAlternative.obj-e3ee277c9fae4bf9db3bc063ff5ae07f.mesh"
+path="res://.import/kwanzaaKinaraAlternative.obj-3b4a81f832e8140a9b86ca225dbbc7ab.mesh"
 
 [deps]
 
-files=[ "res://.import/kwanzaaKinaraAlternative.obj-e3ee277c9fae4bf9db3bc063ff5ae07f.mesh" ]
+files=[ "res://.import/kwanzaaKinaraAlternative.obj-3b4a81f832e8140a9b86ca225dbbc7ab.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/kwanzaaKinaraAlternative.obj"
-dest_files=[ "res://.import/kwanzaaKinaraAlternative.obj-e3ee277c9fae4bf9db3bc063ff5ae07f.mesh", "res://.import/kwanzaaKinaraAlternative.obj-e3ee277c9fae4bf9db3bc063ff5ae07f.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/kwanzaaKinaraAlternative.obj"
+dest_files=[ "res://.import/kwanzaaKinaraAlternative.obj-3b4a81f832e8140a9b86ca225dbbc7ab.mesh", "res://.import/kwanzaaKinaraAlternative.obj-3b4a81f832e8140a9b86ca225dbbc7ab.mesh" ]
 
 [params]
 

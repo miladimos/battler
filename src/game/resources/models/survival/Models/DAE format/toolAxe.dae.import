@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolAxe.dae-143800add9745dc45ad213bed1bf8147.scn"
+path="res://.import/toolAxe.dae-80710d7515070579be23d0af9b495e92.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/toolAxe.dae"
-dest_files=[ "res://.import/toolAxe.dae-143800add9745dc45ad213bed1bf8147.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/toolAxe.dae"
+dest_files=[ "res://.import/toolAxe.dae-80710d7515070579be23d0af9b495e92.scn" ]
 
 [params]
 

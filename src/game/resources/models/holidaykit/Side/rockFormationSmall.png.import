@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockFormationSmall.png-0daaf0988bed917c3a3b4ba791ae9e35.stex"
+path="res://.import/rockFormationSmall.png-a12cc670768de9709ce05de3cfdd4152.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/rockFormationSmall.png"
-dest_files=[ "res://.import/rockFormationSmall.png-0daaf0988bed917c3a3b4ba791ae9e35.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/rockFormationSmall.png"
+dest_files=[ "res://.import/rockFormationSmall.png-a12cc670768de9709ce05de3cfdd4152.stex" ]
 
 [params]
 

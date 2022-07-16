@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trackSimpleCornerLarge.png-b7d13af0f2be51edc22b9c72303a9cfe.stex"
+path="res://.import/trackSimpleCornerLarge.png-a22867e807d60b863eb2d704262b73a1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/trackSimpleCornerLarge.png"
-dest_files=[ "res://.import/trackSimpleCornerLarge.png-b7d13af0f2be51edc22b9c72303a9cfe.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/trackSimpleCornerLarge.png"
+dest_files=[ "res://.import/trackSimpleCornerLarge.png-a22867e807d60b863eb2d704262b73a1.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fishingStand.png-c012b55e85403e3f1045f40cc67c5544.stex"
+path="res://.import/fishingStand.png-1cccad73f0eb80bd0838d77b4318ece8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/fishingStand.png"
-dest_files=[ "res://.import/fishingStand.png-c012b55e85403e3f1045f40cc67c5544.stex" ]
+source_file="res://game/resources/models/survival/Previews/fishingStand.png"
+dest_files=[ "res://.import/fishingStand.png-1cccad73f0eb80bd0838d77b4318ece8.stex" ]
 
 [params]
 

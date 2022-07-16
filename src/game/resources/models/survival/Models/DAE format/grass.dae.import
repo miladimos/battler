@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass.dae-c08c3fa7950eb0e95d73bf77fa37ad75.scn"
+path="res://.import/grass.dae-81f937fbc532c100c7e7f249fb760656.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/grass.dae"
-dest_files=[ "res://.import/grass.dae-c08c3fa7950eb0e95d73bf77fa37ad75.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/grass.dae"
+dest_files=[ "res://.import/grass.dae-81f937fbc532c100c7e7f249fb760656.scn" ]
 
 [params]
 

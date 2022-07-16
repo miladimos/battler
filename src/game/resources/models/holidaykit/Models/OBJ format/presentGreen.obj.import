@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/presentGreen.obj-c6dda8c45a1e8979d7a45f7c5ed5390e.mesh"
+path="res://.import/presentGreen.obj-639f9b618784d3bd4ca5acf81d5ac8b2.mesh"
 
 [deps]
 
-files=[ "res://.import/presentGreen.obj-c6dda8c45a1e8979d7a45f7c5ed5390e.mesh" ]
+files=[ "res://.import/presentGreen.obj-639f9b618784d3bd4ca5acf81d5ac8b2.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/presentGreen.obj"
-dest_files=[ "res://.import/presentGreen.obj-c6dda8c45a1e8979d7a45f7c5ed5390e.mesh", "res://.import/presentGreen.obj-c6dda8c45a1e8979d7a45f7c5ed5390e.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/presentGreen.obj"
+dest_files=[ "res://.import/presentGreen.obj-639f9b618784d3bd4ca5acf81d5ac8b2.mesh", "res://.import/presentGreen.obj-639f9b618784d3bd4ca5acf81d5ac8b2.mesh" ]
 
 [params]
 

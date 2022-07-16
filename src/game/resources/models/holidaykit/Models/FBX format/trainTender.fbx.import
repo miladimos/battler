@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainTender.fbx-614d1b4380851f5ebd8b3d7d803e8b77.scn"
+path="res://.import/trainTender.fbx-f8838e4e1de2920949ae28834f232026.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/trainTender.fbx"
-dest_files=[ "res://.import/trainTender.fbx-614d1b4380851f5ebd8b3d7d803e8b77.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/trainTender.fbx"
+dest_files=[ "res://.import/trainTender.fbx-f8838e4e1de2920949ae28834f232026.scn" ]
 
 [params]
 

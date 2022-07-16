@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinRoofCorner.dae-66020637ed2bcd5bde3dea9f9e5e5663.scn"
+path="res://.import/cabinRoofCorner.dae-633982594a75ea616eb39e6664cfe657.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/cabinRoofCorner.dae"
-dest_files=[ "res://.import/cabinRoofCorner.dae-66020637ed2bcd5bde3dea9f9e5e5663.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/cabinRoofCorner.dae"
+dest_files=[ "res://.import/cabinRoofCorner.dae-633982594a75ea616eb39e6664cfe657.scn" ]
 
 [params]
 

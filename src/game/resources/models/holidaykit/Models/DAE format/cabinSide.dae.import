@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinSide.dae-3c22734779ba0e526d03bbca8cd3b3bd.scn"
+path="res://.import/cabinSide.dae-df8cf579ccd8c5956aa0a693c69e44f0.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/cabinSide.dae"
-dest_files=[ "res://.import/cabinSide.dae-3c22734779ba0e526d03bbca8cd3b3bd.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/cabinSide.dae"
+dest_files=[ "res://.import/cabinSide.dae-df8cf579ccd8c5956aa0a693c69e44f0.scn" ]
 
 [params]
 

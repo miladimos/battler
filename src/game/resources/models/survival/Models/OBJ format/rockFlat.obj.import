@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rockFlat.obj-3bfd2889c5b6b76fc935792efbbf9e69.mesh"
+path="res://.import/rockFlat.obj-311b76d9e91dc6e6e3d8eb11d9c8fb29.mesh"
 
 [deps]
 
-files=[ "res://.import/rockFlat.obj-3bfd2889c5b6b76fc935792efbbf9e69.mesh" ]
+files=[ "res://.import/rockFlat.obj-311b76d9e91dc6e6e3d8eb11d9c8fb29.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/rockFlat.obj"
-dest_files=[ "res://.import/rockFlat.obj-3bfd2889c5b6b76fc935792efbbf9e69.mesh", "res://.import/rockFlat.obj-3bfd2889c5b6b76fc935792efbbf9e69.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/rockFlat.obj"
+dest_files=[ "res://.import/rockFlat.obj-311b76d9e91dc6e6e3d8eb11d9c8fb29.mesh", "res://.import/rockFlat.obj-311b76d9e91dc6e6e3d8eb11d9c8fb29.mesh" ]
 
 [params]
 

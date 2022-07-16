@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire.glb-2d150039ec84aae952a7670ed080963c.scn"
+path="res://.import/campfire.glb-6962a046a79d42220c3419c1fcfd33e1.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/campfire.glb"
-dest_files=[ "res://.import/campfire.glb-2d150039ec84aae952a7670ed080963c.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/campfire.glb"
+dest_files=[ "res://.import/campfire.glb-6962a046a79d42220c3419c1fcfd33e1.scn" ]
 
 [params]
 

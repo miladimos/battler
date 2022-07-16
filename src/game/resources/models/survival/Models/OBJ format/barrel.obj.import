@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/barrel.obj-a91334f1f54983799fd31540d86ebc4c.mesh"
+path="res://.import/barrel.obj-393110a39d516ab8020487d8346515c6.mesh"
 
 [deps]
 
-files=[ "res://.import/barrel.obj-a91334f1f54983799fd31540d86ebc4c.mesh" ]
+files=[ "res://.import/barrel.obj-393110a39d516ab8020487d8346515c6.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/barrel.obj"
-dest_files=[ "res://.import/barrel.obj-a91334f1f54983799fd31540d86ebc4c.mesh", "res://.import/barrel.obj-a91334f1f54983799fd31540d86ebc4c.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/barrel.obj"
+dest_files=[ "res://.import/barrel.obj-393110a39d516ab8020487d8346515c6.mesh", "res://.import/barrel.obj-393110a39d516ab8020487d8346515c6.mesh" ]
 
 [params]
 

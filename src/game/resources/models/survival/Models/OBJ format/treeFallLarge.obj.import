@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/treeFallLarge.obj-04bc659d37db03f7eb305510e0346737.mesh"
+path="res://.import/treeFallLarge.obj-748c0575cf33ca9126aa2ae19cebb8a6.mesh"
 
 [deps]
 
-files=[ "res://.import/treeFallLarge.obj-04bc659d37db03f7eb305510e0346737.mesh" ]
+files=[ "res://.import/treeFallLarge.obj-748c0575cf33ca9126aa2ae19cebb8a6.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/treeFallLarge.obj"
-dest_files=[ "res://.import/treeFallLarge.obj-04bc659d37db03f7eb305510e0346737.mesh", "res://.import/treeFallLarge.obj-04bc659d37db03f7eb305510e0346737.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/treeFallLarge.obj"
+dest_files=[ "res://.import/treeFallLarge.obj-748c0575cf33ca9126aa2ae19cebb8a6.mesh", "res://.import/treeFallLarge.obj-748c0575cf33ca9126aa2ae19cebb8a6.mesh" ]
 
 [params]
 

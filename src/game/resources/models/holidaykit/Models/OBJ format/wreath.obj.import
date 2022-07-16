@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/wreath.obj-40de9e79cbb0311d5161e227e6277401.mesh"
+path="res://.import/wreath.obj-1a289ff4317df5f8e48b212283e1b789.mesh"
 
 [deps]
 
-files=[ "res://.import/wreath.obj-40de9e79cbb0311d5161e227e6277401.mesh" ]
+files=[ "res://.import/wreath.obj-1a289ff4317df5f8e48b212283e1b789.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/wreath.obj"
-dest_files=[ "res://.import/wreath.obj-40de9e79cbb0311d5161e227e6277401.mesh", "res://.import/wreath.obj-40de9e79cbb0311d5161e227e6277401.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/wreath.obj"
+dest_files=[ "res://.import/wreath.obj-1a289ff4317df5f8e48b212283e1b789.mesh", "res://.import/wreath.obj-1a289ff4317df5f8e48b212283e1b789.mesh" ]
 
 [params]
 

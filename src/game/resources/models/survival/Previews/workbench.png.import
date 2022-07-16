@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/workbench.png-d71f737d8392fb73a029891dd4d462f3.stex"
+path="res://.import/workbench.png-701db25b0b5abd7dd012076c50ebd060.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/workbench.png"
-dest_files=[ "res://.import/workbench.png-d71f737d8392fb73a029891dd4d462f3.stex" ]
+source_file="res://game/resources/models/survival/Previews/workbench.png"
+dest_files=[ "res://.import/workbench.png-701db25b0b5abd7dd012076c50ebd060.stex" ]
 
 [params]
 

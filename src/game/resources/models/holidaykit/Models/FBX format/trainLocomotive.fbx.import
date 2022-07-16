@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainLocomotive.fbx-549ecfe19eeac6314065e826ede88d45.scn"
+path="res://.import/trainLocomotive.fbx-01983d7275228fc7c4766e42615dc093.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/trainLocomotive.fbx"
-dest_files=[ "res://.import/trainLocomotive.fbx-549ecfe19eeac6314065e826ede88d45.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/trainLocomotive.fbx"
+dest_files=[ "res://.import/trainLocomotive.fbx-01983d7275228fc7c4766e42615dc093.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/lightsMulti.obj-de58fe56e55071b2e89e61867a167c40.mesh"
+path="res://.import/lightsMulti.obj-dc6de9e84266f45b438091327de8dae9.mesh"
 
 [deps]
 
-files=[ "res://.import/lightsMulti.obj-de58fe56e55071b2e89e61867a167c40.mesh" ]
+files=[ "res://.import/lightsMulti.obj-dc6de9e84266f45b438091327de8dae9.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/lightsMulti.obj"
-dest_files=[ "res://.import/lightsMulti.obj-de58fe56e55071b2e89e61867a167c40.mesh", "res://.import/lightsMulti.obj-de58fe56e55071b2e89e61867a167c40.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/lightsMulti.obj"
+dest_files=[ "res://.import/lightsMulti.obj-dc6de9e84266f45b438091327de8dae9.mesh", "res://.import/lightsMulti.obj-dc6de9e84266f45b438091327de8dae9.mesh" ]
 
 [params]
 

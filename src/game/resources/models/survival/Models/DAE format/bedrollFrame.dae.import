@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedrollFrame.dae-30874b4be699ff7cab93e5ec8c479537.scn"
+path="res://.import/bedrollFrame.dae-bf687ffad9dcba33abfc1f5ffcfb0149.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/bedrollFrame.dae"
-dest_files=[ "res://.import/bedrollFrame.dae-30874b4be699ff7cab93e5ec8c479537.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/bedrollFrame.dae"
+dest_files=[ "res://.import/bedrollFrame.dae-bf687ffad9dcba33abfc1f5ffcfb0149.scn" ]
 
 [params]
 

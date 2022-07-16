@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightsMulti.png-281f73b50466378d876f0e9d64c8bffe.stex"
+path="res://.import/lightsMulti.png-b11e21d36397bbd10277e53f410b820b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/lightsMulti.png"
-dest_files=[ "res://.import/lightsMulti.png-281f73b50466378d876f0e9d64c8bffe.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/lightsMulti.png"
+dest_files=[ "res://.import/lightsMulti.png-b11e21d36397bbd10277e53f410b820b.stex" ]
 
 [params]
 

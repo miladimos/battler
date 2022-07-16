@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fishingStand.fbx-cbaf6f98906f80f3e28fdd64d049a1ea.scn"
+path="res://.import/fishingStand.fbx-a80de3324d389e03b4e7ba15b2eb4b1f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/fishingStand.fbx"
-dest_files=[ "res://.import/fishingStand.fbx-cbaf6f98906f80f3e28fdd64d049a1ea.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/fishingStand.fbx"
+dest_files=[ "res://.import/fishingStand.fbx-a80de3324d389e03b4e7ba15b2eb4b1f.scn" ]
 
 [params]
 

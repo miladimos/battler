@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structureRoof.glb-62a5e6434bcdeae088f8ec21a5517bb0.scn"
+path="res://.import/structureRoof.glb-9019ff2fe0c412e5940d594bb650f39a.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/structureRoof.glb"
-dest_files=[ "res://.import/structureRoof.glb-62a5e6434bcdeae088f8ec21a5517bb0.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/structureRoof.glb"
+dest_files=[ "res://.import/structureRoof.glb-9019ff2fe0c412e5940d594bb650f39a.scn" ]
 
 [params]
 

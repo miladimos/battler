@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/structureCloth.obj-72aba6696caccb19ab428f5713990a37.mesh"
+path="res://.import/structureCloth.obj-f478aeb21e5a40642f3665e76b435fef.mesh"
 
 [deps]
 
-files=[ "res://.import/structureCloth.obj-72aba6696caccb19ab428f5713990a37.mesh" ]
+files=[ "res://.import/structureCloth.obj-f478aeb21e5a40642f3665e76b435fef.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/structureCloth.obj"
-dest_files=[ "res://.import/structureCloth.obj-72aba6696caccb19ab428f5713990a37.mesh", "res://.import/structureCloth.obj-72aba6696caccb19ab428f5713990a37.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/structureCloth.obj"
+dest_files=[ "res://.import/structureCloth.obj-f478aeb21e5a40642f3665e76b435fef.mesh", "res://.import/structureCloth.obj-f478aeb21e5a40642f3665e76b435fef.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolAxe.fbx-d663fa1eaad8a5779bc69187822c94ff.scn"
+path="res://.import/toolAxe.fbx-2595c1f2186891951611ff28c382bbee.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/toolAxe.fbx"
-dest_files=[ "res://.import/toolAxe.fbx-d663fa1eaad8a5779bc69187822c94ff.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/toolAxe.fbx"
+dest_files=[ "res://.import/toolAxe.fbx-2595c1f2186891951611ff28c382bbee.scn" ]
 
 [params]
 

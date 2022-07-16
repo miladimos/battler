@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tentClosed.glb-4ace10efb823aaaccd77a27743dc7fe4.scn"
+path="res://.import/tentClosed.glb-5ddab14055498431311c3dd8de0af77f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/tentClosed.glb"
-dest_files=[ "res://.import/tentClosed.glb-4ace10efb823aaaccd77a27743dc7fe4.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/tentClosed.glb"
+dest_files=[ "res://.import/tentClosed.glb-5ddab14055498431311c3dd8de0af77f.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinRoofChimney.fbx-d37eebcd646407687d534d5311c96e94.scn"
+path="res://.import/cabinRoofChimney.fbx-b744755a21d28cebfffe9cd9952ef326.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/cabinRoofChimney.fbx"
-dest_files=[ "res://.import/cabinRoofChimney.fbx-d37eebcd646407687d534d5311c96e94.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/cabinRoofChimney.fbx"
+dest_files=[ "res://.import/cabinRoofChimney.fbx-b744755a21d28cebfffe9cd9952ef326.scn" ]
 
 [params]
 

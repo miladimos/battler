@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trackStraight_NW.png-7f5729021582dbfdbcfb235217668102.stex"
+path="res://.import/trackStraight_NW.png-996ef8dfa186497deba4e3774f2cba82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/trackStraight_NW.png"
-dest_files=[ "res://.import/trackStraight_NW.png-7f5729021582dbfdbcfb235217668102.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/trackStraight_NW.png"
+dest_files=[ "res://.import/trackStraight_NW.png-996ef8dfa186497deba4e3774f2cba82.stex" ]
 
 [params]
 

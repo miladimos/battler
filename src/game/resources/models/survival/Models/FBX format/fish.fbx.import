@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fish.fbx-ca60865bf97a0e64544e855af4161077.scn"
+path="res://.import/fish.fbx-14bd426f4f6518479fe3b28ea36125fc.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/fish.fbx"
-dest_files=[ "res://.import/fish.fbx-ca60865bf97a0e64544e855af4161077.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/fish.fbx"
+dest_files=[ "res://.import/fish.fbx-14bd426f4f6518479fe3b28ea36125fc.scn" ]
 
 [params]
 

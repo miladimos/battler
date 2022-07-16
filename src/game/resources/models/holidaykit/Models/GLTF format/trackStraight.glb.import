@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackStraight.glb-afdecb67d239e1db56c6eb3fba7df5d7.scn"
+path="res://.import/trackStraight.glb-68c0a0e479a6f74819cd80e6fb02dbfb.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/trackStraight.glb"
-dest_files=[ "res://.import/trackStraight.glb-afdecb67d239e1db56c6eb3fba7df5d7.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/trackStraight.glb"
+dest_files=[ "res://.import/trackStraight.glb-68c0a0e479a6f74819cd80e6fb02dbfb.scn" ]
 
 [params]
 

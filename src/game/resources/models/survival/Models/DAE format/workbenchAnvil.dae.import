@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbenchAnvil.dae-a6a4399361fdd82c5e0f9551e71a487b.scn"
+path="res://.import/workbenchAnvil.dae-6a011dddb758ef2db21d3e4893285294.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/workbenchAnvil.dae"
-dest_files=[ "res://.import/workbenchAnvil.dae-a6a4399361fdd82c5e0f9551e71a487b.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/workbenchAnvil.dae"
+dest_files=[ "res://.import/workbenchAnvil.dae-6a011dddb758ef2db21d3e4893285294.scn" ]
 
 [params]
 

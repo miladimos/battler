@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bench.glb-a9e2fc62215276edce88625a239c2d33.scn"
+path="res://.import/bench.glb-c2c93bcfd50148cb4eda1513691bdf73.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/bench.glb"
-dest_files=[ "res://.import/bench.glb-a9e2fc62215276edce88625a239c2d33.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/bench.glb"
+dest_files=[ "res://.import/bench.glb-c2c93bcfd50148cb4eda1513691bdf73.scn" ]
 
 [params]
 

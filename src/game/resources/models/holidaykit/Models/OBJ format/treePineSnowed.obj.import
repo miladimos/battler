@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/treePineSnowed.obj-8a7998aef920c405b3436d332544ba65.mesh"
+path="res://.import/treePineSnowed.obj-8d1018a25e4b4e761b0aa87ee05b73d5.mesh"
 
 [deps]
 
-files=[ "res://.import/treePineSnowed.obj-8a7998aef920c405b3436d332544ba65.mesh" ]
+files=[ "res://.import/treePineSnowed.obj-8d1018a25e4b4e761b0aa87ee05b73d5.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/treePineSnowed.obj"
-dest_files=[ "res://.import/treePineSnowed.obj-8a7998aef920c405b3436d332544ba65.mesh", "res://.import/treePineSnowed.obj-8a7998aef920c405b3436d332544ba65.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/treePineSnowed.obj"
+dest_files=[ "res://.import/treePineSnowed.obj-8d1018a25e4b4e761b0aa87ee05b73d5.mesh", "res://.import/treePineSnowed.obj-8d1018a25e4b4e761b0aa87ee05b73d5.mesh" ]
 
 [params]
 

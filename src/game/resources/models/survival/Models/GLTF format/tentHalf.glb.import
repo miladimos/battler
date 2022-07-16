@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tentHalf.glb-c2975bf8a19590441ef3fa4f230484dc.scn"
+path="res://.import/tentHalf.glb-22e4222b0e004e0ab1bca5b03f21109f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/tentHalf.glb"
-dest_files=[ "res://.import/tentHalf.glb-c2975bf8a19590441ef3fa4f230484dc.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/tentHalf.glb"
+dest_files=[ "res://.import/tentHalf.glb-22e4222b0e004e0ab1bca5b03f21109f.scn" ]
 
 [params]
 

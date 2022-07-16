@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/trainWagonShort.obj-817b2f0b48db9b93b0e57f73442f9d27.mesh"
+path="res://.import/trainWagonShort.obj-e910d1a99aabd0af3954ce10af315610.mesh"
 
 [deps]
 
-files=[ "res://.import/trainWagonShort.obj-817b2f0b48db9b93b0e57f73442f9d27.mesh" ]
+files=[ "res://.import/trainWagonShort.obj-e910d1a99aabd0af3954ce10af315610.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/trainWagonShort.obj"
-dest_files=[ "res://.import/trainWagonShort.obj-817b2f0b48db9b93b0e57f73442f9d27.mesh", "res://.import/trainWagonShort.obj-817b2f0b48db9b93b0e57f73442f9d27.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/trainWagonShort.obj"
+dest_files=[ "res://.import/trainWagonShort.obj-e910d1a99aabd0af3954ce10af315610.mesh", "res://.import/trainWagonShort.obj-e910d1a99aabd0af3954ce10af315610.mesh" ]
 
 [params]
 

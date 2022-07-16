@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grassLarge.glb-a0bc1c06daf94787e9666fddae4f0858.scn"
+path="res://.import/grassLarge.glb-d8963d5e1bdb376ea78ab2b593db14f5.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/grassLarge.glb"
-dest_files=[ "res://.import/grassLarge.glb-a0bc1c06daf94787e9666fddae4f0858.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/grassLarge.glb"
+dest_files=[ "res://.import/grassLarge.glb-d8963d5e1bdb376ea78ab2b593db14f5.scn" ]
 
 [params]
 

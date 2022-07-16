@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinWindowHalf.png-f3c8fbcb2264601c3a1a2a96075bacb9.stex"
+path="res://.import/cabinWindowHalf.png-0f60eeb3bfa045f69190de27ea62e496.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/cabinWindowHalf.png"
-dest_files=[ "res://.import/cabinWindowHalf.png-f3c8fbcb2264601c3a1a2a96075bacb9.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/cabinWindowHalf.png"
+dest_files=[ "res://.import/cabinWindowHalf.png-0f60eeb3bfa045f69190de27ea62e496.stex" ]
 
 [params]
 

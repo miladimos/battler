@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rockFlatGrass.obj-ca71c91dd9b20aa54b2aad4ec8c11890.mesh"
+path="res://.import/rockFlatGrass.obj-941b43d65a8907db87d6795b06ce3c3f.mesh"
 
 [deps]
 
-files=[ "res://.import/rockFlatGrass.obj-ca71c91dd9b20aa54b2aad4ec8c11890.mesh" ]
+files=[ "res://.import/rockFlatGrass.obj-941b43d65a8907db87d6795b06ce3c3f.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/rockFlatGrass.obj"
-dest_files=[ "res://.import/rockFlatGrass.obj-ca71c91dd9b20aa54b2aad4ec8c11890.mesh", "res://.import/rockFlatGrass.obj-ca71c91dd9b20aa54b2aad4ec8c11890.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/rockFlatGrass.obj"
+dest_files=[ "res://.import/rockFlatGrass.obj-941b43d65a8907db87d6795b06ce3c3f.mesh", "res://.import/rockFlatGrass.obj-941b43d65a8907db87d6795b06ce3c3f.mesh" ]
 
 [params]
 

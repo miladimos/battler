@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/candyCane.glb-8e9540358243f84f42d214bb26636510.scn"
+path="res://.import/candyCane.glb-b0679eb4891d946c590a1adaa2bf4a5a.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/candyCane.glb"
-dest_files=[ "res://.import/candyCane.glb-8e9540358243f84f42d214bb26636510.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/candyCane.glb"
+dest_files=[ "res://.import/candyCane.glb-b0679eb4891d946c590a1adaa2bf4a5a.scn" ]
 
 [params]
 

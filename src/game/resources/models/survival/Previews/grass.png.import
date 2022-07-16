@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grass.png-64ca62be98aa7d49dba58f2407015460.stex"
+path="res://.import/grass.png-fb40e70862f3558860575f4b5d31897d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/grass.png"
-dest_files=[ "res://.import/grass.png-64ca62be98aa7d49dba58f2407015460.stex" ]
+source_file="res://game/resources/models/survival/Previews/grass.png"
+dest_files=[ "res://.import/grass.png-fb40e70862f3558860575f4b5d31897d.stex" ]
 
 [params]
 

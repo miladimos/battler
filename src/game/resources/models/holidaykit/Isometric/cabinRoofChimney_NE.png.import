@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinRoofChimney_NE.png-32e8d513fe917d642595aa01de213b81.stex"
+path="res://.import/cabinRoofChimney_NE.png-8be26d8b51615f7323567b65e1ed9360.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/cabinRoofChimney_NE.png"
-dest_files=[ "res://.import/cabinRoofChimney_NE.png-32e8d513fe917d642595aa01de213b81.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/cabinRoofChimney_NE.png"
+dest_files=[ "res://.import/cabinRoofChimney_NE.png-8be26d8b51615f7323567b65e1ed9360.stex" ]
 
 [params]
 

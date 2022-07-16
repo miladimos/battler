@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh"
+path="res://.import/bedrollFrame.obj-5adb5299de894868a3b8084b23d0849e.mesh"
 
 [deps]
 
-files=[ "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh" ]
+files=[ "res://.import/bedrollFrame.obj-5adb5299de894868a3b8084b23d0849e.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/bedrollFrame.obj"
-dest_files=[ "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh", "res://.import/bedrollFrame.obj-0d0255dfe5d4a4ef6c6da4e0a3d4c250.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/bedrollFrame.obj"
+dest_files=[ "res://.import/bedrollFrame.obj-5adb5299de894868a3b8084b23d0849e.mesh", "res://.import/bedrollFrame.obj-5adb5299de894868a3b8084b23d0849e.mesh" ]
 
 [params]
 

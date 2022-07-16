@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinWindow.glb-0176a95dd6bc6d50e50f27cf6df0469d.scn"
+path="res://.import/cabinWindow.glb-d4d5a1f23d0caee5716de3fb819e5361.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/cabinWindow.glb"
-dest_files=[ "res://.import/cabinWindow.glb-0176a95dd6bc6d50e50f27cf6df0469d.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/cabinWindow.glb"
+dest_files=[ "res://.import/cabinWindow.glb-d4d5a1f23d0caee5716de3fb819e5361.scn" ]
 
 [params]
 

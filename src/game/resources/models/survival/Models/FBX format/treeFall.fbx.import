@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treeFall.fbx-2e4b25b335a882be8860bdf291116efe.scn"
+path="res://.import/treeFall.fbx-d502ee7c4e7892cb6a9744ca3e8dbea6.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/treeFall.fbx"
-dest_files=[ "res://.import/treeFall.fbx-2e4b25b335a882be8860bdf291116efe.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/treeFall.fbx"
+dest_files=[ "res://.import/treeFall.fbx-d502ee7c4e7892cb6a9744ca3e8dbea6.scn" ]
 
 [params]
 

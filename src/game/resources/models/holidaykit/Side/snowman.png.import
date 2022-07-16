@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snowman.png-e18d15107cfe58467fa3653794f27dc9.stex"
+path="res://.import/snowman.png-f61a7446e6e36057b71230fb91b0da59.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/snowman.png"
-dest_files=[ "res://.import/snowman.png-e18d15107cfe58467fa3653794f27dc9.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/snowman.png"
+dest_files=[ "res://.import/snowman.png-f61a7446e6e36057b71230fb91b0da59.stex" ]
 
 [params]
 

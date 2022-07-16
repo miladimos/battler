@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bench.fbx-cdb14468d9963cf0260ce9be10543034.scn"
+path="res://.import/bench.fbx-014fc7e950e5fe3c1d75ebc4a47e5fd2.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/bench.fbx"
-dest_files=[ "res://.import/bench.fbx-cdb14468d9963cf0260ce9be10543034.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/bench.fbx"
+dest_files=[ "res://.import/bench.fbx-014fc7e950e5fe3c1d75ebc4a47e5fd2.scn" ]
 
 [params]
 

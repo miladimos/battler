@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlatGrass.fbx-cc38a3bf21426b5edd381067113d982d.scn"
+path="res://.import/rockFlatGrass.fbx-41c90dd15f657e4bfdb14d002038f0f6.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/rockFlatGrass.fbx"
-dest_files=[ "res://.import/rockFlatGrass.fbx-cc38a3bf21426b5edd381067113d982d.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/rockFlatGrass.fbx"
+dest_files=[ "res://.import/rockFlatGrass.fbx-41c90dd15f657e4bfdb14d002038f0f6.scn" ]
 
 [params]
 

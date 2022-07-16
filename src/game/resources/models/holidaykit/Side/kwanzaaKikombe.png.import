@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kwanzaaKikombe.png-f04194e84da09514cfe18d835ae73fe4.stex"
+path="res://.import/kwanzaaKikombe.png-d56514121e46948d7006d1a398daf6d5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/kwanzaaKikombe.png"
-dest_files=[ "res://.import/kwanzaaKikombe.png-f04194e84da09514cfe18d835ae73fe4.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/kwanzaaKikombe.png"
+dest_files=[ "res://.import/kwanzaaKikombe.png-d56514121e46948d7006d1a398daf6d5.stex" ]
 
 [params]
 

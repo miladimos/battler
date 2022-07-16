@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinRoofFlat.fbx-0ce5c88dda964194afab6e1730e23d33.scn"
+path="res://.import/cabinRoofFlat.fbx-3db62093dc1f7a6b36703c740781d1da.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/cabinRoofFlat.fbx"
-dest_files=[ "res://.import/cabinRoofFlat.fbx-0ce5c88dda964194afab6e1730e23d33.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/cabinRoofFlat.fbx"
+dest_files=[ "res://.import/cabinRoofFlat.fbx-3db62093dc1f7a6b36703c740781d1da.scn" ]
 
 [params]
 

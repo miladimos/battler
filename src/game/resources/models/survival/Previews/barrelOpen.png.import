@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/barrelOpen.png-8ec2c7e51c9b144a4b4f73aa2ce0ab42.stex"
+path="res://.import/barrelOpen.png-dc82bbf7c1ae684f1392de576d72255b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/barrelOpen.png"
-dest_files=[ "res://.import/barrelOpen.png-8ec2c7e51c9b144a4b4f73aa2ce0ab42.stex" ]
+source_file="res://game/resources/models/survival/Previews/barrelOpen.png"
+dest_files=[ "res://.import/barrelOpen.png-dc82bbf7c1ae684f1392de576d72255b.stex" ]
 
 [params]
 

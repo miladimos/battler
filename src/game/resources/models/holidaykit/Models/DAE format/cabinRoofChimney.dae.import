@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinRoofChimney.dae-4f83ce3d4d8e4bb364d6c038429673a2.scn"
+path="res://.import/cabinRoofChimney.dae-8a8a7abb8f76298ea52ed6b4cc583166.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/cabinRoofChimney.dae"
-dest_files=[ "res://.import/cabinRoofChimney.dae-4f83ce3d4d8e4bb364d6c038429673a2.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/cabinRoofChimney.dae"
+dest_files=[ "res://.import/cabinRoofChimney.dae-8a8a7abb8f76298ea52ed6b4cc583166.scn" ]
 
 [params]
 

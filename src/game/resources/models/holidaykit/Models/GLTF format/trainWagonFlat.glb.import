@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainWagonFlat.glb-9cf203c7ec950e4a582b1508b1eee16a.scn"
+path="res://.import/trainWagonFlat.glb-2e9289bf14b49aa4f1a0cad39922bc86.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/trainWagonFlat.glb"
-dest_files=[ "res://.import/trainWagonFlat.glb-9cf203c7ec950e4a582b1508b1eee16a.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/trainWagonFlat.glb"
+dest_files=[ "res://.import/trainWagonFlat.glb-2e9289bf14b49aa4f1a0cad39922bc86.scn" ]
 
 [params]
 

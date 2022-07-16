@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snowPatch_SE.png-3d030efdede5a6351c9f3902394bda7d.stex"
+path="res://.import/snowPatch_SE.png-0dcbf777aaee917a1aca96d84705236f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/snowPatch_SE.png"
-dest_files=[ "res://.import/snowPatch_SE.png-3d030efdede5a6351c9f3902394bda7d.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/snowPatch_SE.png"
+dest_files=[ "res://.import/snowPatch_SE.png-0dcbf777aaee917a1aca96d84705236f.stex" ]
 
 [params]
 

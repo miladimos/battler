@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/boxOpen.fbx-67cb47e25b24eb968e29f21e0f0871e1.scn"
+path="res://.import/boxOpen.fbx-00f7467cc4bb2d477db2d952bfeb4ac6.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/boxOpen.fbx"
-dest_files=[ "res://.import/boxOpen.fbx-67cb47e25b24eb968e29f21e0f0871e1.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/boxOpen.fbx"
+dest_files=[ "res://.import/boxOpen.fbx-00f7467cc4bb2d477db2d952bfeb4ac6.scn" ]
 
 [params]
 

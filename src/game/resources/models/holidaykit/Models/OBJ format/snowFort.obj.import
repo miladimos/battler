@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/snowFort.obj-7b9ba089f859b287a3906e2f288b3f19.mesh"
+path="res://.import/snowFort.obj-5ffbff109cfa5c436ff3d8f64f079daf.mesh"
 
 [deps]
 
-files=[ "res://.import/snowFort.obj-7b9ba089f859b287a3906e2f288b3f19.mesh" ]
+files=[ "res://.import/snowFort.obj-5ffbff109cfa5c436ff3d8f64f079daf.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/snowFort.obj"
-dest_files=[ "res://.import/snowFort.obj-7b9ba089f859b287a3906e2f288b3f19.mesh", "res://.import/snowFort.obj-7b9ba089f859b287a3906e2f288b3f19.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/snowFort.obj"
+dest_files=[ "res://.import/snowFort.obj-5ffbff109cfa5c436ff3d8f64f079daf.mesh", "res://.import/snowFort.obj-5ffbff109cfa5c436ff3d8f64f079daf.mesh" ]
 
 [params]
 

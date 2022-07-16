@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tent.fbx-5ca195c1b8b7222b4ee1a82709e516c9.scn"
+path="res://.import/tent.fbx-43858337d977bbf7b35e40ccc938534b.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/tent.fbx"
-dest_files=[ "res://.import/tent.fbx-5ca195c1b8b7222b4ee1a82709e516c9.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/tent.fbx"
+dest_files=[ "res://.import/tent.fbx-43858337d977bbf7b35e40ccc938534b.scn" ]
 
 [params]
 

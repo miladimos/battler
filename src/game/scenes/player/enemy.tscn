@@ -5,6 +5,8 @@
 [sub_resource type="SphereShape" id=2]
 
 [node name="enemy" type="KinematicBody" groups=["enemies"]]
+collision_layer = 5
+collision_mask = 11
 
 [node name="enemy_body" type="MeshInstance" parent="."]
 mesh = SubResource( 1 )

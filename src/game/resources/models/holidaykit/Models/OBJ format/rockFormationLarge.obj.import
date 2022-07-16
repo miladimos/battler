@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rockFormationLarge.obj-9a762d37d9c7737ba6b6908b99a4db6e.mesh"
+path="res://.import/rockFormationLarge.obj-4cfe4e18f222fe1d852b0ae48bf01aa6.mesh"
 
 [deps]
 
-files=[ "res://.import/rockFormationLarge.obj-9a762d37d9c7737ba6b6908b99a4db6e.mesh" ]
+files=[ "res://.import/rockFormationLarge.obj-4cfe4e18f222fe1d852b0ae48bf01aa6.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/rockFormationLarge.obj"
-dest_files=[ "res://.import/rockFormationLarge.obj-9a762d37d9c7737ba6b6908b99a4db6e.mesh", "res://.import/rockFormationLarge.obj-9a762d37d9c7737ba6b6908b99a4db6e.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/rockFormationLarge.obj"
+dest_files=[ "res://.import/rockFormationLarge.obj-4cfe4e18f222fe1d852b0ae48bf01aa6.mesh", "res://.import/rockFormationLarge.obj-4cfe4e18f222fe1d852b0ae48bf01aa6.mesh" ]
 
 [params]
 

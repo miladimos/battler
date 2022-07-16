@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainTender.glb-8b54f693e14cea52afc7d671c81981ad.scn"
+path="res://.import/trainTender.glb-2b005c595427835f65e241ce9b148b4a.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/trainTender.glb"
-dest_files=[ "res://.import/trainTender.glb-8b54f693e14cea52afc7d671c81981ad.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/trainTender.glb"
+dest_files=[ "res://.import/trainTender.glb-2b005c595427835f65e241ce9b148b4a.scn" ]
 
 [params]
 

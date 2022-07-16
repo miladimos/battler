@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cabinWindowLarge.obj-c53fc1fbcdf0e4ac8dd816eb22077ab7.mesh"
+path="res://.import/cabinWindowLarge.obj-e26a899ff32d8be6253a7f9fbd935409.mesh"
 
 [deps]
 
-files=[ "res://.import/cabinWindowLarge.obj-c53fc1fbcdf0e4ac8dd816eb22077ab7.mesh" ]
+files=[ "res://.import/cabinWindowLarge.obj-e26a899ff32d8be6253a7f9fbd935409.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/cabinWindowLarge.obj"
-dest_files=[ "res://.import/cabinWindowLarge.obj-c53fc1fbcdf0e4ac8dd816eb22077ab7.mesh", "res://.import/cabinWindowLarge.obj-c53fc1fbcdf0e4ac8dd816eb22077ab7.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/cabinWindowLarge.obj"
+dest_files=[ "res://.import/cabinWindowLarge.obj-e26a899ff32d8be6253a7f9fbd935409.mesh", "res://.import/cabinWindowLarge.obj-e26a899ff32d8be6253a7f9fbd935409.mesh" ]
 
 [params]
 

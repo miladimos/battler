@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/floor.png-8435a8400aa4d18a5de12d52b09c637a.stex"
+path="res://.import/floor.png-53e580a0587003989ff1cf71440dfa55.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/floor.png"
-dest_files=[ "res://.import/floor.png-8435a8400aa4d18a5de12d52b09c637a.stex" ]
+source_file="res://game/resources/models/survival/Previews/floor.png"
+dest_files=[ "res://.import/floor.png-53e580a0587003989ff1cf71440dfa55.stex" ]
 
 [params]
 

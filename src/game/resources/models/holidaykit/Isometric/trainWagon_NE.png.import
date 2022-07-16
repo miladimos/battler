@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trainWagon_NE.png-692d05f8c1da06d1bc71bc0e20a58ec7.stex"
+path="res://.import/trainWagon_NE.png-45e4502bcca9d1a894bd9abf8564b33e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/trainWagon_NE.png"
-dest_files=[ "res://.import/trainWagon_NE.png-692d05f8c1da06d1bc71bc0e20a58ec7.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/trainWagon_NE.png"
+dest_files=[ "res://.import/trainWagon_NE.png-45e4502bcca9d1a894bd9abf8564b33e.stex" ]
 
 [params]
 

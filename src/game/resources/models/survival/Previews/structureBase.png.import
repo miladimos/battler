@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/structureBase.png-19b87337a771de3d4ed7d9691c303c93.stex"
+path="res://.import/structureBase.png-6e275ca8e8c259f0ac7c656896620efa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/structureBase.png"
-dest_files=[ "res://.import/structureBase.png-19b87337a771de3d4ed7d9691c303c93.stex" ]
+source_file="res://game/resources/models/survival/Previews/structureBase.png"
+dest_files=[ "res://.import/structureBase.png-6e275ca8e8c259f0ac7c656896620efa.stex" ]
 
 [params]
 

@@ -1,0 +1,46 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://game/scenes/ui/fonts/font_en.tres" type="DynamicFont" id=1]
+[ext_resource path="res://game/scenes/ui/game/hud/crosshair.tscn" type="PackedScene" id=2]
+
+[node name="main_hud" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 80.0
+margin_right = 80.0
+
+[node name="background" type="ColorRect" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -115.0
+margin_right = 324.0
+color = Color( 0, 0, 0, 0.686275 )
+
+[node name="health" type="Label" parent="background"]
+margin_left = 176.0
+margin_top = 18.0
+margin_right = 298.0
+margin_bottom = 48.0
+custom_fonts/font = ExtResource( 1 )
+text = "Health 100%"
+
+[node name="pistol" type="Label" parent="background"]
+margin_left = 177.0
+margin_top = 56.0
+margin_right = 308.0
+margin_bottom = 88.0
+custom_fonts/font = ExtResource( 1 )
+text = "Pistol: 10/10"
+
+[node name="display" type="ColorRect" parent="background"]
+margin_top = 1.0
+margin_right = 155.0
+margin_bottom = 113.0
+color = Color( 0, 0, 0, 0.490196 )
+
+[node name="weapon_slot" type="Label" parent="background/display"]
+margin_right = 157.0
+margin_bottom = 112.0
+text = "1"
+
+[node name="crosshair" parent="." instance=ExtResource( 2 )]

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hanukkahDreidel.glb-ab0ffff0659717f8a2f2eb67e6571fac.scn"
+path="res://.import/hanukkahDreidel.glb-a0a38e1d6bba676b8cff03ff69931d5a.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/hanukkahDreidel.glb"
-dest_files=[ "res://.import/hanukkahDreidel.glb-ab0ffff0659717f8a2f2eb67e6571fac.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/hanukkahDreidel.glb"
+dest_files=[ "res://.import/hanukkahDreidel.glb-a0a38e1d6bba676b8cff03ff69931d5a.scn" ]
 
 [params]
 

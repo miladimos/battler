@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fenceFortified.fbx-7fa0eb9fe01079886bb59526dc6029bf.scn"
+path="res://.import/fenceFortified.fbx-b5da080fb554d1a84d68cdcaccf2d263.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/fenceFortified.fbx"
-dest_files=[ "res://.import/fenceFortified.fbx-7fa0eb9fe01079886bb59526dc6029bf.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/fenceFortified.fbx"
+dest_files=[ "res://.import/fenceFortified.fbx-b5da080fb554d1a84d68cdcaccf2d263.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cabinRoofChimney.obj-130b3daac1f27eced084a4513d214ecc.mesh"
+path="res://.import/cabinRoofChimney.obj-c47786fbd596ab72708bcdefdace6463.mesh"
 
 [deps]
 
-files=[ "res://.import/cabinRoofChimney.obj-130b3daac1f27eced084a4513d214ecc.mesh" ]
+files=[ "res://.import/cabinRoofChimney.obj-c47786fbd596ab72708bcdefdace6463.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/cabinRoofChimney.obj"
-dest_files=[ "res://.import/cabinRoofChimney.obj-130b3daac1f27eced084a4513d214ecc.mesh", "res://.import/cabinRoofChimney.obj-130b3daac1f27eced084a4513d214ecc.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/cabinRoofChimney.obj"
+dest_files=[ "res://.import/cabinRoofChimney.obj-c47786fbd596ab72708bcdefdace6463.mesh", "res://.import/cabinRoofChimney.obj-c47786fbd596ab72708bcdefdace6463.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resourceWood.dae-cafb4c5e6c934b9be3fdce2164ac067a.scn"
+path="res://.import/resourceWood.dae-03a1f20c82c1f7a835ea6a4fb76ecea3.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/resourceWood.dae"
-dest_files=[ "res://.import/resourceWood.dae-cafb4c5e6c934b9be3fdce2164ac067a.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/resourceWood.dae"
+dest_files=[ "res://.import/resourceWood.dae-03a1f20c82c1f7a835ea6a4fb76ecea3.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cabinRoofFlat.obj-ee02a483d5e7e0cda05c349c3f6bea77.mesh"
+path="res://.import/cabinRoofFlat.obj-43e95f926998886b8177dbab670122c5.mesh"
 
 [deps]
 
-files=[ "res://.import/cabinRoofFlat.obj-ee02a483d5e7e0cda05c349c3f6bea77.mesh" ]
+files=[ "res://.import/cabinRoofFlat.obj-43e95f926998886b8177dbab670122c5.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/cabinRoofFlat.obj"
-dest_files=[ "res://.import/cabinRoofFlat.obj-ee02a483d5e7e0cda05c349c3f6bea77.mesh", "res://.import/cabinRoofFlat.obj-ee02a483d5e7e0cda05c349c3f6bea77.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/cabinRoofFlat.obj"
+dest_files=[ "res://.import/cabinRoofFlat.obj-43e95f926998886b8177dbab670122c5.mesh", "res://.import/cabinRoofFlat.obj-43e95f926998886b8177dbab670122c5.mesh" ]
 
 [params]
 

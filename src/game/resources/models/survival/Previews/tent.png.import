@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tent.png-62de3639ab4a7f72ff9d0418f0d5d3c5.stex"
+path="res://.import/tent.png-377df374e2bfc14316e572a4c16c6b98.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/tent.png"
-dest_files=[ "res://.import/tent.png-62de3639ab4a7f72ff9d0418f0d5d3c5.stex" ]
+source_file="res://game/resources/models/survival/Previews/tent.png"
+dest_files=[ "res://.import/tent.png-377df374e2bfc14316e572a4c16c6b98.stex" ]
 
 [params]
 

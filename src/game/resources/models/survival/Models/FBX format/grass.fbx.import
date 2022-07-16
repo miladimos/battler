@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grass.fbx-4257cf1e5e45b362c5cf5d453dddf080.scn"
+path="res://.import/grass.fbx-a4f8b2bcce8617bd7f5299c8e8a636d2.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/grass.fbx"
-dest_files=[ "res://.import/grass.fbx-4257cf1e5e45b362c5cf5d453dddf080.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/grass.fbx"
+dest_files=[ "res://.import/grass.fbx-a4f8b2bcce8617bd7f5299c8e8a636d2.scn" ]
 
 [params]
 

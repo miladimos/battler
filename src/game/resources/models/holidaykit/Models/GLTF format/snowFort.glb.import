@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowFort.glb-67628db8dac003dc66294b1bd2a8842f.scn"
+path="res://.import/snowFort.glb-133e3dc09359be5728437eec65ead61e.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/snowFort.glb"
-dest_files=[ "res://.import/snowFort.glb-67628db8dac003dc66294b1bd2a8842f.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/snowFort.glb"
+dest_files=[ "res://.import/snowFort.glb-133e3dc09359be5728437eec65ead61e.scn" ]
 
 [params]
 

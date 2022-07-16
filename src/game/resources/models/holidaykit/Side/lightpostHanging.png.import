@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightpostHanging.png-b877bd4b6f513f26701165a752b2b84d.stex"
+path="res://.import/lightpostHanging.png-cedec1c429a5f212f0623d7571d34c7d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/lightpostHanging.png"
-dest_files=[ "res://.import/lightpostHanging.png-b877bd4b6f513f26701165a752b2b84d.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/lightpostHanging.png"
+dest_files=[ "res://.import/lightpostHanging.png-cedec1c429a5f212f0623d7571d34c7d.stex" ]
 
 [params]
 

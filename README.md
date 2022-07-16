@@ -15,6 +15,10 @@ todo:
 
 [] - design advance hud 
 [] - design advance ui menu
+[] - add localization
+[] - design advance ui menu
+[] - design advance ui menu
+[] - design advance ui menu
 
 
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/campfire.obj-fda7b70e076d3c7f975946271968a7a4.mesh"
+path="res://.import/campfire.obj-aa88a4d29327c61925d43ed421e11fc5.mesh"
 
 [deps]
 
-files=[ "res://.import/campfire.obj-fda7b70e076d3c7f975946271968a7a4.mesh" ]
+files=[ "res://.import/campfire.obj-aa88a4d29327c61925d43ed421e11fc5.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/campfire.obj"
-dest_files=[ "res://.import/campfire.obj-fda7b70e076d3c7f975946271968a7a4.mesh", "res://.import/campfire.obj-fda7b70e076d3c7f975946271968a7a4.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/campfire.obj"
+dest_files=[ "res://.import/campfire.obj-aa88a4d29327c61925d43ed421e11fc5.mesh", "res://.import/campfire.obj-aa88a4d29327c61925d43ed421e11fc5.mesh" ]
 
 [params]
 

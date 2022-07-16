@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/presentRound_SE.png-a33da9dc3d8c0ac0fa9a597901800e26.stex"
+path="res://.import/presentRound_SE.png-ad45629dd0b75e93463ced2f0f9101f6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/presentRound_SE.png"
-dest_files=[ "res://.import/presentRound_SE.png-a33da9dc3d8c0ac0fa9a597901800e26.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/presentRound_SE.png"
+dest_files=[ "res://.import/presentRound_SE.png-ad45629dd0b75e93463ced2f0f9101f6.stex" ]
 
 [params]
 

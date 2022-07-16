@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tent.obj-ebf039e2b84c241f34d0e3a7bc609e79.mesh"
+path="res://.import/tent.obj-69b309fe15d2c32514628158e6a81701.mesh"
 
 [deps]
 
-files=[ "res://.import/tent.obj-ebf039e2b84c241f34d0e3a7bc609e79.mesh" ]
+files=[ "res://.import/tent.obj-69b309fe15d2c32514628158e6a81701.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/tent.obj"
-dest_files=[ "res://.import/tent.obj-ebf039e2b84c241f34d0e3a7bc609e79.mesh", "res://.import/tent.obj-ebf039e2b84c241f34d0e3a7bc609e79.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/tent.obj"
+dest_files=[ "res://.import/tent.obj-69b309fe15d2c32514628158e6a81701.mesh", "res://.import/tent.obj-69b309fe15d2c32514628158e6a81701.mesh" ]
 
 [params]
 

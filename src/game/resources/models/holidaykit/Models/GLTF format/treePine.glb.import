@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treePine.glb-16bbc4b588f391504333f1f573597afb.scn"
+path="res://.import/treePine.glb-e0ee3aba86d617808bea0d2f78e76e8c.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/treePine.glb"
-dest_files=[ "res://.import/treePine.glb-16bbc4b588f391504333f1f573597afb.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/treePine.glb"
+dest_files=[ "res://.import/treePine.glb-e0ee3aba86d617808bea0d2f78e76e8c.scn" ]
 
 [params]
 

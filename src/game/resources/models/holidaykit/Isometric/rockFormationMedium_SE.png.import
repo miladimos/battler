@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockFormationMedium_SE.png-265225ff96e48619efc0296a34017376.stex"
+path="res://.import/rockFormationMedium_SE.png-178e8999b26def7afa116b7d589de554.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/rockFormationMedium_SE.png"
-dest_files=[ "res://.import/rockFormationMedium_SE.png-265225ff96e48619efc0296a34017376.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/rockFormationMedium_SE.png"
+dest_files=[ "res://.import/rockFormationMedium_SE.png-178e8999b26def7afa116b7d589de554.stex" ]
 
 [params]
 

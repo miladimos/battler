@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treeDecorated.fbx-e2c76d9ff68bce5bce7530919eff00d4.scn"
+path="res://.import/treeDecorated.fbx-1335a509a52dd139489ea35370446b30.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/treeDecorated.fbx"
-dest_files=[ "res://.import/treeDecorated.fbx-e2c76d9ff68bce5bce7530919eff00d4.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/treeDecorated.fbx"
+dest_files=[ "res://.import/treeDecorated.fbx-1335a509a52dd139489ea35370446b30.scn" ]
 
 [params]
 

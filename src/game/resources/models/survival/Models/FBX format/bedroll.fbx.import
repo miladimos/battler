@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedroll.fbx-a9125bfb18bbaa81f0381d3787f7133d.scn"
+path="res://.import/bedroll.fbx-da141cc3f8e7ac7a84cfe8875c85e52f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/bedroll.fbx"
-dest_files=[ "res://.import/bedroll.fbx-a9125bfb18bbaa81f0381d3787f7133d.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/bedroll.fbx"
+dest_files=[ "res://.import/bedroll.fbx-da141cc3f8e7ac7a84cfe8875c85e52f.scn" ]
 
 [params]
 

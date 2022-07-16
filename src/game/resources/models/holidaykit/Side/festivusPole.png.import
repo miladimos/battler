@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/festivusPole.png-26878da7f15cb5bfafb43930cc49aa67.stex"
+path="res://.import/festivusPole.png-7dd337f325d76a1aefbda80cd60d69fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/festivusPole.png"
-dest_files=[ "res://.import/festivusPole.png-26878da7f15cb5bfafb43930cc49aa67.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/festivusPole.png"
+dest_files=[ "res://.import/festivusPole.png-7dd337f325d76a1aefbda80cd60d69fa.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toolHoe.png-e0a0d83f0989d38b527315a836102a2a.stex"
+path="res://.import/toolHoe.png-314d14f5fad55f7ad64156a8a3fa219f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/toolHoe.png"
-dest_files=[ "res://.import/toolHoe.png-e0a0d83f0989d38b527315a836102a2a.stex" ]
+source_file="res://game/resources/models/survival/Previews/toolHoe.png"
+dest_files=[ "res://.import/toolHoe.png-314d14f5fad55f7ad64156a8a3fa219f.stex" ]
 
 [params]
 

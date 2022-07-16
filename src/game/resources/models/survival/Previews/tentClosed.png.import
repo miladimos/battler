@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tentClosed.png-b50d93110358c0a38da7c46352babedb.stex"
+path="res://.import/tentClosed.png-487847aade1b5944f7dd5f4732e2a276.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/tentClosed.png"
-dest_files=[ "res://.import/tentClosed.png-b50d93110358c0a38da7c46352babedb.stex" ]
+source_file="res://game/resources/models/survival/Previews/tentClosed.png"
+dest_files=[ "res://.import/tentClosed.png-487847aade1b5944f7dd5f4732e2a276.stex" ]
 
 [params]
 

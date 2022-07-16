@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightpost.dae-3b27228ea494d64412a779b2ee715ce7.scn"
+path="res://.import/lightpost.dae-7cd5130f8856a6ac6adffd02f20fadba.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/lightpost.dae"
-dest_files=[ "res://.import/lightpost.dae-3b27228ea494d64412a779b2ee715ce7.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/lightpost.dae"
+dest_files=[ "res://.import/lightpost.dae-7cd5130f8856a6ac6adffd02f20fadba.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trackCornerLarge_NW.png-74bda79668f263e453470f4d5a5e2a96.stex"
+path="res://.import/trackCornerLarge_NW.png-cb74309e5101a3f614085876bf9c55ab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/trackCornerLarge_NW.png"
-dest_files=[ "res://.import/trackCornerLarge_NW.png-74bda79668f263e453470f4d5a5e2a96.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/trackCornerLarge_NW.png"
+dest_files=[ "res://.import/trackCornerLarge_NW.png-cb74309e5101a3f614085876bf9c55ab.stex" ]
 
 [params]
 

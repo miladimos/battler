@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resourceWood.fbx-66c1a89a07660230201b6849fc46e983.scn"
+path="res://.import/resourceWood.fbx-e968d9c0bda8dcd104c6862eef039d76.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/resourceWood.fbx"
-dest_files=[ "res://.import/resourceWood.fbx-66c1a89a07660230201b6849fc46e983.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/resourceWood.fbx"
+dest_files=[ "res://.import/resourceWood.fbx-e968d9c0bda8dcd104c6862eef039d76.scn" ]
 
 [params]
 

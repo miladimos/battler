@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFormationSmall.glb-5429e30c262f85d535f03164a0c9d20c.scn"
+path="res://.import/rockFormationSmall.glb-2fb129a4a90d25c2522065cbd7da3c19.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/rockFormationSmall.glb"
-dest_files=[ "res://.import/rockFormationSmall.glb-5429e30c262f85d535f03164a0c9d20c.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/rockFormationSmall.glb"
+dest_files=[ "res://.import/rockFormationSmall.glb-2fb129a4a90d25c2522065cbd7da3c19.scn" ]
 
 [params]
 

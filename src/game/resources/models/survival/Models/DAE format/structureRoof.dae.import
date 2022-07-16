@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structureRoof.dae-d059f2ccb3e6e3b4dee8f76a247f9faf.scn"
+path="res://.import/structureRoof.dae-aed4a79bd1fc782067700f952733baf2.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/structureRoof.dae"
-dest_files=[ "res://.import/structureRoof.dae-d059f2ccb3e6e3b4dee8f76a247f9faf.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/structureRoof.dae"
+dest_files=[ "res://.import/structureRoof.dae-aed4a79bd1fc782067700f952733baf2.scn" ]
 
 [params]
 

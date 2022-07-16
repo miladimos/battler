@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainWagonFlat.dae-fbaa99b00be745b26c28bb9a08bb1698.scn"
+path="res://.import/trainWagonFlat.dae-db07e458f1d651458ce21930d3601c94.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/trainWagonFlat.dae"
-dest_files=[ "res://.import/trainWagonFlat.dae-fbaa99b00be745b26c28bb9a08bb1698.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/trainWagonFlat.dae"
+dest_files=[ "res://.import/trainWagonFlat.dae-db07e458f1d651458ce21930d3601c94.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowPatch.fbx-fdd34257129a2256620df10d96f3e519.scn"
+path="res://.import/snowPatch.fbx-91d8ae9e574cc653ac459b6f39d1bb3a.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/snowPatch.fbx"
-dest_files=[ "res://.import/snowPatch.fbx-fdd34257129a2256620df10d96f3e519.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/snowPatch.fbx"
+dest_files=[ "res://.import/snowPatch.fbx-91d8ae9e574cc653ac459b6f39d1bb3a.scn" ]
 
 [params]
 

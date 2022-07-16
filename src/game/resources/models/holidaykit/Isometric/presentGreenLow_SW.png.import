@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/presentGreenLow_SW.png-69ece3428941a74aae73b101c2b74e23.stex"
+path="res://.import/presentGreenLow_SW.png-c85830c3941f5b90004a7cf84224a460.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/presentGreenLow_SW.png"
-dest_files=[ "res://.import/presentGreenLow_SW.png-69ece3428941a74aae73b101c2b74e23.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/presentGreenLow_SW.png"
+dest_files=[ "res://.import/presentGreenLow_SW.png-c85830c3941f5b90004a7cf84224a460.stex" ]
 
 [params]
 

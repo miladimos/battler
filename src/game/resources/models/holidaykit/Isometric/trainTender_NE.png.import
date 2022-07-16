@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trainTender_NE.png-dcb6c42d007599cb03a268bc24427184.stex"
+path="res://.import/trainTender_NE.png-fed3be77b7f5eba5bf1417393ec4473c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/trainTender_NE.png"
-dest_files=[ "res://.import/trainTender_NE.png-dcb6c42d007599cb03a268bc24427184.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/trainTender_NE.png"
+dest_files=[ "res://.import/trainTender_NE.png-fed3be77b7f5eba5bf1417393ec4473c.stex" ]
 
 [params]
 

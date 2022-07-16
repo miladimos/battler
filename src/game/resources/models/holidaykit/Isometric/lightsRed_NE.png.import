@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightsRed_NE.png-e77a37ab9d10d3a02a15f01680c038f6.stex"
+path="res://.import/lightsRed_NE.png-93d18d67bd30eeaa55d2f41971bca42f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/lightsRed_NE.png"
-dest_files=[ "res://.import/lightsRed_NE.png-e77a37ab9d10d3a02a15f01680c038f6.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/lightsRed_NE.png"
+dest_files=[ "res://.import/lightsRed_NE.png-93d18d67bd30eeaa55d2f41971bca42f.stex" ]
 
 [params]
 

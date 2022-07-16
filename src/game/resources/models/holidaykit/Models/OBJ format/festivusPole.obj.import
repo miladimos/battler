@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/festivusPole.obj-2f04e59bf7c1c8289d629c7863d00652.mesh"
+path="res://.import/festivusPole.obj-900c4ebc30f3185323992711aede5a4d.mesh"
 
 [deps]
 
-files=[ "res://.import/festivusPole.obj-2f04e59bf7c1c8289d629c7863d00652.mesh" ]
+files=[ "res://.import/festivusPole.obj-900c4ebc30f3185323992711aede5a4d.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/festivusPole.obj"
-dest_files=[ "res://.import/festivusPole.obj-2f04e59bf7c1c8289d629c7863d00652.mesh", "res://.import/festivusPole.obj-2f04e59bf7c1c8289d629c7863d00652.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/festivusPole.obj"
+dest_files=[ "res://.import/festivusPole.obj-900c4ebc30f3185323992711aede5a4d.mesh", "res://.import/festivusPole.obj-900c4ebc30f3185323992711aede5a4d.mesh" ]
 
 [params]
 

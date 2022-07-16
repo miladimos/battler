@@ -2,6 +2,8 @@ extends Node
 
 class_name Weapon
 
+# Weapon manager - base class
+
 export(float) var fire_rate = 0.5
 export(int) var clip_ammoo_size = 5
 export(float) var reload_rate = 1.0

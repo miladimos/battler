@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinWallHalf.dae-12ebea9583b4e666ae8fccb586434550.scn"
+path="res://.import/cabinWallHalf.dae-ae69834754a0faf0eb481dc752a6f7b4.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/cabinWallHalf.dae"
-dest_files=[ "res://.import/cabinWallHalf.dae-12ebea9583b4e666ae8fccb586434550.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/cabinWallHalf.dae"
+dest_files=[ "res://.import/cabinWallHalf.dae-ae69834754a0faf0eb481dc752a6f7b4.scn" ]
 
 [params]
 

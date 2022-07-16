@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightpostHanging.dae-52c37fcb10c7972107e7254869e3a758.scn"
+path="res://.import/lightpostHanging.dae-16edc955fc6b9475b69aab918f9084dc.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/lightpostHanging.dae"
-dest_files=[ "res://.import/lightpostHanging.dae-52c37fcb10c7972107e7254869e3a758.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/lightpostHanging.dae"
+dest_files=[ "res://.import/lightpostHanging.dae-16edc955fc6b9475b69aab918f9084dc.scn" ]
 
 [params]
 

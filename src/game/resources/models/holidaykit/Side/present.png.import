@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/present.png-9c37d9fb71bba7451f780efa9db6d1a1.stex"
+path="res://.import/present.png-929eac577aae5f0a9b7d472105913206.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/present.png"
-dest_files=[ "res://.import/present.png-9c37d9fb71bba7451f780efa9db6d1a1.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/present.png"
+dest_files=[ "res://.import/present.png-929eac577aae5f0a9b7d472105913206.stex" ]
 
 [params]
 

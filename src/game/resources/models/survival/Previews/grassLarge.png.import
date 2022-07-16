@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/grassLarge.png-0dc2ae63c219cab02faae78a298ec339.stex"
+path="res://.import/grassLarge.png-a80928335ede6b5e0a3570110b6786ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/grassLarge.png"
-dest_files=[ "res://.import/grassLarge.png-0dc2ae63c219cab02faae78a298ec339.stex" ]
+source_file="res://game/resources/models/survival/Previews/grassLarge.png"
+dest_files=[ "res://.import/grassLarge.png-a80928335ede6b5e0a3570110b6786ef.stex" ]
 
 [params]
 

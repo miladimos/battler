@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fish.obj-01214a7b6276b6039342465c0b609c4f.mesh"
+path="res://.import/fish.obj-9fbb15e10fa0323b33738ed299b3332f.mesh"
 
 [deps]
 
-files=[ "res://.import/fish.obj-01214a7b6276b6039342465c0b609c4f.mesh" ]
+files=[ "res://.import/fish.obj-9fbb15e10fa0323b33738ed299b3332f.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/fish.obj"
-dest_files=[ "res://.import/fish.obj-01214a7b6276b6039342465c0b609c4f.mesh", "res://.import/fish.obj-01214a7b6276b6039342465c0b609c4f.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/fish.obj"
+dest_files=[ "res://.import/fish.obj-9fbb15e10fa0323b33738ed299b3332f.mesh", "res://.import/fish.obj-9fbb15e10fa0323b33738ed299b3332f.mesh" ]
 
 [params]
 

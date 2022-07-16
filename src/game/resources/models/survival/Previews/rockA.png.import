@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockA.png-916cac688b8468fce0f139fccc415fbf.stex"
+path="res://.import/rockA.png-16162991d1cc2b01bd41bc9e850d50a3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/rockA.png"
-dest_files=[ "res://.import/rockA.png-916cac688b8468fce0f139fccc415fbf.stex" ]
+source_file="res://game/resources/models/survival/Previews/rockA.png"
+dest_files=[ "res://.import/rockA.png-16162991d1cc2b01bd41bc9e850d50a3.stex" ]
 
 [params]
 

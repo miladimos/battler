@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kwanzaaKikombe.dae-256baaf780f92f5cd21ca30f8bf3b683.scn"
+path="res://.import/kwanzaaKikombe.dae-8ca2f77ee6e5fabe3f7258fd8ba3a69e.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/kwanzaaKikombe.dae"
-dest_files=[ "res://.import/kwanzaaKikombe.dae-256baaf780f92f5cd21ca30f8bf3b683.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/kwanzaaKikombe.dae"
+dest_files=[ "res://.import/kwanzaaKikombe.dae-8ca2f77ee6e5fabe3f7258fd8ba3a69e.scn" ]
 
 [params]
 

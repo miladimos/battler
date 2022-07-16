@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinDoor.dae-fc5e4f64794a912699d1a77d8f2222ac.scn"
+path="res://.import/cabinDoor.dae-e74ce424bdc248f772fa5ea5fb03f9f5.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/cabinDoor.dae"
-dest_files=[ "res://.import/cabinDoor.dae-fc5e4f64794a912699d1a77d8f2222ac.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/cabinDoor.dae"
+dest_files=[ "res://.import/cabinDoor.dae-e74ce424bdc248f772fa5ea5fb03f9f5.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightpostHanging.glb-1ba48e479bdbd47da06829cf744feead.scn"
+path="res://.import/lightpostHanging.glb-f1c55c3f647db015bf57febf4e4c5484.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/lightpostHanging.glb"
-dest_files=[ "res://.import/lightpostHanging.glb-1ba48e479bdbd47da06829cf744feead.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/lightpostHanging.glb"
+dest_files=[ "res://.import/lightpostHanging.glb-f1c55c3f647db015bf57febf4e4c5484.scn" ]
 
 [params]
 

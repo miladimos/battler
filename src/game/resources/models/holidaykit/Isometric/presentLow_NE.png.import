@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/presentLow_NE.png-9ff672b65042e94caf14e78b910909c4.stex"
+path="res://.import/presentLow_NE.png-af059bfe8dbfff9708457db7c3d23976.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/presentLow_NE.png"
-dest_files=[ "res://.import/presentLow_NE.png-9ff672b65042e94caf14e78b910909c4.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/presentLow_NE.png"
+dest_files=[ "res://.import/presentLow_NE.png-af059bfe8dbfff9708457db7c3d23976.stex" ]
 
 [params]
 

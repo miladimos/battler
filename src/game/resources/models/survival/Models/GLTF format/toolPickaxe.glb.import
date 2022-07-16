@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolPickaxe.glb-dedf242f5e2f25cca4dc2b42d3f75782.scn"
+path="res://.import/toolPickaxe.glb-8b0b3b4df30675bc2e2194c58e262c2a.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/toolPickaxe.glb"
-dest_files=[ "res://.import/toolPickaxe.glb-dedf242f5e2f25cca4dc2b42d3f75782.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/toolPickaxe.glb"
+dest_files=[ "res://.import/toolPickaxe.glb-8b0b3b4df30675bc2e2194c58e262c2a.scn" ]
 
 [params]
 

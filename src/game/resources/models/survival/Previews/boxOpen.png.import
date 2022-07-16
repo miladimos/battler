@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/boxOpen.png-830358ad6ff3e99c69628a048db52633.stex"
+path="res://.import/boxOpen.png-4c2bc3338f4cbfd1f3dc01ec9bb57899.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/boxOpen.png"
-dest_files=[ "res://.import/boxOpen.png-830358ad6ff3e99c69628a048db52633.stex" ]
+source_file="res://game/resources/models/survival/Previews/boxOpen.png"
+dest_files=[ "res://.import/boxOpen.png-4c2bc3338f4cbfd1f3dc01ec9bb57899.stex" ]
 
 [params]
 

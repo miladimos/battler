@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockFlat.png-117bf4d534b6e07a01bc2cce669fd831.stex"
+path="res://.import/rockFlat.png-6976bc49e5a74cc08209d5a2aa294906.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/rockFlat.png"
-dest_files=[ "res://.import/rockFlat.png-117bf4d534b6e07a01bc2cce669fd831.stex" ]
+source_file="res://game/resources/models/survival/Previews/rockFlat.png"
+dest_files=[ "res://.import/rockFlat.png-6976bc49e5a74cc08209d5a2aa294906.stex" ]
 
 [params]
 

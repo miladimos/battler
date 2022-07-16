@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toolAxe.png-292f06d2e07830e819f6b71d5b91078a.stex"
+path="res://.import/toolAxe.png-eff73212867c7270ae7a7979c25a38ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/toolAxe.png"
-dest_files=[ "res://.import/toolAxe.png-292f06d2e07830e819f6b71d5b91078a.stex" ]
+source_file="res://game/resources/models/survival/Previews/toolAxe.png"
+dest_files=[ "res://.import/toolAxe.png-eff73212867c7270ae7a7979c25a38ff.stex" ]
 
 [params]
 

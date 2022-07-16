@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinRoofChimney.glb-ce9925bf9c5309bca18ec91dbb32359d.scn"
+path="res://.import/cabinRoofChimney.glb-6fede0b8b15e53c6a20efef2d67d31d0.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/cabinRoofChimney.glb"
-dest_files=[ "res://.import/cabinRoofChimney.glb-ce9925bf9c5309bca18ec91dbb32359d.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/cabinRoofChimney.glb"
+dest_files=[ "res://.import/cabinRoofChimney.glb-6fede0b8b15e53c6a20efef2d67d31d0.scn" ]
 
 [params]
 

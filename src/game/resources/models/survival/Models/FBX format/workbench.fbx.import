@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbench.fbx-4abb4de135e0c17a0f5aa428b0f4c68b.scn"
+path="res://.import/workbench.fbx-6a5e32fef82cc85d9351eb70baa2e0cc.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/workbench.fbx"
-dest_files=[ "res://.import/workbench.fbx-4abb4de135e0c17a0f5aa428b0f4c68b.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/workbench.fbx"
+dest_files=[ "res://.import/workbench.fbx-6a5e32fef82cc85d9351eb70baa2e0cc.scn" ]
 
 [params]
 

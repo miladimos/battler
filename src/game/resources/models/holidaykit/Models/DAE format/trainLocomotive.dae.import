@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainLocomotive.dae-9b408b27705c7ea6b0dd60b2ece7f122.scn"
+path="res://.import/trainLocomotive.dae-d2af8f07ed22fd19a14a3f96b7cf4e64.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/trainLocomotive.dae"
-dest_files=[ "res://.import/trainLocomotive.dae-9b408b27705c7ea6b0dd60b2ece7f122.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/trainLocomotive.dae"
+dest_files=[ "res://.import/trainLocomotive.dae-d2af8f07ed22fd19a14a3f96b7cf4e64.scn" ]
 
 [params]
 

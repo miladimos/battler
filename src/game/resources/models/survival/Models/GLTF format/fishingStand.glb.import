@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fishingStand.glb-239dff0cea225ad047f60e861cfd2040.scn"
+path="res://.import/fishingStand.glb-8e5cd63b322cc3d4a6f79f90b99eaced.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/fishingStand.glb"
-dest_files=[ "res://.import/fishingStand.glb-239dff0cea225ad047f60e861cfd2040.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/fishingStand.glb"
+dest_files=[ "res://.import/fishingStand.glb-8e5cd63b322cc3d4a6f79f90b99eaced.scn" ]
 
 [params]
 

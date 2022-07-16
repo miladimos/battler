@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/presentGreenRound.dae-868b3c65ccc1dbdc2890ab3594b05d57.scn"
+path="res://.import/presentGreenRound.dae-361e2382181ad9939d6b8d0b6b76ac8e.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/presentGreenRound.dae"
-dest_files=[ "res://.import/presentGreenRound.dae-868b3c65ccc1dbdc2890ab3594b05d57.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/presentGreenRound.dae"
+dest_files=[ "res://.import/presentGreenRound.dae-361e2382181ad9939d6b8d0b6b76ac8e.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinRoof.png-3542aa8ade60643ad0d7c2334f32a6c3.stex"
+path="res://.import/cabinRoof.png-79b2fb60bd19b01f3907385d22f9b09d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/cabinRoof.png"
-dest_files=[ "res://.import/cabinRoof.png-3542aa8ade60643ad0d7c2334f32a6c3.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/cabinRoof.png"
+dest_files=[ "res://.import/cabinRoof.png-79b2fb60bd19b01f3907385d22f9b09d.stex" ]
 
 [params]
 

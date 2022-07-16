@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh"
+path="res://.import/sled.obj-bc1c1e39ad28a6cd9c95742547f54016.mesh"
 
 [deps]
 
-files=[ "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh" ]
+files=[ "res://.import/sled.obj-bc1c1e39ad28a6cd9c95742547f54016.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/sled.obj"
-dest_files=[ "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh", "res://.import/sled.obj-d6ba607c471504b426e6b151f07f3482.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/sled.obj"
+dest_files=[ "res://.import/sled.obj-bc1c1e39ad28a6cd9c95742547f54016.mesh", "res://.import/sled.obj-bc1c1e39ad28a6cd9c95742547f54016.mesh" ]
 
 [params]
 

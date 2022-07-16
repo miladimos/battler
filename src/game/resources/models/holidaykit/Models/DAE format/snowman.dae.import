@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowman.dae-c0b7d2a4a68917fa9424886da2e98248.scn"
+path="res://.import/snowman.dae-3f477835e35bea7c13ca5541f5306904.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/snowman.dae"
-dest_files=[ "res://.import/snowman.dae-c0b7d2a4a68917fa9424886da2e98248.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/snowman.dae"
+dest_files=[ "res://.import/snowman.dae-3f477835e35bea7c13ca5541f5306904.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree.dae-1c26f4d293fd6d4cb5a03e9783e72cdd.scn"
+path="res://.import/tree.dae-08efb57ad9b01342aad9cafb7b7df141.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/tree.dae"
-dest_files=[ "res://.import/tree.dae-1c26f4d293fd6d4cb5a03e9783e72cdd.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/tree.dae"
+dest_files=[ "res://.import/tree.dae-08efb57ad9b01342aad9cafb7b7df141.scn" ]
 
 [params]
 

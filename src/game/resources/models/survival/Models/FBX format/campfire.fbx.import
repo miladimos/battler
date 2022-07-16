@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire.fbx-5c27cba57a74413e6adfc11c8b26edfe.scn"
+path="res://.import/campfire.fbx-6506e3a6af401108cb6413b754303fcb.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/campfire.fbx"
-dest_files=[ "res://.import/campfire.fbx-5c27cba57a74413e6adfc11c8b26edfe.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/campfire.fbx"
+dest_files=[ "res://.import/campfire.fbx-6506e3a6af401108cb6413b754303fcb.scn" ]
 
 [params]
 

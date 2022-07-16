@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/resourceWood.png-68f5d6554437ea51918467d62d60d745.stex"
+path="res://.import/resourceWood.png-85ce5b3e921f5cae528c9b22c92f4bda.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/resourceWood.png"
-dest_files=[ "res://.import/resourceWood.png-68f5d6554437ea51918467d62d60d745.stex" ]
+source_file="res://game/resources/models/survival/Previews/resourceWood.png"
+dest_files=[ "res://.import/resourceWood.png-85ce5b3e921f5cae528c9b22c92f4bda.stex" ]
 
 [params]
 

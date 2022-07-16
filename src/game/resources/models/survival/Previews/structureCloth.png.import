@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/structureCloth.png-68e318e8163f209c4aac5c2ed304b52f.stex"
+path="res://.import/structureCloth.png-a3ec0a59c48bbf5d38f687b729151504.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/structureCloth.png"
-dest_files=[ "res://.import/structureCloth.png-68e318e8163f209c4aac5c2ed304b52f.stex" ]
+source_file="res://game/resources/models/survival/Previews/structureCloth.png"
+dest_files=[ "res://.import/structureCloth.png-a3ec0a59c48bbf5d38f687b729151504.stex" ]
 
 [params]
 

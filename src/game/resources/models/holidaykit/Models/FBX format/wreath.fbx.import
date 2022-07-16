@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wreath.fbx-4354e35b08c8412c4494378ecd7803e5.scn"
+path="res://.import/wreath.fbx-3e68c57adab73e8e5bbd0589a70e5b94.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/wreath.fbx"
-dest_files=[ "res://.import/wreath.fbx-4354e35b08c8412c4494378ecd7803e5.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/wreath.fbx"
+dest_files=[ "res://.import/wreath.fbx-3e68c57adab73e8e5bbd0589a70e5b94.scn" ]
 
 [params]
 

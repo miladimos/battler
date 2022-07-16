@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlat.fbx-e0598c7c4926a338acda1c44ebf3e0f3.scn"
+path="res://.import/rockFlat.fbx-474bcaf6076229a4c3a9e8a1d5edd1a9.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/rockFlat.fbx"
-dest_files=[ "res://.import/rockFlat.fbx-e0598c7c4926a338acda1c44ebf3e0f3.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/rockFlat.fbx"
+dest_files=[ "res://.import/rockFlat.fbx-474bcaf6076229a4c3a9e8a1d5edd1a9.scn" ]
 
 [params]
 

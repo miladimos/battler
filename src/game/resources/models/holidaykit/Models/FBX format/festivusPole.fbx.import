@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/festivusPole.fbx-a8c0aab38c12e00c95bfeb43c9c593db.scn"
+path="res://.import/festivusPole.fbx-3ca4f1419c52e7c392499dca0d11c035.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/festivusPole.fbx"
-dest_files=[ "res://.import/festivusPole.fbx-a8c0aab38c12e00c95bfeb43c9c593db.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/festivusPole.fbx"
+dest_files=[ "res://.import/festivusPole.fbx-3ca4f1419c52e7c392499dca0d11c035.scn" ]
 
 [params]
 

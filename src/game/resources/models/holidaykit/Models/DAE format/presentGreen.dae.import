@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/presentGreen.dae-48f01f8e0fd306fdc911aea058d723dd.scn"
+path="res://.import/presentGreen.dae-a81a8f60d8a561aa8fe7a600b0c60fe4.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/presentGreen.dae"
-dest_files=[ "res://.import/presentGreen.dae-48f01f8e0fd306fdc911aea058d723dd.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/presentGreen.dae"
+dest_files=[ "res://.import/presentGreen.dae-a81a8f60d8a561aa8fe7a600b0c60fe4.scn" ]
 
 [params]
 

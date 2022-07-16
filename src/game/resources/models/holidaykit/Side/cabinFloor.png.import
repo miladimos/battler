@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinFloor.png-26c01b4bbd3dbfea44a3247bb52359f8.stex"
+path="res://.import/cabinFloor.png-8fdbae89ed725e49e380547f392abce0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/cabinFloor.png"
-dest_files=[ "res://.import/cabinFloor.png-26c01b4bbd3dbfea44a3247bb52359f8.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/cabinFloor.png"
+dest_files=[ "res://.import/cabinFloor.png-8fdbae89ed725e49e380547f392abce0.stex" ]
 
 [params]
 

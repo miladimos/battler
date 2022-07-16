@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackSimpleCornerSmall.glb-8d63d45493972c0efaf4ef614ad4407b.scn"
+path="res://.import/trackSimpleCornerSmall.glb-7c46737dd36f0fc5290f307304660f0c.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/trackSimpleCornerSmall.glb"
-dest_files=[ "res://.import/trackSimpleCornerSmall.glb-8d63d45493972c0efaf4ef614ad4407b.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/trackSimpleCornerSmall.glb"
+dest_files=[ "res://.import/trackSimpleCornerSmall.glb-7c46737dd36f0fc5290f307304660f0c.scn" ]
 
 [params]
 

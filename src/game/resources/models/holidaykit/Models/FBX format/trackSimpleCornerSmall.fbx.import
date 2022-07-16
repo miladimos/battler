@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackSimpleCornerSmall.fbx-793cdda5c3f893a100a3fc679bf8518b.scn"
+path="res://.import/trackSimpleCornerSmall.fbx-01b2774d4f92fdf0bfe76fbc03f487e0.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/trackSimpleCornerSmall.fbx"
-dest_files=[ "res://.import/trackSimpleCornerSmall.fbx-793cdda5c3f893a100a3fc679bf8518b.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/trackSimpleCornerSmall.fbx"
+dest_files=[ "res://.import/trackSimpleCornerSmall.fbx-01b2774d4f92fdf0bfe76fbc03f487e0.scn" ]
 
 [params]
 

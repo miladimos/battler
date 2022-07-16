@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainWagonFlat.fbx-42f8e6f53dc39cf23be70a6fbc39a2cd.scn"
+path="res://.import/trainWagonFlat.fbx-1a497cd5d807af503267f0b6733fdeda.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/trainWagonFlat.fbx"
-dest_files=[ "res://.import/trainWagonFlat.fbx-42f8e6f53dc39cf23be70a6fbc39a2cd.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/trainWagonFlat.fbx"
+dest_files=[ "res://.import/trainWagonFlat.fbx-1a497cd5d807af503267f0b6733fdeda.scn" ]
 
 [params]
 

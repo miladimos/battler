@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockFlatGrass.png-12c91cd76ad4346e3bb77c6319728515.stex"
+path="res://.import/rockFlatGrass.png-25b176ea619ed7c85b983da313c07b66.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/rockFlatGrass.png"
-dest_files=[ "res://.import/rockFlatGrass.png-12c91cd76ad4346e3bb77c6319728515.stex" ]
+source_file="res://game/resources/models/survival/Previews/rockFlatGrass.png"
+dest_files=[ "res://.import/rockFlatGrass.png-25b176ea619ed7c85b983da313c07b66.stex" ]
 
 [params]
 

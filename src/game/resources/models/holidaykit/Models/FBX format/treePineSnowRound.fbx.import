@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treePineSnowRound.fbx-001251582bf9f494cef3868ae2136e51.scn"
+path="res://.import/treePineSnowRound.fbx-c8daa521209c682a86cf82ba537f4ba4.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/treePineSnowRound.fbx"
-dest_files=[ "res://.import/treePineSnowRound.fbx-001251582bf9f494cef3868ae2136e51.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/treePineSnowRound.fbx"
+dest_files=[ "res://.import/treePineSnowRound.fbx-c8daa521209c682a86cf82ba537f4ba4.scn" ]
 
 [params]
 

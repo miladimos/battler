@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightsRed.fbx-f038da2b0d3b5f5039508e340d5fee6f.scn"
+path="res://.import/lightsRed.fbx-5497589becb4c8c2894c087ae874c0d3.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/lightsRed.fbx"
-dest_files=[ "res://.import/lightsRed.fbx-f038da2b0d3b5f5039508e340d5fee6f.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/lightsRed.fbx"
+dest_files=[ "res://.import/lightsRed.fbx-5497589becb4c8c2894c087ae874c0d3.scn" ]
 
 [params]
 

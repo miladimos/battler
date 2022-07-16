@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinCorner.fbx-6a84393eff01ba744634f529b097759f.scn"
+path="res://.import/cabinCorner.fbx-1f362211984261bfaf0c17a8f776fcfb.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/cabinCorner.fbx"
-dest_files=[ "res://.import/cabinCorner.fbx-6a84393eff01ba744634f529b097759f.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/cabinCorner.fbx"
+dest_files=[ "res://.import/cabinCorner.fbx-1f362211984261bfaf0c17a8f776fcfb.scn" ]
 
 [params]
 

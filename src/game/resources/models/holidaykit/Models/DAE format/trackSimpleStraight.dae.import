@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackSimpleStraight.dae-c8f4bdd9901b7ef71e6c0c5a69e00f88.scn"
+path="res://.import/trackSimpleStraight.dae-b4792b447c3e1c7730179dcacc1fd23f.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/trackSimpleStraight.dae"
-dest_files=[ "res://.import/trackSimpleStraight.dae-c8f4bdd9901b7ef71e6c0c5a69e00f88.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/trackSimpleStraight.dae"
+dest_files=[ "res://.import/trackSimpleStraight.dae-b4792b447c3e1c7730179dcacc1fd23f.scn" ]
 
 [params]
 

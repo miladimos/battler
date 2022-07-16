@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treePineSnow.dae-5ce5398402f6ac30a291b423bf8b0549.scn"
+path="res://.import/treePineSnow.dae-86a86f884edd8fd8dd6977e3dd2a06e8.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/treePineSnow.dae"
-dest_files=[ "res://.import/treePineSnow.dae-5ce5398402f6ac30a291b423bf8b0549.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/treePineSnow.dae"
+dest_files=[ "res://.import/treePineSnow.dae-86a86f884edd8fd8dd6977e3dd2a06e8.scn" ]
 
 [params]
 

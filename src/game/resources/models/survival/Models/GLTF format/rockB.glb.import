@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockB.glb-6227d4e42fa4eb1086035723f73bf3d7.scn"
+path="res://.import/rockB.glb-ce1012fc0b202fbb9d01b15eacb16dab.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/rockB.glb"
-dest_files=[ "res://.import/rockB.glb-6227d4e42fa4eb1086035723f73bf3d7.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/rockB.glb"
+dest_files=[ "res://.import/rockB.glb-ce1012fc0b202fbb9d01b15eacb16dab.scn" ]
 
 [params]
 

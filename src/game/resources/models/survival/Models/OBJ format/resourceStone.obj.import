@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/resourceStone.obj-bf29e52d5b2eb755c3fe708207577335.mesh"
+path="res://.import/resourceStone.obj-d982f1c37c79e540ec2c3c1c943a0326.mesh"
 
 [deps]
 
-files=[ "res://.import/resourceStone.obj-bf29e52d5b2eb755c3fe708207577335.mesh" ]
+files=[ "res://.import/resourceStone.obj-d982f1c37c79e540ec2c3c1c943a0326.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/resourceStone.obj"
-dest_files=[ "res://.import/resourceStone.obj-bf29e52d5b2eb755c3fe708207577335.mesh", "res://.import/resourceStone.obj-bf29e52d5b2eb755c3fe708207577335.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/resourceStone.obj"
+dest_files=[ "res://.import/resourceStone.obj-d982f1c37c79e540ec2c3c1c943a0326.mesh", "res://.import/resourceStone.obj-d982f1c37c79e540ec2c3c1c943a0326.mesh" ]
 
 [params]
 

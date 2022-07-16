@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kwanzaaKinara_SE.png-460490ddffebc37bc4500fd1bb05c504.stex"
+path="res://.import/kwanzaaKinara_SE.png-b1789831ff69b6db440406cfdc9fd9f7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/kwanzaaKinara_SE.png"
-dest_files=[ "res://.import/kwanzaaKinara_SE.png-460490ddffebc37bc4500fd1bb05c504.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/kwanzaaKinara_SE.png"
+dest_files=[ "res://.import/kwanzaaKinara_SE.png-b1789831ff69b6db440406cfdc9fd9f7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sled_NE.png-514d861f587d17719bda2b5fe1af53dd.stex"
+path="res://.import/sled_NE.png-f49ab5f640d9ebf7988ed8bea9617cfd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/sled_NE.png"
-dest_files=[ "res://.import/sled_NE.png-514d861f587d17719bda2b5fe1af53dd.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/sled_NE.png"
+dest_files=[ "res://.import/sled_NE.png-f49ab5f640d9ebf7988ed8bea9617cfd.stex" ]
 
 [params]
 

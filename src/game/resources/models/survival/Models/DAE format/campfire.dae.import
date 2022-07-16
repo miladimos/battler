@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/campfire.dae-22b998ad6dc9cbf0263ea8021fb1349f.scn"
+path="res://.import/campfire.dae-a9af9161417443e417770aef52138ada.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/campfire.dae"
-dest_files=[ "res://.import/campfire.dae-22b998ad6dc9cbf0263ea8021fb1349f.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/campfire.dae"
+dest_files=[ "res://.import/campfire.dae-a9af9161417443e417770aef52138ada.scn" ]
 
 [params]
 

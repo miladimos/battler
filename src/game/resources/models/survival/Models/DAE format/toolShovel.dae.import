@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolShovel.dae-b4f61412b0b301cab87a0396304058ef.scn"
+path="res://.import/toolShovel.dae-aa4485016d6f241e190b33229e9516f5.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/toolShovel.dae"
-dest_files=[ "res://.import/toolShovel.dae-b4f61412b0b301cab87a0396304058ef.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/toolShovel.dae"
+dest_files=[ "res://.import/toolShovel.dae-aa4485016d6f241e190b33229e9516f5.scn" ]
 
 [params]
 

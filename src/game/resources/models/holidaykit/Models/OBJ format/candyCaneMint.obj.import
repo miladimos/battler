@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/candyCaneMint.obj-7b6fc2fc3f85213b326c574ac9a59dbb.mesh"
+path="res://.import/candyCaneMint.obj-428e453b7d0e88efae8ddb513f31586c.mesh"
 
 [deps]
 
-files=[ "res://.import/candyCaneMint.obj-7b6fc2fc3f85213b326c574ac9a59dbb.mesh" ]
+files=[ "res://.import/candyCaneMint.obj-428e453b7d0e88efae8ddb513f31586c.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/candyCaneMint.obj"
-dest_files=[ "res://.import/candyCaneMint.obj-7b6fc2fc3f85213b326c574ac9a59dbb.mesh", "res://.import/candyCaneMint.obj-7b6fc2fc3f85213b326c574ac9a59dbb.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/candyCaneMint.obj"
+dest_files=[ "res://.import/candyCaneMint.obj-428e453b7d0e88efae8ddb513f31586c.mesh", "res://.import/candyCaneMint.obj-428e453b7d0e88efae8ddb513f31586c.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trackStraight.fbx-825cdeb3cd3623a453e500607d4ed551.scn"
+path="res://.import/trackStraight.fbx-47e9e9424cefe2de879a26ba6069321f.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/trackStraight.fbx"
-dest_files=[ "res://.import/trackStraight.fbx-825cdeb3cd3623a453e500607d4ed551.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/trackStraight.fbx"
+dest_files=[ "res://.import/trackStraight.fbx-47e9e9424cefe2de879a26ba6069321f.scn" ]
 
 [params]
 

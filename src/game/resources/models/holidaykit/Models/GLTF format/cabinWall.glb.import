@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinWall.glb-1dc4123c4ba793a9d5dd0d90aa187fca.scn"
+path="res://.import/cabinWall.glb-df76a39b31f3868f0cfa94b4569a90a2.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/cabinWall.glb"
-dest_files=[ "res://.import/cabinWall.glb-1dc4123c4ba793a9d5dd0d90aa187fca.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/cabinWall.glb"
+dest_files=[ "res://.import/cabinWall.glb-df76a39b31f3868f0cfa94b4569a90a2.scn" ]
 
 [params]
 

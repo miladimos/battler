@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hanukkahDreidel_NE.png-24e4e9f51327a62580f8eae7333838c1.stex"
+path="res://.import/hanukkahDreidel_NE.png-00cf609f7a82cb263f5fe2dff83e11fb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/hanukkahDreidel_NE.png"
-dest_files=[ "res://.import/hanukkahDreidel_NE.png-24e4e9f51327a62580f8eae7333838c1.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/hanukkahDreidel_NE.png"
+dest_files=[ "res://.import/hanukkahDreidel_NE.png-00cf609f7a82cb263f5fe2dff83e11fb.stex" ]
 
 [params]
 

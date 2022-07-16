@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbenchGrind.dae-e72763fc5a5c38124bc228792156c630.scn"
+path="res://.import/workbenchGrind.dae-0f32021dda48493bf379957528037011.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/workbenchGrind.dae"
-dest_files=[ "res://.import/workbenchGrind.dae-e72763fc5a5c38124bc228792156c630.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/workbenchGrind.dae"
+dest_files=[ "res://.import/workbenchGrind.dae-0f32021dda48493bf379957528037011.scn" ]
 
 [params]
 

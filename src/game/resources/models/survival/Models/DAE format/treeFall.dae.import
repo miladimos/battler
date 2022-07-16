@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treeFall.dae-1d84cc489231aa4db9cffb0ac78462eb.scn"
+path="res://.import/treeFall.dae-7a6591d1d6fb4dc9fce2bb6c1439a784.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/treeFall.dae"
-dest_files=[ "res://.import/treeFall.dae-1d84cc489231aa4db9cffb0ac78462eb.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/treeFall.dae"
+dest_files=[ "res://.import/treeFall.dae-7a6591d1d6fb4dc9fce2bb6c1439a784.scn" ]
 
 [params]
 

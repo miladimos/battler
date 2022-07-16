@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlatGrass.dae-f3d6258a0a57fb385f8052b484314ec5.scn"
+path="res://.import/rockFlatGrass.dae-563cb8385457520bfb8899be4654b9b8.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/rockFlatGrass.dae"
-dest_files=[ "res://.import/rockFlatGrass.dae-f3d6258a0a57fb385f8052b484314ec5.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/rockFlatGrass.dae"
+dest_files=[ "res://.import/rockFlatGrass.dae-563cb8385457520bfb8899be4654b9b8.scn" ]
 
 [params]
 

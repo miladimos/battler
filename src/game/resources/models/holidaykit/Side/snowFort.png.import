@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/snowFort.png-450ee9343edf02cb17a87ab9a03a218a.stex"
+path="res://.import/snowFort.png-a9436ba802bdc9cc530ef4e61f8d578e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/snowFort.png"
-dest_files=[ "res://.import/snowFort.png-450ee9343edf02cb17a87ab9a03a218a.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/snowFort.png"
+dest_files=[ "res://.import/snowFort.png-a9436ba802bdc9cc530ef4e61f8d578e.stex" ]
 
 [params]
 

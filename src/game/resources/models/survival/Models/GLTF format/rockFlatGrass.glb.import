@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlatGrass.glb-d2aaf53de0a25026f7325ddba4bfd1ef.scn"
+path="res://.import/rockFlatGrass.glb-bf8754af7730da270de6be25b9b99141.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/rockFlatGrass.glb"
-dest_files=[ "res://.import/rockFlatGrass.glb-d2aaf53de0a25026f7325ddba4bfd1ef.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/rockFlatGrass.glb"
+dest_files=[ "res://.import/rockFlatGrass.glb-bf8754af7730da270de6be25b9b99141.scn" ]
 
 [params]
 

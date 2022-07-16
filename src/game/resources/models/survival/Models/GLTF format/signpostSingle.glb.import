@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/signpostSingle.glb-f4472885d5f0f99547b4e28059238cce.scn"
+path="res://.import/signpostSingle.glb-036eb907e38aa071413302a7e236684b.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/signpostSingle.glb"
-dest_files=[ "res://.import/signpostSingle.glb-f4472885d5f0f99547b4e28059238cce.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/signpostSingle.glb"
+dest_files=[ "res://.import/signpostSingle.glb-036eb907e38aa071413302a7e236684b.scn" ]
 
 [params]
 

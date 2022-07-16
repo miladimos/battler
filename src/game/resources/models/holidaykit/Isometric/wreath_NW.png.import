@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wreath_NW.png-81eaca849c356716cc8dc985db26fe76.stex"
+path="res://.import/wreath_NW.png-725389554582dc4d108c385660f7e5e2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/wreath_NW.png"
-dest_files=[ "res://.import/wreath_NW.png-81eaca849c356716cc8dc985db26fe76.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/wreath_NW.png"
+dest_files=[ "res://.import/wreath_NW.png-725389554582dc4d108c385660f7e5e2.stex" ]
 
 [params]
 

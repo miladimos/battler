@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resourceStone.glb-0ea6c566402942bda84dabe303a22acf.scn"
+path="res://.import/resourceStone.glb-a4bc7710b3e7965d69f9ed689b7cd96b.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/resourceStone.glb"
-dest_files=[ "res://.import/resourceStone.glb-0ea6c566402942bda84dabe303a22acf.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/resourceStone.glb"
+dest_files=[ "res://.import/resourceStone.glb-a4bc7710b3e7965d69f9ed689b7cd96b.scn" ]
 
 [params]
 

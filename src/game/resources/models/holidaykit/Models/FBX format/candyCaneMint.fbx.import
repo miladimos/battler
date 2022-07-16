@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/candyCaneMint.fbx-6ee4398602ff133876766d5a72680fe0.scn"
+path="res://.import/candyCaneMint.fbx-31a88a75bd309cdb59f54575e8d9c1db.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/candyCaneMint.fbx"
-dest_files=[ "res://.import/candyCaneMint.fbx-6ee4398602ff133876766d5a72680fe0.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/candyCaneMint.fbx"
+dest_files=[ "res://.import/candyCaneMint.fbx-31a88a75bd309cdb59f54575e8d9c1db.scn" ]
 
 [params]
 

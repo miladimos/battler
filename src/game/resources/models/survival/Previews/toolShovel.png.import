@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toolShovel.png-700051d61a6d80264a147cf9ae4d1179.stex"
+path="res://.import/toolShovel.png-4f966236c9f72619344380a84155a5ed.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/toolShovel.png"
-dest_files=[ "res://.import/toolShovel.png-700051d61a6d80264a147cf9ae4d1179.stex" ]
+source_file="res://game/resources/models/survival/Previews/toolShovel.png"
+dest_files=[ "res://.import/toolShovel.png-4f966236c9f72619344380a84155a5ed.stex" ]
 
 [params]
 

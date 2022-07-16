@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/presentGreenRound.fbx-df0bd586151b0a9388805067f8b7bb6d.scn"
+path="res://.import/presentGreenRound.fbx-19e389bd4bc6651a0591fb179577dc7f.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/presentGreenRound.fbx"
-dest_files=[ "res://.import/presentGreenRound.fbx-df0bd586151b0a9388805067f8b7bb6d.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/presentGreenRound.fbx"
+dest_files=[ "res://.import/presentGreenRound.fbx-19e389bd4bc6651a0591fb179577dc7f.scn" ]
 
 [params]
 

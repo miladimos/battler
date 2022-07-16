@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/sled.fbx-0d82ea3427af266e924240615909533d.scn"
+path="res://.import/sled.fbx-def20a3f6458a1775b9850ed855edbeb.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/sled.fbx"
-dest_files=[ "res://.import/sled.fbx-0d82ea3427af266e924240615909533d.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/sled.fbx"
+dest_files=[ "res://.import/sled.fbx-def20a3f6458a1775b9850ed855edbeb.scn" ]
 
 [params]
 

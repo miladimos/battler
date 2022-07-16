@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structureRoof.fbx-0238c7e95d279c6019789f35b05c8b73.scn"
+path="res://.import/structureRoof.fbx-5d4dcd133f5a9aaba36358629eb8d444.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/structureRoof.fbx"
-dest_files=[ "res://.import/structureRoof.fbx-0238c7e95d279c6019789f35b05c8b73.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/structureRoof.fbx"
+dest_files=[ "res://.import/structureRoof.fbx-5d4dcd133f5a9aaba36358629eb8d444.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lightpost_SW.png-508d13ec6b0eb0a31441744458090383.stex"
+path="res://.import/lightpost_SW.png-3cda0e4da5a2b35e12e8435c073080e5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/lightpost_SW.png"
-dest_files=[ "res://.import/lightpost_SW.png-508d13ec6b0eb0a31441744458090383.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/lightpost_SW.png"
+dest_files=[ "res://.import/lightpost_SW.png-3cda0e4da5a2b35e12e8435c073080e5.stex" ]
 
 [params]
 

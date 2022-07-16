@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedrollFrame.png-dc0be45a067b905bc2a0fcf17cb46d6b.stex"
+path="res://.import/bedrollFrame.png-941b5aab2fa9ba5252d5d551e55760a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/bedrollFrame.png"
-dest_files=[ "res://.import/bedrollFrame.png-dc0be45a067b905bc2a0fcf17cb46d6b.stex" ]
+source_file="res://game/resources/models/survival/Previews/bedrollFrame.png"
+dest_files=[ "res://.import/bedrollFrame.png-941b5aab2fa9ba5252d5d551e55760a9.stex" ]
 
 [params]
 

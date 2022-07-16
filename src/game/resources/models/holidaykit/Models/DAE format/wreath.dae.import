@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wreath.dae-59afe329b8188248de26c94c8b0f42e7.scn"
+path="res://.import/wreath.dae-2b8e1e4067163562d4829a7eed92ff87.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/wreath.dae"
-dest_files=[ "res://.import/wreath.dae-59afe329b8188248de26c94c8b0f42e7.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/wreath.dae"
+dest_files=[ "res://.import/wreath.dae-2b8e1e4067163562d4829a7eed92ff87.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass.obj-f8af56e34b4664588396aaa1c99a3981.mesh"
+path="res://.import/grass.obj-b3991f9b77a3266f4285f7f06015f70e.mesh"
 
 [deps]
 
-files=[ "res://.import/grass.obj-f8af56e34b4664588396aaa1c99a3981.mesh" ]
+files=[ "res://.import/grass.obj-b3991f9b77a3266f4285f7f06015f70e.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/grass.obj"
-dest_files=[ "res://.import/grass.obj-f8af56e34b4664588396aaa1c99a3981.mesh", "res://.import/grass.obj-f8af56e34b4664588396aaa1c99a3981.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/grass.obj"
+dest_files=[ "res://.import/grass.obj-b3991f9b77a3266f4285f7f06015f70e.mesh", "res://.import/grass.obj-b3991f9b77a3266f4285f7f06015f70e.mesh" ]
 
 [params]
 

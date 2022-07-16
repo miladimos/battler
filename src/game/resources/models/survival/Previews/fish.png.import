@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fish.png-e428308e50520f5a2810c7540838bae4.stex"
+path="res://.import/fish.png-686ab27601b11b139f7706cf15cb31bf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/fish.png"
-dest_files=[ "res://.import/fish.png-e428308e50520f5a2810c7540838bae4.stex" ]
+source_file="res://game/resources/models/survival/Previews/fish.png"
+dest_files=[ "res://.import/fish.png-686ab27601b11b139f7706cf15cb31bf.stex" ]
 
 [params]
 

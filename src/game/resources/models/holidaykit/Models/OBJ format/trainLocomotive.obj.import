@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/trainLocomotive.obj-7bb3e4df2d4382fc7e183730f675b2e4.mesh"
+path="res://.import/trainLocomotive.obj-0ec3fbde4e222a451663d6fb6b2ee58f.mesh"
 
 [deps]
 
-files=[ "res://.import/trainLocomotive.obj-7bb3e4df2d4382fc7e183730f675b2e4.mesh" ]
+files=[ "res://.import/trainLocomotive.obj-0ec3fbde4e222a451663d6fb6b2ee58f.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/trainLocomotive.obj"
-dest_files=[ "res://.import/trainLocomotive.obj-7bb3e4df2d4382fc7e183730f675b2e4.mesh", "res://.import/trainLocomotive.obj-7bb3e4df2d4382fc7e183730f675b2e4.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/trainLocomotive.obj"
+dest_files=[ "res://.import/trainLocomotive.obj-0ec3fbde4e222a451663d6fb6b2ee58f.mesh", "res://.import/trainLocomotive.obj-0ec3fbde4e222a451663d6fb6b2ee58f.mesh" ]
 
 [params]
 

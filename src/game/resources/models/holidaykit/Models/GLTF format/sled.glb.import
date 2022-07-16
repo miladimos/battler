@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/sled.glb-66420befdc9f7729fd2eee96a5a34321.scn"
+path="res://.import/sled.glb-84dc84769c304ccc3c2d0d2dff14d49c.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/sled.glb"
-dest_files=[ "res://.import/sled.glb-66420befdc9f7729fd2eee96a5a34321.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/sled.glb"
+dest_files=[ "res://.import/sled.glb-84dc84769c304ccc3c2d0d2dff14d49c.scn" ]
 
 [params]
 

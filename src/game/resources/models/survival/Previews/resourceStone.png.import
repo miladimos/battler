@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/resourceStone.png-a2390d7d65a6cd018296959c02d568b2.stex"
+path="res://.import/resourceStone.png-a94f696023568ce5f17d6cfeb25d2dc8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/resourceStone.png"
-dest_files=[ "res://.import/resourceStone.png-a2390d7d65a6cd018296959c02d568b2.stex" ]
+source_file="res://game/resources/models/survival/Previews/resourceStone.png"
+dest_files=[ "res://.import/resourceStone.png-a94f696023568ce5f17d6cfeb25d2dc8.stex" ]
 
 [params]
 

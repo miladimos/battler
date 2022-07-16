@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/signpost.png-2d25b3d94c1b49154bd61bb5e27409fa.stex"
+path="res://.import/signpost.png-ef955046f2bb7010960a84123d5ad8ad.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/signpost.png"
-dest_files=[ "res://.import/signpost.png-2d25b3d94c1b49154bd61bb5e27409fa.stex" ]
+source_file="res://game/resources/models/survival/Previews/signpost.png"
+dest_files=[ "res://.import/signpost.png-ef955046f2bb7010960a84123d5ad8ad.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fenceFortified.png-027e10b0b3ded5c801f94ff6ce411e34.stex"
+path="res://.import/fenceFortified.png-e48b42248597cb7e0a5616cbfbc7c395.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/fenceFortified.png"
-dest_files=[ "res://.import/fenceFortified.png-027e10b0b3ded5c801f94ff6ce411e34.stex" ]
+source_file="res://game/resources/models/survival/Previews/fenceFortified.png"
+dest_files=[ "res://.import/fenceFortified.png-e48b42248597cb7e0a5616cbfbc7c395.stex" ]
 
 [params]
 

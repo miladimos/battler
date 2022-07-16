@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chest.fbx-8841bd87b4150f71e37f702496301055.scn"
+path="res://.import/chest.fbx-9bb2fbbe182d06783dac95982082a293.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/chest.fbx"
-dest_files=[ "res://.import/chest.fbx-8841bd87b4150f71e37f702496301055.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/chest.fbx"
+dest_files=[ "res://.import/chest.fbx-9bb2fbbe182d06783dac95982082a293.scn" ]
 
 [params]
 

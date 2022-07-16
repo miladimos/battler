@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/treePineSnowRound.png-27be329a8c9dd6d1b3ac2f3a35111129.stex"
+path="res://.import/treePineSnowRound.png-7dd9ea2ea40c91b36c56021c97c91556.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/treePineSnowRound.png"
-dest_files=[ "res://.import/treePineSnowRound.png-27be329a8c9dd6d1b3ac2f3a35111129.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/treePineSnowRound.png"
+dest_files=[ "res://.import/treePineSnowRound.png-7dd9ea2ea40c91b36c56021c97c91556.stex" ]
 
 [params]
 

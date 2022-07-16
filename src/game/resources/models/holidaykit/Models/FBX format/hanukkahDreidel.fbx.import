@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hanukkahDreidel.fbx-fcfcb3457169709dd841ea6008e18904.scn"
+path="res://.import/hanukkahDreidel.fbx-f012d6b72005aca90ed0f4daaa72310e.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/hanukkahDreidel.fbx"
-dest_files=[ "res://.import/hanukkahDreidel.fbx-fcfcb3457169709dd841ea6008e18904.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/hanukkahDreidel.fbx"
+dest_files=[ "res://.import/hanukkahDreidel.fbx-f012d6b72005aca90ed0f4daaa72310e.scn" ]
 
 [params]
 

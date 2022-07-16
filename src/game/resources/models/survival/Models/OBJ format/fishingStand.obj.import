@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh"
+path="res://.import/fishingStand.obj-7752ea9101bc1c0f0696039a4a33506f.mesh"
 
 [deps]
 
-files=[ "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh" ]
+files=[ "res://.import/fishingStand.obj-7752ea9101bc1c0f0696039a4a33506f.mesh" ]
 
-source_file="res://game/resources/survival/Models/OBJ format/fishingStand.obj"
-dest_files=[ "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh", "res://.import/fishingStand.obj-d5cdc7c1e6537e63687c8d3de4099cad.mesh" ]
+source_file="res://game/resources/models/survival/Models/OBJ format/fishingStand.obj"
+dest_files=[ "res://.import/fishingStand.obj-7752ea9101bc1c0f0696039a4a33506f.mesh", "res://.import/fishingStand.obj-7752ea9101bc1c0f0696039a4a33506f.mesh" ]
 
 [params]
 

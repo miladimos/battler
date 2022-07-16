@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/treeDecorated.obj-031f52b5778c2e32d3e7127125e44fa7.mesh"
+path="res://.import/treeDecorated.obj-3fd4e6d30a03646af77166400570c2e4.mesh"
 
 [deps]
 
-files=[ "res://.import/treeDecorated.obj-031f52b5778c2e32d3e7127125e44fa7.mesh" ]
+files=[ "res://.import/treeDecorated.obj-3fd4e6d30a03646af77166400570c2e4.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/treeDecorated.obj"
-dest_files=[ "res://.import/treeDecorated.obj-031f52b5778c2e32d3e7127125e44fa7.mesh", "res://.import/treeDecorated.obj-031f52b5778c2e32d3e7127125e44fa7.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/treeDecorated.obj"
+dest_files=[ "res://.import/treeDecorated.obj-3fd4e6d30a03646af77166400570c2e4.mesh", "res://.import/treeDecorated.obj-3fd4e6d30a03646af77166400570c2e4.mesh" ]
 
 [params]
 

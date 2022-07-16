@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wreath.glb-f2ba89dffb05fe717daee280db8ad882.scn"
+path="res://.import/wreath.glb-7af650ee0acc9661dbd69769aaf3b412.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/wreath.glb"
-dest_files=[ "res://.import/wreath.glb-f2ba89dffb05fe717daee280db8ad882.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/wreath.glb"
+dest_files=[ "res://.import/wreath.glb-7af650ee0acc9661dbd69769aaf3b412.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chest.png-8df037d17964b758567ef862a2396164.stex"
+path="res://.import/chest.png-9949dd3d7b39049efaabd64604c5bb01.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/chest.png"
-dest_files=[ "res://.import/chest.png-8df037d17964b758567ef862a2396164.stex" ]
+source_file="res://game/resources/models/survival/Previews/chest.png"
+dest_files=[ "res://.import/chest.png-9949dd3d7b39049efaabd64604c5bb01.stex" ]
 
 [params]
 

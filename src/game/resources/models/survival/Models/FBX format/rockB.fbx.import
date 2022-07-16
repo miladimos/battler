@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockB.fbx-7a9a5cf49c9fdc3e7657bb01b3dc1018.scn"
+path="res://.import/rockB.fbx-31a2593e022d9ab4d0baa11d204283b7.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/rockB.fbx"
-dest_files=[ "res://.import/rockB.fbx-7a9a5cf49c9fdc3e7657bb01b3dc1018.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/rockB.fbx"
+dest_files=[ "res://.import/rockB.fbx-31a2593e022d9ab4d0baa11d204283b7.scn" ]
 
 [params]
 

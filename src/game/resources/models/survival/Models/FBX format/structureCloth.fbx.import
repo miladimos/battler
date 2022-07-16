@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structureCloth.fbx-b54320384a0a960311c8b7bf0b41678c.scn"
+path="res://.import/structureCloth.fbx-219e5a8042f10ee48a01d8e059cdbf9f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/structureCloth.fbx"
-dest_files=[ "res://.import/structureCloth.fbx-b54320384a0a960311c8b7bf0b41678c.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/structureCloth.fbx"
+dest_files=[ "res://.import/structureCloth.fbx-219e5a8042f10ee48a01d8e059cdbf9f.scn" ]
 
 [params]
 

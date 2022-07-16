@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockC.dae-438d8b1691b01ef70023c8dc57b9e1a3.scn"
+path="res://.import/rockC.dae-3a18b0f285cfb43eede36b9f00393a4f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/rockC.dae"
-dest_files=[ "res://.import/rockC.dae-438d8b1691b01ef70023c8dc57b9e1a3.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/rockC.dae"
+dest_files=[ "res://.import/rockC.dae-3a18b0f285cfb43eede36b9f00393a4f.scn" ]
 
 [params]
 

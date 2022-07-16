@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rockFormationLarge_SW.png-fef11a7ade4dd3cc8c75de0c9e297470.stex"
+path="res://.import/rockFormationLarge_SW.png-930d78c9d9742c7a275c8a67cff11b05.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/rockFormationLarge_SW.png"
-dest_files=[ "res://.import/rockFormationLarge_SW.png-fef11a7ade4dd3cc8c75de0c9e297470.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/rockFormationLarge_SW.png"
+dest_files=[ "res://.import/rockFormationLarge_SW.png-930d78c9d9742c7a275c8a67cff11b05.stex" ]
 
 [params]
 

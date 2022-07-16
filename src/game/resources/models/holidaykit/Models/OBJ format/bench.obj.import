@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bench.obj-06e9bf8fc19173b516f8c59a2f20dfe8.mesh"
+path="res://.import/bench.obj-65c8d13beafadd4855ae5563ad29e530.mesh"
 
 [deps]
 
-files=[ "res://.import/bench.obj-06e9bf8fc19173b516f8c59a2f20dfe8.mesh" ]
+files=[ "res://.import/bench.obj-65c8d13beafadd4855ae5563ad29e530.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/bench.obj"
-dest_files=[ "res://.import/bench.obj-06e9bf8fc19173b516f8c59a2f20dfe8.mesh", "res://.import/bench.obj-06e9bf8fc19173b516f8c59a2f20dfe8.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/bench.obj"
+dest_files=[ "res://.import/bench.obj-65c8d13beafadd4855ae5563ad29e530.mesh", "res://.import/bench.obj-65c8d13beafadd4855ae5563ad29e530.mesh" ]
 
 [params]
 

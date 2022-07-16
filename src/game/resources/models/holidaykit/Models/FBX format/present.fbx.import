@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/present.fbx-779b0f82d39950d8e5c04ddff79db7ed.scn"
+path="res://.import/present.fbx-f514ecc412ee2ca674048af7e1280a64.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/present.fbx"
-dest_files=[ "res://.import/present.fbx-779b0f82d39950d8e5c04ddff79db7ed.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/present.fbx"
+dest_files=[ "res://.import/present.fbx-f514ecc412ee2ca674048af7e1280a64.scn" ]
 
 [params]
 

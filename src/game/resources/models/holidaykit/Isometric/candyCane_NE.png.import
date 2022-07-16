@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/candyCane_NE.png-d99ff1300899530690ee52bd2e30d891.stex"
+path="res://.import/candyCane_NE.png-9478bca5733c1c3d9b5cea5fa40c9274.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/candyCane_NE.png"
-dest_files=[ "res://.import/candyCane_NE.png-d99ff1300899530690ee52bd2e30d891.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/candyCane_NE.png"
+dest_files=[ "res://.import/candyCane_NE.png-9478bca5733c1c3d9b5cea5fa40c9274.stex" ]
 
 [params]
 

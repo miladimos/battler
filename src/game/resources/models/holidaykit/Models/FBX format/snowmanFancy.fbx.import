@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowmanFancy.fbx-51ca7b9eaf886bc218b9d7a52789a93c.scn"
+path="res://.import/snowmanFancy.fbx-1af180d841f1d8730fd02470a97646dc.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/snowmanFancy.fbx"
-dest_files=[ "res://.import/snowmanFancy.fbx-51ca7b9eaf886bc218b9d7a52789a93c.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/snowmanFancy.fbx"
+dest_files=[ "res://.import/snowmanFancy.fbx-1af180d841f1d8730fd02470a97646dc.scn" ]
 
 [params]
 

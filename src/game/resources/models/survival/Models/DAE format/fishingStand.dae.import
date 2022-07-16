@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fishingStand.dae-d44643fbd95f213c15269f85ac8159d2.scn"
+path="res://.import/fishingStand.dae-c968fe5570d59b3603b30b5f973f8767.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/fishingStand.dae"
-dest_files=[ "res://.import/fishingStand.dae-d44643fbd95f213c15269f85ac8159d2.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/fishingStand.dae"
+dest_files=[ "res://.import/fishingStand.dae-c968fe5570d59b3603b30b5f973f8767.scn" ]
 
 [params]
 

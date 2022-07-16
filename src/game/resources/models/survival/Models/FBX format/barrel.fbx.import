@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/barrel.fbx-58b2bc4f21167689fca53606bc1b7029.scn"
+path="res://.import/barrel.fbx-580af93dc206b66cbd945bd9784ad48c.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/barrel.fbx"
-dest_files=[ "res://.import/barrel.fbx-58b2bc4f21167689fca53606bc1b7029.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/barrel.fbx"
+dest_files=[ "res://.import/barrel.fbx-580af93dc206b66cbd945bd9784ad48c.scn" ]
 
 [params]
 

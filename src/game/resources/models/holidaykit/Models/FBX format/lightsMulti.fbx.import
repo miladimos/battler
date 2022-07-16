@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightsMulti.fbx-2568cf0d9415ba95aded2310e4240d4d.scn"
+path="res://.import/lightsMulti.fbx-fda101d6ac47033e4655801c3b08dbcc.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/lightsMulti.fbx"
-dest_files=[ "res://.import/lightsMulti.fbx-2568cf0d9415ba95aded2310e4240d4d.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/lightsMulti.fbx"
+dest_files=[ "res://.import/lightsMulti.fbx-fda101d6ac47033e4655801c3b08dbcc.scn" ]
 
 [params]
 

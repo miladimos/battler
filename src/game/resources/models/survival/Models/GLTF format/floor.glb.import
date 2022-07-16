@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floor.glb-9e40402d44ec9ee587d15f0137ed706a.scn"
+path="res://.import/floor.glb-60508ebe860ca48c5ff2176bafa3794b.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/floor.glb"
-dest_files=[ "res://.import/floor.glb-9e40402d44ec9ee587d15f0137ed706a.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/floor.glb"
+dest_files=[ "res://.import/floor.glb-60508ebe860ca48c5ff2176bafa3794b.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/grassLarge.dae-48f7af8a910c79029d984b201a71add4.scn"
+path="res://.import/grassLarge.dae-7b98884c8b7cdda437a81183db923c64.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/grassLarge.dae"
-dest_files=[ "res://.import/grassLarge.dae-48f7af8a910c79029d984b201a71add4.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/grassLarge.dae"
+dest_files=[ "res://.import/grassLarge.dae-7b98884c8b7cdda437a81183db923c64.scn" ]
 
 [params]
 

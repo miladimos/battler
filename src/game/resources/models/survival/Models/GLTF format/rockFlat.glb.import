@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlat.glb-be08e9efdc09e28ee5f1b1cd21e33f3c.scn"
+path="res://.import/rockFlat.glb-8012d70306aa59203ff6e4fe90ca8da1.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/rockFlat.glb"
-dest_files=[ "res://.import/rockFlat.glb-be08e9efdc09e28ee5f1b1cd21e33f3c.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/rockFlat.glb"
+dest_files=[ "res://.import/rockFlat.glb-8012d70306aa59203ff6e4fe90ca8da1.scn" ]
 
 [params]
 

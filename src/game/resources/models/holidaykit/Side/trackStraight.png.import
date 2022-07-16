@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trackStraight.png-0130a0ad6a094b2ccb343c69a8bf2ae8.stex"
+path="res://.import/trackStraight.png-cef1a488f6db2cfa9534a999d992af43.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/trackStraight.png"
-dest_files=[ "res://.import/trackStraight.png-0130a0ad6a094b2ccb343c69a8bf2ae8.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/trackStraight.png"
+dest_files=[ "res://.import/trackStraight.png-cef1a488f6db2cfa9534a999d992af43.stex" ]
 
 [params]
 

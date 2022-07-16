@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightpost.glb-9265fde9b97287b70b8422b2afd3d4bd.scn"
+path="res://.import/lightpost.glb-df7e92aa0a4983b1605fc65b6995e220.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/lightpost.glb"
-dest_files=[ "res://.import/lightpost.glb-9265fde9b97287b70b8422b2afd3d4bd.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/lightpost.glb"
+dest_files=[ "res://.import/lightpost.glb-df7e92aa0a4983b1605fc65b6995e220.scn" ]
 
 [params]
 

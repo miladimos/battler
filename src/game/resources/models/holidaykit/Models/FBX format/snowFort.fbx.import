@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowFort.fbx-35d4faf14963d54e7f04053bcc6d0afd.scn"
+path="res://.import/snowFort.fbx-2525615b672ade0816277c6fa37eda2f.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/FBX format/snowFort.fbx"
-dest_files=[ "res://.import/snowFort.fbx-35d4faf14963d54e7f04053bcc6d0afd.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/FBX format/snowFort.fbx"
+dest_files=[ "res://.import/snowFort.fbx-2525615b672ade0816277c6fa37eda2f.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/sled.dae-73b50584b827e7028d5c4e41f7db454f.scn"
+path="res://.import/sled.dae-676b73cbb785038ad3eb040f1e48134b.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/sled.dae"
-dest_files=[ "res://.import/sled.dae-73b50584b827e7028d5c4e41f7db454f.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/sled.dae"
+dest_files=[ "res://.import/sled.dae-676b73cbb785038ad3eb040f1e48134b.scn" ]
 
 [params]
 

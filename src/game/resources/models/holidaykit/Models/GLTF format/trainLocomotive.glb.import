@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/trainLocomotive.glb-84404ac6b10d3e2b7d726ebb52125c53.scn"
+path="res://.import/trainLocomotive.glb-d9ffb55978dfe1f00f6ad56cc8028392.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/trainLocomotive.glb"
-dest_files=[ "res://.import/trainLocomotive.glb-84404ac6b10d3e2b7d726ebb52125c53.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/trainLocomotive.glb"
+dest_files=[ "res://.import/trainLocomotive.glb-d9ffb55978dfe1f00f6ad56cc8028392.scn" ]
 
 [params]
 

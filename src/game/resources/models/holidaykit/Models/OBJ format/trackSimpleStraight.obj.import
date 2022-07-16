@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/trackSimpleStraight.obj-2124da11d7917ad3c475121b7798aee3.mesh"
+path="res://.import/trackSimpleStraight.obj-84db9c233ed4934efeb10fa450fde1af.mesh"
 
 [deps]
 
-files=[ "res://.import/trackSimpleStraight.obj-2124da11d7917ad3c475121b7798aee3.mesh" ]
+files=[ "res://.import/trackSimpleStraight.obj-84db9c233ed4934efeb10fa450fde1af.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/trackSimpleStraight.obj"
-dest_files=[ "res://.import/trackSimpleStraight.obj-2124da11d7917ad3c475121b7798aee3.mesh", "res://.import/trackSimpleStraight.obj-2124da11d7917ad3c475121b7798aee3.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/trackSimpleStraight.obj"
+dest_files=[ "res://.import/trackSimpleStraight.obj-84db9c233ed4934efeb10fa450fde1af.mesh", "res://.import/trackSimpleStraight.obj-84db9c233ed4934efeb10fa450fde1af.mesh" ]
 
 [params]
 

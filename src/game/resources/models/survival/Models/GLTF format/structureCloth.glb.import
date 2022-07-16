@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/structureCloth.glb-b7cc3159bbab64e27d75e7249195d29d.scn"
+path="res://.import/structureCloth.glb-af196513aa8d189a7784aff99a2f3580.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/GLTF format/structureCloth.glb"
-dest_files=[ "res://.import/structureCloth.glb-b7cc3159bbab64e27d75e7249195d29d.scn" ]
+source_file="res://game/resources/models/survival/Models/GLTF format/structureCloth.glb"
+dest_files=[ "res://.import/structureCloth.glb-af196513aa8d189a7784aff99a2f3580.scn" ]
 
 [params]
 

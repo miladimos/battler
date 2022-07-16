@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/campfire.png-4f604d2e7cdeac8ecff6cfdf1c042766.stex"
+path="res://.import/campfire.png-5e59527c30bc3645818789459b6355bb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/survival/Previews/campfire.png"
-dest_files=[ "res://.import/campfire.png-4f604d2e7cdeac8ecff6cfdf1c042766.stex" ]
+source_file="res://game/resources/models/survival/Previews/campfire.png"
+dest_files=[ "res://.import/campfire.png-5e59527c30bc3645818789459b6355bb.stex" ]
 
 [params]
 

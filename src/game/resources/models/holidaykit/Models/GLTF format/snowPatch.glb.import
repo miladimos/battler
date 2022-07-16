@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowPatch.glb-0871f22ae6977f1dc41a44b0d7697d2f.scn"
+path="res://.import/snowPatch.glb-d3798a9bd2e97dff4b0ff6212da236fd.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/snowPatch.glb"
-dest_files=[ "res://.import/snowPatch.glb-0871f22ae6977f1dc41a44b0d7697d2f.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/snowPatch.glb"
+dest_files=[ "res://.import/snowPatch.glb-d3798a9bd2e97dff4b0ff6212da236fd.scn" ]
 
 [params]
 

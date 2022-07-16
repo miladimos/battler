@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rockFlat.dae-e677d1d72d24c4904b524583d7a58938.scn"
+path="res://.import/rockFlat.dae-54016ade8c73cd9fe7c8b9e128908a5c.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/rockFlat.dae"
-dest_files=[ "res://.import/rockFlat.dae-e677d1d72d24c4904b524583d7a58938.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/rockFlat.dae"
+dest_files=[ "res://.import/rockFlat.dae-54016ade8c73cd9fe7c8b9e128908a5c.scn" ]
 
 [params]
 

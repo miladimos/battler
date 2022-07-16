@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snowmanFancy.glb-b45266953cf914738694991560637ae6.scn"
+path="res://.import/snowmanFancy.glb-bdfe19d946a98cd30702795713afc0c9.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/snowmanFancy.glb"
-dest_files=[ "res://.import/snowmanFancy.glb-b45266953cf914738694991560637ae6.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/snowmanFancy.glb"
+dest_files=[ "res://.import/snowmanFancy.glb-bdfe19d946a98cd30702795713afc0c9.scn" ]
 
 [params]
 

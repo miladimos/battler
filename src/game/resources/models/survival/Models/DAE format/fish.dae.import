@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fish.dae-ebc64c2647693c163193e761025a3e56.scn"
+path="res://.import/fish.dae-6b5ad8fd3aca5f58acfe839dc613835f.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/DAE format/fish.dae"
-dest_files=[ "res://.import/fish.dae-ebc64c2647693c163193e761025a3e56.scn" ]
+source_file="res://game/resources/models/survival/Models/DAE format/fish.dae"
+dest_files=[ "res://.import/fish.dae-6b5ad8fd3aca5f58acfe839dc613835f.scn" ]
 
 [params]
 

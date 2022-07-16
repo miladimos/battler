@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kwanzaaKinaraAlternative.glb-44f1664d316b3f56eb4f5974b267f458.scn"
+path="res://.import/kwanzaaKinaraAlternative.glb-e8b131767ceaa6672fce59fca59c38d7.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/kwanzaaKinaraAlternative.glb"
-dest_files=[ "res://.import/kwanzaaKinaraAlternative.glb-44f1664d316b3f56eb4f5974b267f458.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/kwanzaaKinaraAlternative.glb"
+dest_files=[ "res://.import/kwanzaaKinaraAlternative.glb-e8b131767ceaa6672fce59fca59c38d7.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/snowman.obj-200618bd0ccace17c2c99d67888053c8.mesh"
+path="res://.import/snowman.obj-ae23a4f0858cb4e5006bc99ee0b91bba.mesh"
 
 [deps]
 
-files=[ "res://.import/snowman.obj-200618bd0ccace17c2c99d67888053c8.mesh" ]
+files=[ "res://.import/snowman.obj-ae23a4f0858cb4e5006bc99ee0b91bba.mesh" ]
 
-source_file="res://game/resources/holidaykit/Models/OBJ format/snowman.obj"
-dest_files=[ "res://.import/snowman.obj-200618bd0ccace17c2c99d67888053c8.mesh", "res://.import/snowman.obj-200618bd0ccace17c2c99d67888053c8.mesh" ]
+source_file="res://game/resources/models/holidaykit/Models/OBJ format/snowman.obj"
+dest_files=[ "res://.import/snowman.obj-ae23a4f0858cb4e5006bc99ee0b91bba.mesh", "res://.import/snowman.obj-ae23a4f0858cb4e5006bc99ee0b91bba.mesh" ]
 
 [params]
 

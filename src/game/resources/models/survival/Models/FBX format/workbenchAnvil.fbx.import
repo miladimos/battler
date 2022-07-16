@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbenchAnvil.fbx-9246ec0dff06aca3d9587654560b55c4.scn"
+path="res://.import/workbenchAnvil.fbx-e2dcef449482008bda603b210bd08f96.scn"
 
 [deps]
 
-source_file="res://game/resources/survival/Models/FBX format/workbenchAnvil.fbx"
-dest_files=[ "res://.import/workbenchAnvil.fbx-9246ec0dff06aca3d9587654560b55c4.scn" ]
+source_file="res://game/resources/models/survival/Models/FBX format/workbenchAnvil.fbx"
+dest_files=[ "res://.import/workbenchAnvil.fbx-e2dcef449482008bda603b210bd08f96.scn" ]
 
 [params]
 

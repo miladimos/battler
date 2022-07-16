@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lightsRed.glb-4132f272c454ad909ed8d49572903164.scn"
+path="res://.import/lightsRed.glb-29fa2aef569261ce6db6cacd46c9912b.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/GLTF format/lightsRed.glb"
-dest_files=[ "res://.import/lightsRed.glb-4132f272c454ad909ed8d49572903164.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/GLTF format/lightsRed.glb"
+dest_files=[ "res://.import/lightsRed.glb-29fa2aef569261ce6db6cacd46c9912b.scn" ]
 
 [params]
 

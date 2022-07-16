@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bench_NE.png-d574f8e63068371113ce7a11a50b9805.stex"
+path="res://.import/bench_NE.png-a93c518d2bf2ea177cf70a0aabc8a340.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Isometric/bench_NE.png"
-dest_files=[ "res://.import/bench_NE.png-d574f8e63068371113ce7a11a50b9805.stex" ]
+source_file="res://game/resources/models/holidaykit/Isometric/bench_NE.png"
+dest_files=[ "res://.import/bench_NE.png-a93c518d2bf2ea177cf70a0aabc8a340.stex" ]
 
 [params]
 

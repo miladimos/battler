@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hanukkahMenorah.png-579780e9b10ca86206098e8f286a8d5a.stex"
+path="res://.import/hanukkahMenorah.png-789b92cf449efdd3e5d2e097553e77a1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Side/hanukkahMenorah.png"
-dest_files=[ "res://.import/hanukkahMenorah.png-579780e9b10ca86206098e8f286a8d5a.stex" ]
+source_file="res://game/resources/models/holidaykit/Side/hanukkahMenorah.png"
+dest_files=[ "res://.import/hanukkahMenorah.png-789b92cf449efdd3e5d2e097553e77a1.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hanukkahMenorah.dae-6451f30c1de77f8b0e6d5737e3509c8c.scn"
+path="res://.import/hanukkahMenorah.dae-07a900d3a0b11ec6371c942d60e8b8e7.scn"
 
 [deps]
 
-source_file="res://game/resources/holidaykit/Models/DAE format/hanukkahMenorah.dae"
-dest_files=[ "res://.import/hanukkahMenorah.dae-6451f30c1de77f8b0e6d5737e3509c8c.scn" ]
+source_file="res://game/resources/models/holidaykit/Models/DAE format/hanukkahMenorah.dae"
+dest_files=[ "res://.import/hanukkahMenorah.dae-07a900d3a0b11ec6371c942d60e8b8e7.scn" ]
 
 [params]
 
