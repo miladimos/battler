@@ -9,6 +9,11 @@
 config_version=4
 
 _global_script_classes=[ {
+"base": "Weapon",
+"class": "Armed",
+"language": "GDScript",
+"path": "res://game/scripts/weapon/armed.gd"
+}, {
 "base": "ResourceFormatLoader",
 "class": "HTerrainDataLoader",
 "language": "GDScript",
@@ -30,6 +35,7 @@ _global_script_classes=[ {
 "path": "res://game/scripts/weapon/weapon.gd"
 } ]
 _global_script_class_icons={
+"Armed": "",
 "HTerrainDataLoader": "",
 "HTerrainDataSaver": "",
 "MovementController": "",
@@ -41,6 +47,18 @@ _global_script_class_icons={
 config/name="Battler"
 run/main_scene="res://game/scenes/ui/menu/main_menu.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+Global="*res://game/scripts/global/global.gd"
+
+[debug]
+
+settings/stdout/print_fps=true
+
+[display]
+
+window/size/fullscreen=true
 
 [editor_plugins]
 

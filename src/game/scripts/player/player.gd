@@ -13,62 +13,10 @@ onready var head = $head
 onready var camera = $head/camera
 
 
-func _ready():
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
 
 
-#func _process(delta):
-#	window_activity()
-#	process_weapons(delta)
 
-						
-func _process(delta):
-	if Input.is_action_just_pressed("ui_cancel"):
-		Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
-	
-
-func _input(event):
-	if event is InputEventMouseMotion:
-		rotate_y(deg2rad(-event.relative.x * mouse_sensitivity))
-		
-		var x_delta = event.relative.y * mouse_sensitivity
-		if camera_x_rotation + x_delta > -90 and camera_x_rotation + x_delta < 90:
-			camera.rotate_x(deg2rad(-x_delta))
-			camera_x_rotation += x_delta	
-		
-	if event is InputEventMouseButton:
-		if event.pressed:
-			match event.button_index:
-				BUTTON_WHEEL_UP:
-					weapon_manager.next_weapon()
-				BUTTON_WHEEL_DOWN:
-					weapon_manager.previous_weapon()
-	
-func _physics_process(delta):
-	var direction = Vector3()
-	var head_basis = head.get_global_transform().basis
-	
-	if Input.is_action_pressed("player_move_forward"):
-		direction -= head_basis.z
-	elif Input.is_action_pressed("player_move_backward"):
-		direction += head_basis.z
-	elif Input.is_action_pressed("player_move_right"):
-		direction += head_basis.x
-	elif Input.is_action_pressed("player_move_left"):
-		direction -= head_basis.x
-	
-	direction = direction.normalized()
-	
-	volecity = volecity.linear_interpolate(direction * speed, acceleration * delta)
-	volecity.y -= gravity
-	
-	if Input.is_action_just_released("player_jump") and is_on_floor():
-		volecity.y += jump_power
-		
-	volecity = move_and_slide(volecity, Vector3.UP)		
-		
-	
 
 # NodePaths
 export(NodePath) var camera_path
@@ -77,7 +25,7 @@ export(NodePath) var weapon_manager_path
 export(NodePath) var wallrun_node_path
 
 # References
-onready var camera = get_node(camera_path)
+#onready var camera = get_node(camera_path)
 onready var weapon_camera = get_node(weapon_camera_path)
 onready var weapon_manager = get_node(weapon_manager_path)
 onready var wallrun_node = get_node(wallrun_node_path)
@@ -127,6 +75,77 @@ export(float) var wall_jump_vertical_power = 0.75
 export(float, 0, 1) var wall_jump_factor = 0.4
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+func _ready():
+	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+
+
+#func _process(delta):
+#	window_activity()
+#	process_weapons(delta)
+
+						
+func _process(delta):
+	if Input.is_action_just_pressed("ui_cancel"):
+		Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
+	
+
+func _input(event):
+	if event is InputEventMouseMotion:
+		rotate_y(deg2rad(-event.relative.x * mouse_sensitivity))
+		
+		var x_delta = event.relative.y * mouse_sensitivity
+		if camera_x_rotation + x_delta > -90 and camera_x_rotation + x_delta < 90:
+			camera.rotate_x(deg2rad(-x_delta))
+			camera_x_rotation += x_delta	
+		
+	if event is InputEventMouseButton:
+		if event.pressed:
+			match event.button_index:
+				BUTTON_WHEEL_UP:
+					weapon_manager.next_weapon()
+				BUTTON_WHEEL_DOWN:
+					weapon_manager.previous_weapon()
+	
+#func _physics_process(delta):
+#	var direction = Vector3()
+#	var head_basis = head.get_global_transform().basis
+#
+#	if Input.is_action_pressed("player_move_forward"):
+#		direction -= head_basis.z
+#	elif Input.is_action_pressed("player_move_backward"):
+#		direction += head_basis.z
+#	elif Input.is_action_pressed("player_move_right"):
+#		direction += head_basis.x
+#	elif Input.is_action_pressed("player_move_left"):
+#		direction -= head_basis.x
+#
+#	direction = direction.normalized()
+#
+#	volecity = volecity.linear_interpolate(direction * speed, acceleration * delta)
+#	volecity.y -= gravity
+#
+#	if Input.is_action_just_released("player_jump") and is_on_floor():
+#		volecity.y += jump_power
+#
+#	volecity = move_and_slide(volecity, Vector3.UP)		
+#
+	
 func _physics_process(delta):
 	
 	process_movement_inputs()

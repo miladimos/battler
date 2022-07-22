@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pistol_B.glb-60fc1bd5fa9dc4de8841b3f8dbb7d359.scn"
+path="res://.import/rifle_01.glb-df4ed4faf5c2a2bddfde46d60df9747b.scn"
 
 [deps]
 
-source_file="res://game/resources/models/weapons/pistols/pistol_01/Pistol_B.glb"
-dest_files=[ "res://.import/Pistol_B.glb-60fc1bd5fa9dc4de8841b3f8dbb7d359.scn" ]
+source_file="res://game/resources/models/weapons/rifiles/rifle_01/rifle_01.glb"
+dest_files=[ "res://.import/rifle_01.glb-df4ed4faf5c2a2bddfde46d60df9747b.scn" ]
 
 [params]
 

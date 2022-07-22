@@ -14,7 +14,7 @@ transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0.20
 [node name="Head" parent="." index="1" instance=ExtResource( 3 )]
 
 [node name="weapon" parent="Head" index="1" instance=ExtResource( 5 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.4, 0, -0.5 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.173, 0, -0.4 )
 
 [node name="Sprint" type="Node" parent="." index="2"]
 script = ExtResource( 1 )

@@ -13,7 +13,7 @@ var weapons = {}
 var hud
 
 var current_weapon # Reference to the current weapon equipped
-var current_weapon_slot = "Empty" # The current weapon slot
+var current_weapon_slot = "empty" # The current weapon slot
 
 var changing_weapon = false
 var unequipped_weapon = false
@@ -36,9 +36,9 @@ func _ready():
 	}
 	
 	weapons = {
-		"Empty" : $unarmed,
-		"Primary" : $Pistol_B,
-		"Secondary" : $Rifle_B
+		"empty" : $unarmed,
+		"primary" : $rifle,
+		"secondary" : $pistol
 	}
 	
 	# Initialize references for each weapons
@@ -47,8 +47,8 @@ func _ready():
 			weapon_setup(weapons[w])
 	
 	# Set current weapon to unarmed
-	current_weapon = weapons["Empty"]
-	change_weapon("Empty")
+	current_weapon = weapons["empty"]
+	change_weapon("empty")
 	
 	# Disable process
 	set_process(false)
@@ -110,11 +110,11 @@ func change_weapon(new_weapon_slot):
 # Scroll weapon change
 func update_weapon_index():
 	match current_weapon_slot:
-		"Empty":
+		"empty":
 			weapon_index = 0
-		"Primary":
+		"primary":
 			weapon_index = 1
-		"Secondary":
+		"secondary":
 			weapon_index = 2
 
 func next_weapon():
@@ -166,7 +166,7 @@ func add_weapon(weapon_data):
 	if not weapon_data["Name"] in all_weapons:
 		return
 	
-	if is_instance_valid(weapons["Primary"]) == false:
+	if is_instance_valid(weapons["primary"]) == false:
 		
 		# Instance the new weapon
 		var weapon = Global.instantiate_node(all_weapons[weapon_data["Name"]], Vector3.ZERO, self)
@@ -179,12 +179,12 @@ func add_weapon(weapon_data):
 		weapon.transform.origin = weapon.equip_pos
 		
 		# Update the dictionary and change weapon
-		weapons["Primary"] = weapon
-		change_weapon("Primary")
+		weapons["primary"] = weapon
+		change_weapon("primary")
 		
 		return
 	
-	if is_instance_valid(weapons["Secondary"]) == false:
+	if is_instance_valid(weapons["secondary"]) == false:
 		
 		# Instance the new weapon
 		var weapon = Global.instantiate_node(all_weapons[weapon_data["Name"]], Vector3.ZERO, self)
@@ -197,8 +197,8 @@ func add_weapon(weapon_data):
 		weapon.transform.origin = weapon.equip_pos
 		
 		# Update the dictionary and change weapon
-		weapons["Secondary"] = weapon
-		change_weapon("Secondary")
+		weapons["secondary"] = weapon
+		change_weapon("secondary")
 		
 		return
 
@@ -206,12 +206,12 @@ func add_weapon(weapon_data):
 
 # Will be called from player.gd
 func drop_weapon():
-	if current_weapon_slot != "Empty":
+	if current_weapon_slot != "empty":
 		current_weapon.drop_weapon()
 		
 		# Need to be set to Unarmed in order call change_weapon() function
-		current_weapon_slot = "Empty"
-		current_weapon = weapons["Empty"]
+		current_weapon_slot = "empty"
+		current_weapon = weapons["empty"]
 		
 		# Update HUD
 		current_weapon.update_ammo()
@@ -232,7 +232,7 @@ func switch_weapon(weapon_data):
 	# If we are unarmed, and pickup a weapon
 	# Then the weapon at the primary slot will be dropped and replaced with the new weapon
 	if current_weapon.name == "unarmed":
-		weapons["Primary"].drop_weapon()
+		weapons["primary"].drop_weapon()
 		yield(get_tree(), "idle_frame")
 		add_weapon(weapon_data)
 	
@@ -289,11 +289,11 @@ func update_hud(weapon_data):
 	var weapon_slot = "1"
 	
 	match current_weapon_slot:
-		"Empty":
+		"empty":
 			weapon_slot = "1"
-		"Primary":
+		"primary":
 			weapon_slot = "2"
-		"Secondary":
+		"secondary":
 			weapon_slot = "3"
 	
 	hud.update_weapon_ui(weapon_data, weapon_slot)

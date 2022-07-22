@@ -1,13 +1,15 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://game/scenes/ui/fonts/font_en.tres" type="DynamicFont" id=1]
 [ext_resource path="res://game/scenes/ui/game/hud/crosshair.tscn" type="PackedScene" id=2]
+[ext_resource path="res://game/scripts/ui/hud/main_hud.gd" type="Script" id=3]
 
 [node name="main_hud" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_left = 80.0
 margin_right = 80.0
+script = ExtResource( 3 )
 
 [node name="background" type="ColorRect" parent="."]
 anchor_top = 1.0
@@ -24,7 +26,7 @@ margin_bottom = 48.0
 custom_fonts/font = ExtResource( 1 )
 text = "Health 100%"
 
-[node name="pistol" type="Label" parent="background"]
+[node name="weapon_ui" type="Label" parent="background"]
 margin_left = 177.0
 margin_top = 56.0
 margin_right = 308.0
