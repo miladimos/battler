@@ -5,8 +5,7 @@ class_name Armed
 export(PackedScene) var weapon_pickup
 
 # References
-var animation_player = null
-
+var animation_player
 
 # Weapon States
 var is_firing = false
@@ -16,6 +15,7 @@ var is_reloading = false
 export var ammo_in_mag = 15
 export var extra_ammo = 30
 onready var mag_size = ammo_in_mag
+
 export var damage = 10
 export var fire_rate = 1.0
 
@@ -45,6 +45,7 @@ var is_ads = false
 func _ready():
 	set_as_toplevel(true)
 	call_deferred("create_sway_pivot")
+
 
 
 # Fire Cycle

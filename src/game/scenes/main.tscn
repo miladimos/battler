@@ -1,4 +1,4 @@
-[gd_scene load_steps=18 format=2]
+[gd_scene load_steps=19 format=2]
 
 [ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
 [ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=2]
@@ -12,6 +12,7 @@
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot3_normal_roughness.packed_tex" type="Texture" id=10]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot1_albedo_bump.packed_tex" type="Texture" id=11]
 [ext_resource path="res://game/Levels/Main/L_Main.gd" type="Script" id=12]
+[ext_resource path="res://game/scenes/ui/game/hud/main_hud.tscn" type="PackedScene" id=13]
 [ext_resource path="res://game/scenes/player/enemy.tscn" type="PackedScene" id=15]
 [ext_resource path="res://game/resources/textures/terrain_textures/main_slot2_normal_roughness.packed_tex" type="Texture" id=16]
 
@@ -54,19 +55,10 @@ shader_params/u_depth_blending = true
 shader_params/u_triplanar = false
 shader_params/u_tile_reduction = Plane( 1, 1, 1, 1 )
 
-[node name="player" parent="." instance=ExtResource( 4 )]
-transform = Transform( 0.387113, 0, 0.922032, 0, 1, 0, -0.922032, 0, 0.387113, -5.03529, 41.6231, 0.141863 )
+[node name="Player" parent="." instance=ExtResource( 4 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.72646, -54.8134 )
 
 [node name="enemy" parent="." instance=ExtResource( 15 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -38.1372, 8.60353, 2.17417 )
 
-[node name="ui" type="Control" parent="."]
-margin_right = 1023.0
-margin_bottom = 524.0
-
-[node name="label" type="Label" parent="ui"]
-margin_left = 921.0
-margin_top = 553.0
-margin_right = 1025.0
-margin_bottom = 600.0
-text = "0/0"
+[node name="main_hud" parent="." instance=ExtResource( 13 )]

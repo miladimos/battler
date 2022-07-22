@@ -1,8 +1,8 @@
 [gd_scene load_steps=12 format=2]
 
-[ext_resource path="res://game/resources/models/weapons/rifiles/rifle_01/secondary.material" type="Material" id=1]
-[ext_resource path="res://game/resources/models/weapons/rifiles/rifle_01/primary.material" type="Material" id=2]
-[ext_resource path="res://game/resources/models/weapons/rifiles/rifle_01/tertiary.material" type="Material" id=3]
+[ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/secondary.material" type="Material" id=1]
+[ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/primary.material" type="Material" id=2]
+[ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/tertiary.material" type="Material" id=3]
 [ext_resource path="res://game/scripts/weapon/rifles/rifle.gd" type="Script" id=4]
 [ext_resource path="res://game/scenes/particles/weapons/muzzle_flash.tscn" type="PackedScene" id=5]
 

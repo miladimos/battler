@@ -81,7 +81,6 @@ func _process(delta):
 	set_process(false)
 
 
-
 func change_weapon(new_weapon_slot):
 	
 	if new_weapon_slot == current_weapon_slot:
