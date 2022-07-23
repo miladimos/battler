@@ -10,7 +10,7 @@ export var gravity: float = 0.98
 export var mouse_sensitivity: float = 0.1
 
 onready var head = $head
-onready var camera = $head/camera
+#onready var camera = $head/camera
 
 
 
@@ -25,7 +25,7 @@ export(NodePath) var weapon_manager_path
 export(NodePath) var wallrun_node_path
 
 # References
-#onready var camera = get_node(camera_path)
+onready var camera = get_node(camera_path)
 onready var weapon_camera = get_node(weapon_camera_path)
 onready var weapon_manager = get_node(weapon_manager_path)
 onready var wallrun_node = get_node(wallrun_node_path)
@@ -151,9 +151,9 @@ func _physics_process(delta):
 	process_movement_inputs()
 	process_vertical_movement(delta)
 	
-	process_wallrun()
-	process_wallrun_stamina()
-	process_wallrun_rotation(delta)
+	#process_wallrun()
+	#process_wallrun_stamina()
+	#process_wallrun_rotation(delta)
 	
 	process_movement(delta)
 

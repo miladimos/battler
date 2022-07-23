@@ -1,8 +1,10 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://game/scenes/ui/fonts/font_en.tres" type="DynamicFont" id=1]
 [ext_resource path="res://game/scenes/ui/game/hud/crosshair.tscn" type="PackedScene" id=2]
 [ext_resource path="res://game/scripts/ui/hud/main_hud.gd" type="Script" id=3]
+[ext_resource path="res://game/resources/hud/pistol_01_ui.png" type="Texture" id=4]
+[ext_resource path="res://game/scenes/ui/game/hud/stamina_bar/stamina_bar.tscn" type="PackedScene" id=5]
 
 [node name="main_hud" type="Control"]
 anchor_left = 0.5
@@ -52,9 +54,11 @@ align = 1
 valign = 1
 
 [node name="weapon_slot_texture" type="TextureRect" parent="background/display"]
-margin_right = 155.0
-margin_bottom = 112.0
-stretch_mode = 6
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource( 4 )
+expand = true
+stretch_mode = 7
 
 [node name="crosshair" parent="." instance=ExtResource( 2 )]
 visible = false
@@ -90,3 +94,5 @@ margin_bottom = 20.0
 text = "Interact"
 align = 1
 valign = 1
+
+[node name="stamina_bar" parent="." instance=ExtResource( 5 )]

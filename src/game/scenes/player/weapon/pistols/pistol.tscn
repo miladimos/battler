@@ -181,8 +181,12 @@ tracks/3/keys = PoolRealArray( 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0.0666667, 1,
 script = ExtResource( 2 )
 weapon_name = "pistol"
 weapon_image = ExtResource( 5 )
+fire_rate = 2.0
 impact_effect = ExtResource( 4 )
 muzzle_flash_path = NodePath("Root/Body/Skeleton/muzzle_flash")
+equip_speed = 2.0
+unequip_speed = 2.0
+reload_speed = 2.0
 
 [node name="Root" type="Spatial" parent="."]
 

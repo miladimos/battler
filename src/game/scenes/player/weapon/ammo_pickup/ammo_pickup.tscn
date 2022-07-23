@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=2]
 
-[ext_resource path="res://game/scenes/player/weapon/ammo_pickup/ammo_pickup.gd" type="Script" id=1]
+[ext_resource path="res://game/scripts/weapon/ammo_pickup.gd" type="Script" id=1]
 
 [sub_resource type="SpatialMaterial" id=1]
 flags_unshaded = true
@@ -34,7 +34,7 @@ tracks/0/keys = {
 script = ExtResource( 1 )
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
-transform = Transform( 0.831417, 0, 0.555649, 0, 1, 0, -0.555649, 0, 0.831417, 0, 0, 0 )
+transform = Transform( -0.976068, 0, 0.217468, 0, 1, 0, -0.217468, 0, -0.976068, 0, 0, 0 )
 mesh = SubResource( 2 )
 material/0 = null
 

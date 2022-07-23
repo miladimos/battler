@@ -165,19 +165,19 @@ func add_ammo(amount):
 # Add weapon to an existing empty slot
 func add_weapon(weapon_data):
 	
-	if not weapon_data["Name"] in all_weapons:
+	if not weapon_data["name"] in all_weapons:
 		return
 	
 	if is_instance_valid(weapons["primary"]) == false:
 		
 		# Instance the new weapon
-		var weapon = Global.instantiate_node(all_weapons[weapon_data["Name"]], Vector3.ZERO, self)
+		var weapon = Global.instantiate_node(all_weapons[weapon_data["name"]], Vector3.ZERO, self)
 		
 		# Initialize the new weapon references
 		weapon_setup(weapon)
-		weapon.ammo_in_mag = weapon_data["Ammo"]
-		weapon.extra_ammo = weapon_data["ExtraAmmo"]
-		weapon.mag_size = weapon_data["MagSize"]
+		weapon.ammo_in_mag = weapon_data["ammo"]
+		weapon.extra_ammo = weapon_data["extra_ammo"]
+		weapon.mag_size = weapon_data["mag_size"]
 		weapon.transform.origin = weapon.equip_pos
 		
 		# Update the dictionary and change weapon
@@ -189,13 +189,13 @@ func add_weapon(weapon_data):
 	if is_instance_valid(weapons["secondary"]) == false:
 		
 		# Instance the new weapon
-		var weapon = Global.instantiate_node(all_weapons[weapon_data["Name"]], Vector3.ZERO, self)
+		var weapon = Global.instantiate_node(all_weapons[weapon_data["name"]], Vector3.ZERO, self)
 		
 		# Initialize the new weapon references
 		weapon_setup(weapon)
-		weapon.ammo_in_mag = weapon_data["Ammo"]
-		weapon.extra_ammo = weapon_data["ExtraAmmo"]
-		weapon.mag_size = weapon_data["MagSize"]
+		weapon.ammo_in_mag = weapon_data["ammo"]
+		weapon.extra_ammo = weapon_data["extra_ammo"]
+		weapon.mag_size = weapon_data["mag_size"]
 		weapon.transform.origin = weapon.equip_pos
 		
 		# Update the dictionary and change weapon
@@ -241,8 +241,8 @@ func switch_weapon(weapon_data):
 	
 	# If the weapon to be picked up and the current weapon are same
 	# Theb the ammo of the new weapon is added to the currently equipped weapon
-	elif current_weapon.weapon_name == weapon_data["Name"]:
-		add_ammo(weapon_data["Ammo"] + weapon_data["ExtraAmmo"])
+	elif current_weapon.weapon_name == weapon_data["name"]:
+		add_ammo(weapon_data["ammo"] + weapon_data["extra_ammo"])
 	
 	
 	# If we already have an equipped weapon, then we drop it
@@ -256,7 +256,7 @@ func switch_weapon(weapon_data):
 
 # Interaction Prompt
 func show_interaction_prompt(weapon_name):
-	var desc = "Add Ammo" if current_weapon.weapon_name == weapon_name else "Equip"
+	var desc = "Add Ammo" if current_weapon.weapon_name == weapon_name else "equip"
 	hud.show_interaction_prompt(desc)
 
 func hide_interaction_prompt():
@@ -276,7 +276,7 @@ func process_weapon_pickup():
 		if body.has_method("get_weapon_pickup_data"):
 			var weapon_data = body.get_weapon_pickup_data()
 			
-			show_interaction_prompt(weapon_data["Name"])
+			show_interaction_prompt(weapon_data["name"])
 			
 			if Input.is_action_just_pressed("interact"):
 				switch_weapon(weapon_data)
