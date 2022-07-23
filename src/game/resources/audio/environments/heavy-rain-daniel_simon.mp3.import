@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/heavy-rain-daniel_simon.mp3-f5fb5f68d177c5a90f99400593fd2772.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/heavy-rain-daniel_simon.mp3"
+dest_files=[ "res://.import/heavy-rain-daniel_simon.mp3-f5fb5f68d177c5a90f99400593fd2772.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

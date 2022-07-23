@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/human-heartbeat-daniel_simon.mp3-3d892a4333c93809c7945c810d33acbc.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/human-heartbeat-daniel_simon.mp3"
+dest_files=[ "res://.import/human-heartbeat-daniel_simon.mp3-3d892a4333c93809c7945c810d33acbc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

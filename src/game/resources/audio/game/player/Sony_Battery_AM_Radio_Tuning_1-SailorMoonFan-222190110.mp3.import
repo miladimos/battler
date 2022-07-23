@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Sony_Battery_AM_Radio_Tuning_1-SailorMoonFan-222190110.mp3-72989552ddef321ebbad09dd8aa6b448.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/Sony_Battery_AM_Radio_Tuning_1-SailorMoonFan-222190110.mp3"
+dest_files=[ "res://.import/Sony_Battery_AM_Radio_Tuning_1-SailorMoonFan-222190110.mp3-72989552ddef321ebbad09dd8aa6b448.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

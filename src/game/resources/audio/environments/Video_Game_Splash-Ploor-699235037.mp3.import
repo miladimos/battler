@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Video_Game_Splash-Ploor-699235037.mp3-ab7f3d238548d438adbb7177ea983952.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/Video_Game_Splash-Ploor-699235037.mp3"
+dest_files=[ "res://.import/Video_Game_Splash-Ploor-699235037.mp3-ab7f3d238548d438adbb7177ea983952.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

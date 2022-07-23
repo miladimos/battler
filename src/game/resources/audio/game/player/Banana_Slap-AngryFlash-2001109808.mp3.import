@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Banana_Slap-AngryFlash-2001109808.mp3-862af842656d261e7fb17b89eb7b8284.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/Banana_Slap-AngryFlash-2001109808.mp3"
+dest_files=[ "res://.import/Banana_Slap-AngryFlash-2001109808.mp3-862af842656d261e7fb17b89eb7b8284.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

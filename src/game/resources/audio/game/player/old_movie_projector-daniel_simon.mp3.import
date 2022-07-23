@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/old_movie_projector-daniel_simon.mp3-e7d501497b4b353f46e353061e89a7e4.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/old_movie_projector-daniel_simon.mp3"
+dest_files=[ "res://.import/old_movie_projector-daniel_simon.mp3-e7d501497b4b353f46e353061e89a7e4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

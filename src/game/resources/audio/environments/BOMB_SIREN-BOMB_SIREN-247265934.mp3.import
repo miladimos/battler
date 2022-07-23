@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BOMB_SIREN-BOMB_SIREN-247265934.mp3-493a638cc33d387f5275fe68011b162c.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/BOMB_SIREN-BOMB_SIREN-247265934.mp3"
+dest_files=[ "res://.import/BOMB_SIREN-BOMB_SIREN-247265934.mp3-493a638cc33d387f5275fe68011b162c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/meadowlark_daniel-simion.mp3-e15afaf1331c761c230605f41ca98882.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/meadowlark_daniel-simion.mp3"
+dest_files=[ "res://.import/meadowlark_daniel-simion.mp3-e15afaf1331c761c230605f41ca98882.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

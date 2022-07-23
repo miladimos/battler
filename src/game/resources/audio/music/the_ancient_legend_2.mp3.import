@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/the_ancient_legend_2.mp3-6d5b716977ef5b84c1a991d1497ad32e.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/music/the_ancient_legend_2.mp3"
+dest_files=[ "res://.import/the_ancient_legend_2.mp3-6d5b716977ef5b84c1a991d1497ad32e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

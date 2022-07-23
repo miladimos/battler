@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Page_Turn-Mark_DiAngelo-1304638748.mp3-63defdc9f5fe218a706a3cedef5b80f5.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/Page_Turn-Mark_DiAngelo-1304638748.mp3"
+dest_files=[ "res://.import/Page_Turn-Mark_DiAngelo-1304638748.mp3-63defdc9f5fe218a706a3cedef5b80f5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

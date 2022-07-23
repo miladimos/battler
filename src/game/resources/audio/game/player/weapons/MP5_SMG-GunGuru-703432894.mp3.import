@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MP5_SMG-GunGuru-703432894.mp3-3a998fe434513e134b8854b3296997e3.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/weapons/MP5_SMG-GunGuru-703432894.mp3"
+dest_files=[ "res://.import/MP5_SMG-GunGuru-703432894.mp3-3a998fe434513e134b8854b3296997e3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

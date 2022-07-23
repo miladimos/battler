@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/large_trash_bag_2-mike-koenig.mp3-c1bfd73f2c7b36953903b31783268530.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/large_trash_bag_2-mike-koenig.mp3"
+dest_files=[ "res://.import/large_trash_bag_2-mike-koenig.mp3-c1bfd73f2c7b36953903b31783268530.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

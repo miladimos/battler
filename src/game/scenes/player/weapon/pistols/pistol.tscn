@@ -1,9 +1,10 @@
-[gd_scene load_steps=11 format=2]
+[gd_scene load_steps=12 format=2]
 
 [ext_resource path="res://game/resources/models/weapons/pistols/pistol_01/primary.material" type="Material" id=1]
 [ext_resource path="res://game/scripts/weapon/pistol/pistol.gd" type="Script" id=2]
 [ext_resource path="res://game/resources/models/weapons/pistols/pistol_01/secondary.material" type="Material" id=3]
 [ext_resource path="res://game/scenes/particles/weapons/muzzle_flash.tscn" type="PackedScene" id=4]
+[ext_resource path="res://game/resources/hud/pistol_01_ui.png" type="Texture" id=5]
 
 [sub_resource type="ArrayMesh" id=1]
 resource_name = "pistol_01_Cube"
@@ -178,6 +179,10 @@ tracks/3/keys = PoolRealArray( 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0.0666667, 1,
 
 [node name="pistol" type="Spatial"]
 script = ExtResource( 2 )
+weapon_name = "pistol"
+weapon_image = ExtResource( 5 )
+impact_effect = ExtResource( 4 )
+muzzle_flash_path = NodePath("Root/Body/Skeleton/muzzle_flash")
 
 [node name="Root" type="Spatial" parent="."]
 
@@ -211,7 +216,7 @@ skin = SubResource( 2 )
 material/0 = null
 material/1 = null
 
-[node name="muzzle_flash" parent="Root" instance=ExtResource( 4 )]
+[node name="muzzle_flash" parent="Root/Body/Skeleton" instance=ExtResource( 4 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.000350103, 0.0996724, -0.273779 )
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]

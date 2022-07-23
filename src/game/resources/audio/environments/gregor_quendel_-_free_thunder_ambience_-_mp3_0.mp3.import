@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gregor_quendel_-_free_thunder_ambience_-_mp3_0.mp3-5448e5eb904b09449b6408c1113db435.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/gregor_quendel_-_free_thunder_ambience_-_mp3_0.mp3"
+dest_files=[ "res://.import/gregor_quendel_-_free_thunder_ambience_-_mp3_0.mp3-5448e5eb904b09449b6408c1113db435.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

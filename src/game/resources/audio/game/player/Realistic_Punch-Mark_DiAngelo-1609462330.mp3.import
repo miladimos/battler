@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Realistic_Punch-Mark_DiAngelo-1609462330.mp3-fa9b8d3d32ee8747352da3980c614c6e.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/Realistic_Punch-Mark_DiAngelo-1609462330.mp3"
+dest_files=[ "res://.import/Realistic_Punch-Mark_DiAngelo-1609462330.mp3-fa9b8d3d32ee8747352da3980c614c6e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

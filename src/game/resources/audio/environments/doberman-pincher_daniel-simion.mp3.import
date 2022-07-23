@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/doberman-pincher_daniel-simion.mp3-cabac9a0d445c1fcc590d204f2a069f8.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/doberman-pincher_daniel-simion.mp3"
+dest_files=[ "res://.import/doberman-pincher_daniel-simion.mp3-cabac9a0d445c1fcc590d204f2a069f8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

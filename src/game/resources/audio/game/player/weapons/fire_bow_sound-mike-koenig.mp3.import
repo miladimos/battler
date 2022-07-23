@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fire_bow_sound-mike-koenig.mp3-d5243dd25cf3d10389f023d7768bf4d4.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/weapons/fire_bow_sound-mike-koenig.mp3"
+dest_files=[ "res://.import/fire_bow_sound-mike-koenig.mp3-d5243dd25cf3d10389f023d7768bf4d4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/GUN_FIRE-GoodSoundForYou-820112263.mp3-87338b2d165afa8f9b662fba74c95689.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/game/player/weapons/GUN_FIRE-GoodSoundForYou-820112263.mp3"
+dest_files=[ "res://.import/GUN_FIRE-GoodSoundForYou-820112263.mp3-87338b2d165afa8f9b662fba74c95689.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

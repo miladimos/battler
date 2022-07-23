@@ -1,10 +1,11 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/secondary.material" type="Material" id=1]
 [ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/primary.material" type="Material" id=2]
 [ext_resource path="res://game/resources/models/weapons/rifles/rifle_01/tertiary.material" type="Material" id=3]
 [ext_resource path="res://game/scripts/weapon/rifles/rifle.gd" type="Script" id=4]
 [ext_resource path="res://game/scenes/particles/weapons/muzzle_flash.tscn" type="PackedScene" id=5]
+[ext_resource path="res://game/resources/hud/rifle_01_ui.png" type="Texture" id=6]
 
 [sub_resource type="ArrayMesh" id=1]
 resource_name = "rifle_01_Cube"
@@ -129,6 +130,10 @@ tracks/1/keys = PoolRealArray( 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0.0666667, 1,
 
 [node name="rifle" type="Spatial"]
 script = ExtResource( 4 )
+weapon_name = "rifle"
+weapon_image = ExtResource( 6 )
+impact_effect = ExtResource( 5 )
+muzzle_flash_path = NodePath("Root/muzzle_flash")
 
 [node name="Root" type="Spatial" parent="."]
 

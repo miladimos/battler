@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Rain_Inside_House-Mark_DiAngelo-323934112.mp3-cd8c839b8fff3ed22678aac1de055367.mp3str"
+
+[deps]
+
+source_file="res://game/resources/audio/environments/Rain_Inside_House-Mark_DiAngelo-323934112.mp3"
+dest_files=[ "res://.import/Rain_Inside_House-Mark_DiAngelo-323934112.mp3-cd8c839b8fff3ed22678aac1de055367.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
