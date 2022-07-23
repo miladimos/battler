@@ -152,6 +152,10 @@ player_weapon_grenade={
 3d_physics/layer_3="Enemy"
 3d_physics/layer_4="World"
 
+[locale]
+
+locale_filter=[ 0, [ "en" ] ]
+
 [physics]
 
 common/enable_pause_aware_picking=true

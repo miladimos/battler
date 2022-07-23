@@ -20,17 +20,17 @@ func _ready():
 
 func update_weapon_ui(weapon_data, weapon_slot):
 	slot_ui.text = weapon_slot
-	display_ui.texture = weapon_data["Image"]
+	display_ui.texture = weapon_data["image"]
 	
-	if weapon_data["Name"] == "Unarmed":
-		weapon_ui.text = weapon_data["Name"]
+	if weapon_data["name"] == "unarmed":
+		weapon_ui.text = weapon_data["name"]
 		return
 	
-	weapon_ui.text = weapon_data["Name"] + ": " + weapon_data["Ammo"] + "/" + weapon_data["ExtraAmmo"]
+	weapon_ui.text = weapon_data["name"] + ": " + weapon_data["ammo"] + "/" + weapon_data["extra_ammo"]
 
 
 # Show/Hide interaction prompt
-func show_interaction_prompt(description = "Interact"):
+func show_interaction_prompt(description = "interact"):
 	$interaction.visible = true
 	$interaction/description.text = description
 	$crosshair.visible = false

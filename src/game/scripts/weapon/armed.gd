@@ -12,6 +12,7 @@ var animation_player = null
 var is_firing = false
 var is_reloading = false
 
+
 # Weapon Parameters
 export var ammo_in_mag = 15
 export var extra_ammo = 30
@@ -61,7 +62,7 @@ func fire():
 		elif is_firing:
 			fire_stop()
 
-func fire_stop():
+func fire_stop() -> void:
 	is_firing = false
 	animation_player.get_animation("Fire").loop = false
 
@@ -77,10 +78,8 @@ func fire_bullet():    # Will be called from the animation track
 		impact.emitting = true
 
 
-
-
 # Reload
-func reload():
+func reload() -> void:
 	if ammo_in_mag < mag_size and extra_ammo > 0:
 		is_firing = false
 		
@@ -89,23 +88,21 @@ func reload():
 
 
 
-
-
 # Equip/Unequip Cycle
-func equip():
+func equip() -> void:
 	animation_player.play("Equip", -1.0, equip_speed)
 	is_reloading = false
 
 func unequip():
 	animation_player.play("Unequip", -1.0, unequip_speed)
 
-func is_equip_finished():
+func is_equip_finished() -> bool:
 	if is_equipped:
 		return true
 	else:
 		return false
 
-func is_unequip_finished():
+func is_unequip_finished() -> bool:
 	if is_equipped:
 		return false
 	else:

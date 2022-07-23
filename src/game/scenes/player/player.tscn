@@ -1,12 +1,15 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=15 format=2]
 
 [ext_resource path="res://game/scripts/player/player.gd" type="Script" id=1]
-[ext_resource path="res://game/scenes/ui/game/hud/main_hud.tscn" type="PackedScene" id=4]
+[ext_resource path="res://game/resources/hud/pistol_01_ui.png" type="Texture" id=2]
+[ext_resource path="res://game/resources/hud/rifle_01_ui.png" type="Texture" id=3]
+[ext_resource path="res://game/resources/hud/White.png" type="Texture" id=4]
 [ext_resource path="res://game/scenes/player/weapon/unarmed/unarmed.tscn" type="PackedScene" id=5]
 [ext_resource path="res://game/scripts/weapon/weapon_manager.gd" type="Script" id=6]
 [ext_resource path="res://game/scenes/player/weapon/pistols/pistol.tscn" type="PackedScene" id=7]
 [ext_resource path="res://game/scenes/player/weapon/rifles/rifle.tscn" type="PackedScene" id=8]
 [ext_resource path="res://game/scripts/weapon/weapon_camera.gd" type="Script" id=9]
+[ext_resource path="res://game/scenes/particles/weapons/muzzle_flash.tscn" type="PackedScene" id=10]
 
 [sub_resource type="CapsuleMesh" id=1]
 
@@ -78,15 +81,22 @@ script = ExtResource( 6 )
 ray_path = NodePath("../HeadBob/Camera/RayCast")
 
 [node name="unarmed" parent="CamRoot/Wallrun/Weapons" instance=ExtResource( 5 )]
+weapon_name = "unarmed"
+weapon_image = ExtResource( 4 )
 
 [node name="pistol" parent="CamRoot/Wallrun/Weapons" instance=ExtResource( 7 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.38, -0.22, -0.621 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.38, -0.22, -0.667581 )
+weapon_name = "pistol "
+weapon_image = ExtResource( 2 )
+impact_effect = ExtResource( 10 )
 
 [node name="rifle" parent="CamRoot/Wallrun/Weapons" instance=ExtResource( 8 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.368, -0.208, -0.585 )
 visible = false
-
-[node name="HUD" parent="." instance=ExtResource( 4 )]
+weapon_image = ExtResource( 3 )
+ammo_in_mag = 30
+extra_ammo = 90
+impact_effect = ExtResource( 10 )
 
 [node name="ViewportContainer" type="ViewportContainer" parent="."]
 anchor_right = 1.0

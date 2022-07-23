@@ -1,6 +1,5 @@
 extends Node
 
-
 export var controller_path := NodePath("../")
 onready var controller: MovementController = get_node(controller_path)
 

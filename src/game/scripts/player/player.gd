@@ -212,9 +212,9 @@ func process_vertical_movement(delta):
 		is_wallrun_jumping = true
 		
 		# Determines the wall_jump_dir
-		if side == "LEFT":
+		if side == "left":
 			wall_jump_dir = global_transform.basis.x * wall_jump_horizontal_power
-		elif side == "RIGHT":
+		elif side == "right":
 			wall_jump_dir = -global_transform.basis.x * wall_jump_horizontal_power
 		
 		# Determines the effect of wall jump direction compared to movement inputs (dir - w,a,s,d)
@@ -266,11 +266,11 @@ func process_movement_effects(speed, delta):
 	
 	# Head Bobbing
 	if velocity_info.length() < 3.0 or (is_on_floor() == false and is_wallrunning == false):
-		$AnimationPlayer.play("HeadBob", 0.1, 0.2)
+		$AnimationPlayer.play("head_bob", 0.1, 0.2)
 	elif velocity_info.length() <= SPEED:
-		$AnimationPlayer.play("HeadBob", 0.1, 1.0)
+		$AnimationPlayer.play("head_bob", 0.1, 1.0)
 	else:
-		$AnimationPlayer.play("HeadBob", 0.1, 1.5)
+		$AnimationPlayer.play("head_bob", 0.1, 1.5)
 	
 	# Sprint Effect
 	if speed == SPRINT_SPEED and velocity_info.length() > 3.0 and is_wallrunning == false:
@@ -341,10 +341,10 @@ func process_wallrun_rotation(delta):
 	# Tilt the view
 	if is_wallrunning:
 		
-		if side == "RIGHT":
+		if side == "right":
 			wallrun_current_angle += delta * 70
 			wallrun_current_angle = clamp(wallrun_current_angle, -wallrun_angle, wallrun_angle)
-		elif side == "LEFT":
+		elif side == "left":
 			wallrun_current_angle -= delta * 70
 			wallrun_current_angle = clamp(wallrun_current_angle, -wallrun_angle, wallrun_angle)
 	
@@ -391,19 +391,19 @@ func get_side(point):
 	point = to_local(point)
 	
 	if point.x > 0:
-		return "RIGHT"
+		return "right"
 	elif point.x < 0:
-		return "LEFT"
+		return "left"
 	else:
-		return "CENTER"
+		return "center"
 
 func process_weapons(delta):
 	if Input.is_action_just_pressed("empty"):
-		weapon_manager.change_weapon("Empty")
+		weapon_manager.change_weapon("empty")
 	if Input.is_action_just_pressed("primary"):
-		weapon_manager.change_weapon("Primary")
+		weapon_manager.change_weapon("primary")
 	if Input.is_action_just_pressed("secondary"):
-		weapon_manager.change_weapon("Secondary")
+		weapon_manager.change_weapon("secondary")
 	
 	# Firing
 	if Input.is_action_pressed("fire"):
@@ -423,7 +423,7 @@ func process_weapons(delta):
 	weapon_manager.process_weapon_pickup()
 	
 	# Weapon Sway
-	if weapon_manager.current_weapon.name != "Unarmed":
+	if weapon_manager.current_weapon.name != "unarmed":
 		weapon_manager.current_weapon.sway(delta)
 	
 	# Weapon ADS

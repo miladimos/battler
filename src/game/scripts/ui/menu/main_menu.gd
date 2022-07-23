@@ -9,7 +9,6 @@ func _ready():
 	#btn_start.grab_fucus()
 	pass
 
-
 func _on_btn_start_pressed():
 	get_tree().change_scene("res://game/scenes/main.tscn")
 

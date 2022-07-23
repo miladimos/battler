@@ -20,7 +20,9 @@ todo:
 [] - design advance ui menu
 [] - design advance ui menu
 
+add small logo for classes (weapon, player , ...)
 
+add bow weapon
 
 server:
 

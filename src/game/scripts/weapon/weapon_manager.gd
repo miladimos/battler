@@ -13,17 +13,20 @@ var weapons = {}
 var hud
 
 var current_weapon # Reference to the current weapon equipped
-var current_weapon_slot = "empty" # The current weapon slot
+var current_weapon_slot: String = "empty" # The current weapon slot
 
-var changing_weapon = false
-var unequipped_weapon = false
+var changing_weapon: bool = false
+var unequipped_weapon: bool = false
 
-var weapon_index = 0 # For switching weapons through mouse wheel
+var weapon_index: int = 0 # For switching weapons through mouse wheel
 
+# examples
+#enum {UNIT_NEUTRAL, UNIT_ENEMY, UNIT_ALLY}
+#enum Named {THING_1, THING_2, ANOTHER_THING = -1}
 
 func _ready():
 	
-	hud = owner.get_node("main_hud")
+	hud = get_node("/root/MainScene/main_hud")
 
 	get_node(ray_path).add_exception(owner) # Adds exception of player to the shooting raycast
 	
